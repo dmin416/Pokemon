@@ -1,0 +1,98 @@
+# Pokemon Sounds (Rancher, Ch. 301-400)
+
+Short cry / longer sentence-length sound, each entry.
+
+See also [`Pokemon-Sounds.md`](Pokemon-Sounds.md) (Ch. 1–100), [`Pokemon-Sounds-101-200.md`](Pokemon-Sounds-101-200.md), [`Pokemon-Sounds-201-300.md`](Pokemon-Sounds-201-300.md).
+
+---
+
+## Short / long cries
+
+- **Accelgor**: A-cceeeee. / A-A-cce-A-lgooooor-lgor...
+- **Aerodactyl**: Ae-roooo~ / Ae-Ae-ro-Ae-ctyl-ctyl!
+- **Anorith**: A-noooo~ / A-A-no-A-riiiith-rith~
+- **Bellossom**: Be-llooo! / Be-Be-llo-Be-ssooooom-ssom...
+- **Bellsprout**: Be-llsprouuuuut~ / Be-Be-llsprout-Be-llsprouuuut-llsprout.
+- **Blissey**: BLI-sseeey! / Bli-Bli-ssey-Bli-sseeey-ssey~
+- **Bronzor**: Bro-nzooor. / Bro-Bro-nzor-Bro-nzooor-nzor...
+- **Carbink**: Ca-rbiiiiink~ / Ca-Ca-rbink-Ca-rbiiiiink-rbink~
+- **Carvanha**: Ca-rvaaaa~ / Ca-Ca-rva-Ca-nhaaaa-nha!
+- **Celebi**: Ce-leeeee! / CE-Ce-le-Ce-biiiii-bi~
+- **Clamperl**: Cla-mpeeerl! / Cla-Cla-mperl-Cla-mpeeeeerl-mperl!
+- **Corphish**: Co-rphiiiish~ / Co-Co-rphish-Co-rphiiiish-rphish~
+- **Cranidos**: Cra-niiii... / CRA-Cra-ni-Cra-dooos-dos!
+- **Crawdaunt**: Cra-wdauuunt! / CRA-Cra-wdaunt-Cra-wdauuuunt-wdaunt.
+- **Croagunk**: Croa-guuuunk! / Croa-Croa-gunk-Croa-guuunk-gunk~
+- **Cutiefly**: Cu-tieeeee~ / Cu-Cu-tie-Cu-fly-fly!
+- **Diancie**: DIA-ncieeeee! / Dia-Dia-ncie-Dia-ncieeee-ncie~
+- **Druddigon**: Dru-ddiiii... / Dru-Dru-ddi-Dru-gooon-gon!
+- **Eelektross**: Ee-leeeee... / Ee-Ee-le-Ee-ktroooooss-ktross.
+- **Electrode**: E-leee~ / E-E-le-E-deeee-de!
+- **Escavalier**: E-scaaa. / E-E-sca-E-lieeeer-lier~
+- **Fezandipiti**: Fe-zaaa~ / Fe-Fe-za-Fe-tiiii-ti!
+- **Flabébé**: Flaaaaabb~ / Flabb-Flabb-Flaaaabb-Flabb-Flaaaaabb.
+- **Garchomp**: GA-rchooomp~ / Ga-Ga-rchomp-Ga-rchooomp-rchomp...
+- **Gastly**: GA-stly! / Ga-Ga-stly-Ga-stly-stly~
+- **Gible**: Gi-bleeee. / Gi-Gi-ble-Gi-bleeeee-ble!
+- **Glameow**: Gla-meooow! / Gla-Gla-meow-Gla-meooooow-meow!
+- **Gloom**: Glooooom! / Gloom-Gloom-Glooooom-Gloom-Gloooooom~
+- **Goomy**: Goo-my~ / Goo-Goo-my-Goo-my-my!
+- **Gorebyss**: Go-reeeee... / Go-Go-re-Go-byss-byss!
+- **Grookey**: Groo-keeeey... / GROO-Groo-key-Groo-keeeeey-key...
+- **Grovyle**: Gro-vy! / GRO-Gro-vy-Gro-leeeee-le!
+- **Grumpig**: Gru-mpiiiiig! / Gru-Gru-mpig-Gru-mpiiig-mpig...
+- **Hoothoot**: Hoo-thooooot! / Hoo-Hoo-thoot-Hoo-thooooot-thoot!
+- **Houndoom**: HOU-ndoooooom... / HOU-Hou-ndoom-Hou-ndoooooom-ndoom.
+- **Houndour**: HOU-ndouuuur... / Hou-Hou-ndour-Hou-ndouuuur-ndour!
+- **Huntail**: HU-ntaiiil~ / HU-Hu-ntail-Hu-ntaiiiiil-ntail.
+- **Hydreigon**: Hy-dreiii! / Hy-Hy-drei-Hy-gooon-gon...
+- **Illumise**: I-lluuuuu~ / I-I-llu-I-seeeee-se!
+- **Infernape**: I-nfeeee... / I-I-nfe-I-peeee-pe!
+- **Jangmo-o**: Ja-ngmoooo! / Ja-Ja-ngmoo-Ja-ngmoooo-ngmoo!
+- **Jirachi**: JI-raaa. / JI-Ji-ra-Ji-chiiiii-chi!
+- **Kabuto**: KA-buuuuu. / Ka-Ka-bu-Ka-toooo-to.
+- **Kommo-o**: Ko-mmoooo... / Ko-Ko-mmoo-Ko-mmooooo-mmoo...
+- **Landorus**: La-ndoooo~ / La-La-ndo-La-ruuuuus-rus!
+- **Latias**: La-tiaaaas. / LA-La-tias-La-tiaaaaas-tias!
+- **Latios**: LA-tioooos! / LA-La-tios-La-tioooos-tios...
+- **Lileep**: Li-leeeep! / Li-Li-leep-Li-leeeep-leep!
+- **Luvdisc**: Lu-vdiiiiisc! / Lu-Lu-vdisc-Lu-vdiiiiisc-vdisc!
+- **Luxray**: Lu-xraaaaay. / LU-Lu-xray-Lu-xraaay-xray!
+- **Mandibuzz**: Ma-ndiiii! / Ma-Ma-ndi-Ma-buuuzz-buzz!
+- **Meltan**: Me-ltaaan! / Me-Me-ltan-Me-ltaaan-ltan!
+- **Mimikyu**: MI-miii! / MI-Mi-mi-Mi-kyuuuuu-kyu...
+- **Minccino**: Mi-ncciiii! / Mi-Mi-ncci-Mi-noooo-no...
+- **Mismagius**: Mi-smaaaa! / Mi-Mi-sma-Mi-giuuus-gius~
+- **Mudkip**: Mu-dkiiip... / Mu-Mu-dkip-Mu-dkiiiiip-dkip~
+- **Muk**: Muuuk! / Muk-Muk-Muuuk-Muk-Muuuuk...
+- **Munkidori**: Mu-nkiiii. / Mu-Mu-nki-Mu-riiii-ri~
+- **Nidoking**: Ni-dooooo. / Ni-Ni-do-Ni-kiiing-king!
+- **Ogerpon**: O-geeeee. / O-O-ge-O-rpooooon-rpon...
+- **Omanyte**: O-maaa. / O-O-ma-O-teee-te...
+- **Oricorio**: O-riiiii... / O-O-ri-O-riooo-rio.
+- **Pecharunt**: PE-chaaaa! / Pe-Pe-cha-Pe-ruuuunt-runt~
+- **Pichu**: Pi-chuuuuu... / PI-Pi-chu-Pi-chuuuuu-chu!
+- **Piplup**: Pi-pluuup~ / Pi-Pi-plup-Pi-pluuuup-plup!
+- **Poltchageist**: Po-ltchaaaa! / Po-Po-ltcha-Po-geiiiiist-geist~
+- **Ponyta**: Po-ny... / Po-Po-ny-Po-taaaaa-ta!
+- **Poochyena**: Poo-chyeeee! / POO-Poo-chye-Poo-naaaa-na~
+- **Purugly**: Pu-ruuuuu! / Pu-Pu-ru-Pu-gly-gly!
+- **Relicanth**: Re-liiii. / RE-Re-li-Re-caaaanth-canth.
+- **Revavroom**: RE-vaaaa! / Re-Re-va-Re-vroooooom-vroom...
+- **Scizor**: SCI-zooor. / Sci-Sci-zor-Sci-zoooor-zor~
+- **Sentret**: Se-ntreeeeet! / Se-Se-ntret-Se-ntreeeet-ntret!
+- **Sharpedo**: Sha-rpeee! / SHA-Sha-rpe-Sha-doooo-do...
+- **Shieldon**: Shie-ldooon~ / Shie-Shie-ldon-Shie-ldooooon-ldon.
+- **Slowking**: Slo-wkiiiiing! / Slo-Slo-wking-Slo-wkiiiing-wking!
+- **Spinarak**: Spi-naaa! / Spi-Spi-na-Spi-raaaaak-rak!
+- **Spinda**: Spi-ndaaaa~ / Spi-Spi-nda-Spi-ndaaa-nda.
+- **Starly**: STA-rly. / Sta-Sta-rly-Sta-rly-rly!
+- **Stonjourner**: Sto-njouuuuu! / Sto-Sto-njou-Sto-rneeeer-rner!
+- **Totodile**: TO-toooo! / TO-To-to-To-leee-le...
+- **Tynamo**: Ty-naaaaa~ / Ty-Ty-na-Ty-mooooo-mo!
+- **Ursaluna**: U-rsaaaa! / U-U-rsa-U-naaa-na!
+- **Vanilluxe**: Va-niiiii. / Va-Va-ni-Va-xeee-xe!
+- **Vibrava**: Vi-braaaa! / Vi-Vi-bra-Vi-vaaa-va...
+- **Volbeat**: Vo-lbeaaaat~ / VO-Vo-lbeat-Vo-lbeaaat-lbeat...
+- **Weavile**: Wea-viii. / Wea-Wea-vi-Wea-leee-le~
+- **Wooper**: Woo-peeeer! / Woo-Woo-per-Woo-peeer-per...

@@ -6,9 +6,11 @@ Memories flood in of unknown parents, Pokémon living with people, and lives bef
 
 The first owner was Naoki, from Paldea before moving to Hoenn; he lost his parents to illness, sold everything, and wandered for years.
 
-Chu Feng, a Taiwanese game developer from the modern world, then took that body to escape crunch and loans, yearned for a Pokémon world, and got to go on his trainer adventure.
+Chu Feng, a Taiwanese game developer from the modern world, then took that body to escape crunch and loans, yearned for another world, and tried trainer life before returning to the ranch.
 
-Then D took the body over and recognized the Pokémon world from the memories he saw.
+Caught between needed farm work and the joy of escaping responsibilities he had fled, he took a bottle of sleeping pills to escape into an eternal dream.
+
+Then D took the body over, gave a moment of silence for Chu Feng, and grinned when he recognized the Pokémon world from the memories he saw.
 
 Hungry at 2:00 AM, D boils instant ramen on the stove while remembering the ranch's past prosperity with crops, Miltank, Wooloo, and Combee honey.
 
@@ -24,23 +26,23 @@ He eats the too-salty noodles anyway and starts testing what this golden finger 
 
 D cannot test the golden finger yet with no Pokémon around and almost no money.
 
-He counts about 2300 in the backpack with only a few clothes and three more instant noodle packs, too little to travel on.
+He has woken in worlds with nothing at all, and in his first life ancestral sins left a debt he could never repay alone, so spare clothes, three noodle packs, and about 2300 League coins feel relaxed and comfortable by comparison.
 
 After cleaning up he sleeps hard, free of work and mortgage worry for once.
 
-Next morning the mayor of Porto Marinada knocks with a young Cyclizar.
+Next morning Mayor Lewis of Porto Marinada knocks in a green shirt, yellow tie, brown vest and brown leather cap, with a young Cyclizar.
 
-Memories show the first owner met the mayor yesterday and was assumed to be staying to run the grandfather's ranch.
+Memories show the first owner met the mayor yesterday about the grandfather's ranch and never gave a clear answer on staying.
 
-The mayor leaves his Cyclizar's child for company and ranch help and asks D to take care of it.
+Lewis came to see if D had made up his mind, then leaves his Cyclizar's child for company and ranch help and asks D to take care of it.
 
 D wants a Pokémon of his own, has no Poké Balls, and sees no reason to refuse.
 
 ---
 
-# 3: Chapter 3: Hot Soup Noodles
+# 3: Chapter 3: Instant Noodles
 
-D cooks a careful bowl of hot soup noodles with salt and chicken powder, no fancy toppings.
+D cooks instant noodles with more water than yesterday, no fancy toppings.
 
 The appraisal rates it Hot Soup Noodles (C-) with Cold Resistance lv1 for 30 minutes.
 

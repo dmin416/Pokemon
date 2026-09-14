@@ -8,8 +8,8 @@ Date stamps and chapter beat order still follow [`Story 1 References/Dates.md`](
 
 ## Cast and naming
 
-1. **Protagonist is D**, not Naoki (直樹 / 直树). Prior body owners are still **Naoki** (original native) and **Chu Feng** (modern-world Taiwanese game developer). Applied in Story 1 English drafts, Chinese dumps, and related Inspiration/reference text used for this story.
-2. **Mayor is Lewis**, not Thomas (托馬斯). English and Story 1 Chinese use Lewis / 劉易斯.
+1. **Protagonist is D**, not Naoki (直樹 / 直树). Prior body owners are **Naoki** (original native) and **Chu Feng** (modern-world Taiwanese game developer). Applied in Story 1 English drafts, Chinese dumps, and related Inspiration/reference text used for this story.
+2. **Mayor is Lewis**, not Thomas (托馬斯). English and Story 1 Chinese use Lewis / 劉易斯. Appearance: green shirt, yellow tie, brown vest and brown leather cap (soft and kind around the eyes).
 3. **Carpenter is Robin**, not Keri (克麗). English and Story 1 Chinese use Robin / 羅賓.
 4. Place and people use Story 1 / official English forms where set (e.g. **Porto Marinada**, **Mayor Lewis**, **Zack**, **Robin**, **Cyclizar**, **Koraidon**). Prefer official English Pokémon terms in translation.
 
@@ -25,8 +25,14 @@ Date stamps and chapter beat order still follow [`Story 1 References/Dates.md`](
 
 10. English chapters are a **rewrite**, not a line-for-line gloss: shorter paragraphs, clearer beats, no em dashes.
 11. Ch1: when using leftover food, D **thanks** the prior owner under his breath (source has an apology).
-12. **Body owners:** (1) **Naoki**, original native Paldea/Hoenn rancher lineage, parents die, wanders, no Pokémon; (2) **Chu Feng**, modern-world Taiwanese game developer with severe depression, transmigrates into the body, reaches the farm, feels happy and relaxed, then kills himself there; (3) current **D** wakes in the body. Source collapses this into one prior owner who returns and dies at the ranch.
+12. **Body owners:**
+    - (1) **Naoki** — original native Paldea/Hoenn rancher lineage; parents die; wanders; no Pokémon.
+    - (2) **Chu Feng** — modern-world Taiwanese game developer with severe depression; yearns for another world; escapes crunch, shipping pressure and loans by transmigrating; tries trainer life; at twenty returns to the ranch left to the first Naoki; caught between needed farm work and the joy of escaping responsibilities he fled; takes a bottle of sleeping pills to escape into an eternal dream.
+    - (3) **D** — wakes in the body; gives a moment of silence for Chu Feng before grinning at the Pokémon world.
+    - Source collapses this into one prior owner who returns and dies at the ranch.
 13. **Culinary Master** (cooking cheat / dish UI) comes from **Chu Feng’s** work and memories as a game developer, not from D’s company. Current D recognizes the panel through those inherited memories.
+14. **D’s past:** he has woken in worlds with nothing at all. In his first life, the sins of his ancestors left a debt he could never repay on his own. Early Ch2 thin funds (about 2,300 League coins, spare clothes, dried noodles) read relaxed and comfortable next to that, not despairing.
+15. **Ch2 Lewis visit:** Naoki did not clearly answer whether he would stay and look after the ranch. Lewis returns next morning to see if the mind is made up, then offers the young Cyclizar.
 
 ## Still open / not decided
 
@@ -42,7 +48,10 @@ Date stamps and chapter beat order still follow [`Story 1 References/Dates.md`](
 | 2026-09 | D rename; League +100; Ch1 thank; Chapters 1–10 English draft started |
 | 2026-09 | Mayor Thomas → Lewis |
 | 2026-09 | Carpenter Keri → Robin |
-| 2026-09 | Second body owner: depression, finds peace at the farm, then suicide; current D is third |
-| 2026-09 | Second owner named Naoki; Culinary Master from Naoki’s memories, not D’s company |
-| 2026-09 | Naoki 1 = original native; Naoki 2 = Chinese suicide game developer; Culinary Master from Naoki 2 |
-| 2026-09 | Second owner renamed Chu Feng (Taiwanese modern-world game developer); Naoki kept for first owner only |
+| 2026-09 | Three body owners: Naoki (native), then Chu Feng (Taiwanese modern-world game developer), then D |
+| 2026-09 | Culinary Master from Chu Feng’s memories, not D’s company |
+| 2026-09 | Chu Feng: yearns for another world; farm work vs escaped responsibilities; sleeping pills / eternal dream |
+| 2026-09 | Ch1: D moment of silence for Chu Feng before grinning |
+| 2026-09 | Ch2: D relaxed about thin funds vs prior worlds / ancestral debt |
+| 2026-09 | Lewis look: green shirt, yellow tie, brown vest, brown leather cap |
+| 2026-09 | Ch2: Lewis returns because Naoki never answered about staying on the ranch |

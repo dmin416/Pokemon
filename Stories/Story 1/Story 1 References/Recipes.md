@@ -14,11 +14,11 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 
 ### Hot Soup Noodles (C-)
 
-- Source: instant noodles + salt + chicken powder
+- Source: instant noodles + more water than Ch.1
 - Rating: C-
 - Tier: Level 1
 - Effect: Cold Resistance lv1 for 30 minutes
-- Notes: Missing key ingredients so flavor is thin. Warms the stomach. Confirmed on Cyclizar.
+- Notes: Noodles and seasonings are cheap but well handled. Missing key toppings. Warms the stomach. Confirmed on Cyclizar.
 - First made: Chapter 3
 
 ### Hot Soup Noodles (C)
