@@ -6,7 +6,7 @@ Memories flood in of unknown parents, Pokémon living with people, and lives bef
 
 The first owner was Naoki, from Paldea before moving to Hoenn; he lost his parents to illness, sold everything, and wandered for years.
 
-A second Naoki, a Chinese game developer from another world, then took that body to escape crunch and loans, yearned for a Pokémon world, and got to go on his trainer adventure.
+Chu Feng, a Taiwanese game developer from the modern world, then took that body to escape crunch and loans, yearned for a Pokémon world, and got to go on his trainer adventure.
 
 Then D took the body over and recognized the Pokémon world from the memories he saw.
 
@@ -14,7 +14,7 @@ Hungry at 2:00 AM, D boils instant ramen on the stove while remembering the ranc
 
 A food-appraisal window appears over the instant ramen, then rates his finished salt-heavy noodles as D- Clear Soup Noodles.
 
-He recognizes the interface from Culinary Master through the second Naoki’s memories (the Chinese developer who died at the farm), and guesses dishes can now give Pokémon bonuses.
+He recognizes the interface from Culinary Master through Chu Feng’s memories (the Taiwanese developer who died at the farm), and guesses dishes can now give Pokémon bonuses.
 
 He eats the too-salty noodles anyway and starts testing what this golden finger can do.
 

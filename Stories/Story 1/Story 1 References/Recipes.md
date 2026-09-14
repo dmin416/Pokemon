@@ -97,7 +97,7 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Rating: C-
 - Tier: Level 1 (RNG skill effect)
 - Effect: Skill Refinement — after eating, a Pokémon's move randomly changes (power up/down, forget, specialize, or learn new)
-- Notes: Caterpie learned Electroweb. D forbids casual remakes until the new move is mastered (Chapter 17). Double-edged; Naoki 2’s Culinary Master memories warn of wipeouts.
+- Notes: Caterpie learned Electroweb. D forbids casual remakes until the new move is mastered (Chapter 17). Double-edged; Chu Feng’s Culinary Master memories warn of wipeouts.
 - First made: Chapter 16
 
 ### Steamed Green Grass (D-)

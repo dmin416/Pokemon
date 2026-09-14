@@ -8,7 +8,7 @@ Date stamps and chapter beat order still follow [`Story 1 References/Dates.md`](
 
 ## Cast and naming
 
-1. **Protagonist is D**, not Naoki (直樹 / 直树). Prior body owners are still **Naoki 1** (original native) and **Naoki 2** (Chinese game developer). Applied in Story 1 English drafts, Chinese dumps, and related Inspiration/reference text used for this story.
+1. **Protagonist is D**, not Naoki (直樹 / 直树). Prior body owners are still **Naoki** (original native) and **Chu Feng** (modern-world Taiwanese game developer). Applied in Story 1 English drafts, Chinese dumps, and related Inspiration/reference text used for this story.
 2. **Mayor is Lewis**, not Thomas (托馬斯). English and Story 1 Chinese use Lewis / 劉易斯.
 3. **Carpenter is Robin**, not Keri (克麗). English and Story 1 Chinese use Robin / 羅賓.
 4. Place and people use Story 1 / official English forms where set (e.g. **Porto Marinada**, **Mayor Lewis**, **Zack**, **Robin**, **Cyclizar**, **Koraidon**). Prefer official English Pokémon terms in translation.
@@ -25,8 +25,8 @@ Date stamps and chapter beat order still follow [`Story 1 References/Dates.md`](
 
 10. English chapters are a **rewrite**, not a line-for-line gloss: shorter paragraphs, clearer beats, no em dashes.
 11. Ch1: when using leftover food, D **thanks** the prior owner under his breath (source has an apology).
-12. **Body owners:** (1) **Naoki 1**, original native Paldea/Hoenn rancher lineage, parents die, wanders, no Pokémon; (2) **Naoki 2**, Chinese game developer with severe depression, transmigrates into the body, reaches the farm, feels happy and relaxed, then kills himself there; (3) current **D** wakes in the body. Source collapses this into one prior owner who returns and dies at the ranch.
-13. **Culinary Master** (cooking cheat / dish UI) comes from **Naoki 2’s** work and memories as a game developer, not from D’s company. Current D recognizes the panel through those inherited memories.
+12. **Body owners:** (1) **Naoki**, original native Paldea/Hoenn rancher lineage, parents die, wanders, no Pokémon; (2) **Chu Feng**, modern-world Taiwanese game developer with severe depression, transmigrates into the body, reaches the farm, feels happy and relaxed, then kills himself there; (3) current **D** wakes in the body. Source collapses this into one prior owner who returns and dies at the ranch.
+13. **Culinary Master** (cooking cheat / dish UI) comes from **Chu Feng’s** work and memories as a game developer, not from D’s company. Current D recognizes the panel through those inherited memories.
 
 ## Still open / not decided
 
@@ -45,3 +45,4 @@ Date stamps and chapter beat order still follow [`Story 1 References/Dates.md`](
 | 2026-09 | Second body owner: depression, finds peace at the farm, then suicide; current D is third |
 | 2026-09 | Second owner named Naoki; Culinary Master from Naoki’s memories, not D’s company |
 | 2026-09 | Naoki 1 = original native; Naoki 2 = Chinese suicide game developer; Culinary Master from Naoki 2 |
+| 2026-09 | Second owner renamed Chu Feng (Taiwanese modern-world game developer); Naoki kept for first owner only |
