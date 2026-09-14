@@ -1,0 +1,67 @@
+encounter_method_id,local_language_id,name
+1,9,Walking in tall grass or a cave
+2,9,Fishing with an Old Rod
+3,9,Fishing with a Good Rod
+4,9,Fishing with a Super Rod
+5,9,Surfing
+6,9,Smashing rocks
+7,9,Headbutting trees
+8,9,Walking in dark grass
+9,9,Walking in rustling grass
+10,9,Walking in dust clouds
+11,9,Walking in bridge shadows
+12,9,Fishing in dark spots
+13,9,Surfing in dark spots
+14,9,Walking in yellow flowers
+15,9,Walking in purple flowers
+16,9,Walking in red flowers
+17,9,Walking on rough terrain
+18,9,Receive as a gift
+19,9,Receive egg as a gift
+20,9,Static encounter
+21,9,Playing Pokéflute
+22,9,Headbutting a low encounter rate tree
+23,9,Headbutting a normal encounter rate tree
+24,9,Headbutting a high encounter rate tree
+25,9,Using the Squirt Bottle on a Sudowoodo
+26,9,Using the Wailmer Pail on a Sudowoodo
+27,9,Diving on seaweed
+28,9,On any overworld patch of grass
+29,9,On any overworld water tile
+30,9,Using Devon Scope
+31,9,Fishing in a Feebas Tile
+32,9,Island Scan
+33,9,SOS Battle
+34,9,Fishing at bubbling spots in the water
+35,9,Interacting with a Berry Tree
+36,9,Trade with an NPC
+37,9,SOS Battle from bubbling spots
+38,9,Walking in the overworld
+39,9,Surfing in the overworld
+40,9,Flying Pokemon in the sky
+41,9,Rare spawn in grass with lure or catch combo
+42,9,Rare spawn in the sky with lure or catch combo
+43,9,Rare spawn in water with lure or catch combo
+44,9,"Encountering 5 Pokemon within grass, flowers, or within a cave"
+45,9,Receiving a Jirachi from the USA Colosseum Bonus Disc
+46,9,Receiving a Celebi or Pikachu from the Japanese Colosseum Bonus Disc
+47,9,Receiving a Jirachi from the PAL copy of Pokemon channel
+48,9,Receiving a Manaphy from Pokemon Ranger
+49,9,"Receiving a Pikachu, Electivire, or Magmar from Pokemon Battle Revolution"
+50,9,Receiving an egg from the Pokemon center in New York City that contains the special move Wish.
+51,9,Snagging a Pokemon from a trainer in Pokemon Colosseum or Pokemon XD: Gale of Darkness.
+52,9,"Snagging a Pokemon from a trainer in Pokemon Colosseum or Pokemon XD: Gale of Darkness, after you have failed to capture them once."
+53,9,Finding a Wild Pokemon at any of the three Pokespots in Pokemon XD: Gale of Darkness.
+54,9,Finding a Pokemon in a Hidden Grotto
+55,9,Slathering a Honey Tree with Honey and waiting for a Pokémon to appear.
+56,9,Overworld spawn coming from underground or within a swamp.
+57,9,Special overworld spawn in a fixed location.
+58,9,Special overworld spawn in a fixed location in the water.
+59,9,Get chased by territorial Pokémon when entering the water.
+60,9,Capture during a Dynamax Adventure.
+61,9,Catch a wild Dynamax or Gigantamax Pokémon in a Max Raid battle.
+62,9,Ambushed by a Wild Pokemon from a Trash Can
+63,9,Ambushed by a Wild Pokemon from a Rustling Bush
+64,9,Ambushed by a Wild Pokemon from the Ceiling of a Cave
+65,9,Ambushed by a Wild Pokemon from the Ground
+66,9,Ambushed by a Wild Pokemon from the Sky

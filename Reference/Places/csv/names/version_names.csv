@@ -1,0 +1,106 @@
+version_id,local_language_id,name
+1,1,赤
+1,9,Red
+2,1,青
+2,9,Blue
+3,1,ピカチュウ
+3,9,Yellow
+4,1,金
+4,9,Gold
+5,1,銀
+5,9,Silver
+6,1,クリスタル
+6,9,Crystal
+7,1,ルビー
+7,9,Ruby
+8,1,サファイア
+8,9,Sapphire
+9,1,エメラルド
+9,9,Emerald
+10,1,ファイアレッド
+10,9,FireRed
+11,1,リーフグリーン
+11,9,LeafGreen
+12,1,ダイヤモンド
+12,9,Diamond
+13,1,パール
+13,9,Pearl
+14,1,プラチナ
+14,9,Platinum
+15,1,ハートゴールド
+15,9,HeartGold
+16,1,ソウルシルバー
+16,9,SoulSilver
+17,1,ブラック
+17,9,Black
+18,1,ホワイト
+18,9,White
+19,1,コロシアム
+19,9,Colosseum
+20,1,XD
+20,9,XD
+21,1,ブラック2
+21,9,Black 2
+22,1,ホワイト2
+22,9,White 2
+23,1,X
+23,9,X
+24,1,Y
+24,9,Y
+25,1,オメガルビー
+25,9,Omega Ruby
+26,1,アルファサファイア
+26,9,Alpha Sapphire
+27,1,サン
+27,9,Sun
+28,1,ムーン
+28,9,Moon
+29,1,ウルトラサン
+29,9,Ultra Sun
+30,1,ウルトラムーン
+30,9,Ultra Moon
+31,1,Let’s Go! ピカチュウ
+31,9,"Let’s Go, Pikachu!"
+32,1,Let’s Go! イーブイ
+32,9,"Let’s Go, Eevee!"
+33,1,ソード
+33,9,Sword
+34,1,シールド
+34,9,Shield
+35,1,ソード: 鎧の孤島
+35,9,Sword: The Isle of Armor
+36,1,ソード: 冠の雪原
+36,9,Sword: The Crown Tundra
+37,1,ブリリアントダイヤモンド
+37,9,Brilliant Diamond
+38,1,シャイニングパール
+38,9,Shining Pearl
+39,1,LEGENDS アルセウス
+39,9,Legends: Arceus
+40,1,スカーレット
+40,9,Scarlet
+41,1,バイオレット
+41,9,Violet
+42,1,スカーレット: 碧の仮面
+42,9,Scarlet: The Teal Mask
+43,1,スカーレット: 藍の円盤
+43,9,Scarlet: The Indigo Disk
+44,1,赤
+44,9,Red
+45,1,緑
+45,9,Green
+46,1,青
+46,9,Blue
+47,1,レジェンズ Z-A
+47,9,Legends: Z-A
+47,11,レジェンズ Z-A
+48,9,Mega Dimension
+49,9,Champions
+50,1,シールド: 鎧の孤島
+50,9,Shield: The Isle of Armor
+51,1,シールド: 冠の雪原
+51,9,Shield: The Crown Tundra
+52,1,バイオレット: 碧の仮面
+52,9,Violet: The Teal Mask
+53,1,バイオレット: 藍の円盤
+53,9,Violet: The Indigo Disk

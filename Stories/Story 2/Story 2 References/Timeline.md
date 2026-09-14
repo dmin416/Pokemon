@@ -1,0 +1,142 @@
+# Timeline
+
+Story 2: late March into the following weeks; **two-day Rota leave** covers Vermilion + S.S. Anne + Red challenge.
+
+## Dated
+
+- **~1 week before March 27:** transmigration.
+- **March 27–28:** Gary; system; Floragato; Jeanette; Mew guest.
+- **Following days:** Cascade night; Arbok evo; noticeboard; Koichi; Selene hired.
+- **Leave day 1:** Vermilion; Tobias; Ditto thief Leah; Anne tickets.
+- **Leave day 2 morning–:** S.S. Anne banquet; Ash trio + Red; Rocket hijack (Archer/Proton/Admin); Voltorb threat; Darkrai stolen; Fuji freed; police reclaim ship.
+- **Same day after return to Vermilion Center:** Red challenges for Rota Badge; 4v4; D wins; badge refused; rematch vowed (Chapters 37-48).
+- **Same evening:** Leah leaves; D/Ilene head for Rota; Fuji names Mewtwo and hands beads; D texts Dad in Alola (Chapters 49-50).
+- **Next day at Rota:** Selene Litten; Leaders chat; Gary swept; Dratini gift; Red video live; Reggie/Paul arrive evening (Chapters 51-59).
+- **Day after Dratini:** Dad gifts Gligar/Sableye; Alola stepsister news; Rotom Dex started; Reggie challenges D (Chapter 60).
+- **~Four days after Lance visit:** Vermilion broadcast fame spike; weird reviews; Saffron Black Belt + Luna storm Rota (Chapter 64).
+- **Saturday off (~6 days after Kiyo):** Leah Celadon Rocket tip; Erika infiltrate chat; D leaving for Celadon (Chapter 70).
+- **Same Saturday afternoon:** D apologizes to Ilene, flies to Celadon on Articuno, meets disguised Leah, learns Lance/Jenny were contacted, and finds Erika crawling out of the Rocket escape route begging for help (Chapter 71).
+- **Same Saturday late afternoon:** Erika is revealed and treated for Arbok poison; Ariana confronts the group outside the hidden exit; D sends Meowscarada instead of Articuno because of Leah's bird phobia (Chapter 72).
+- **Same Saturday late afternoon / early evening:** Meowscarada crushes Ariana's Arbok and Vileplume; Ariana tries begging and bribing for release; D refuses to let her go (Chapters 73-74).
+- **Same Saturday evening:** Ariana is knocked out and handed to Officer Jenny; Erika posts in the Leaders chat; D, Leah, and Erika regroup at Erika's house; Lance arrives, offers another reward request, and starts the Celadon raid while disguised Giovanni watches outside (Chapters 74-75).
+- **Same Saturday night raid:** League forces breach the Game Corner tunnel; D and Leah split inside; D's Nidoking/Salazzle crush grunts and learn Archer is still copying data with a special Poké Ball (Chapter 76).
+- **Same raid continued:** D recovers Darkrai from Archer's safe, shamelessly claims it, wrecks Proton, then follows Proton's distress call into Archer's control room and crushes Archer's Houndoom/Weezing too (Chapters 77-79).
+- **Same raid climax:** Giovanni intervenes with Beedrill, takes the genetic-fusion USB, stops Articuno's Blizzard, and faces Lance after D delays the escape long enough for the Champion to arrive (Chapter 80).
+- **Same night continued:** Lance sends D after Archer and Proton; Red intercepts the fleeing executives and defeats Archer; Archer and Proton are captured; Giovanni escapes Lance (Chapters 81-82).
+- **Same night aftermath:** Leah gives D an experimental Eevee from the Rocket lab; D returns to the hotel; Goodshow later calls with Larvitar and Shiny Pokémon rewards (Chapters 82-83).
+- **Same night / early next period:** D bonds with Eevee, formally catches Darkrai, celebrates in the Leaders chat, then learns Giovanni and Sabrina freed Archer and Proton from the Celadon police station and left a taunt for Lance (Chapters 84-85).
+- **Next morning:** Erika reports the police-station rescue; Indigo Plateau council berates Lance; Lance and Lorelei walk out as the Elite Four-council rift widens (Chapter 85).
+- **After Celadon / back at Rota:** D says goodbye to Leah and Red outside Celadon; Goodshow delivers Larvitar and Shiny Gastly; D bonds with both in the backyard (Chapter 86).
+- **Monday at Rota Gym:** D installs a challenger type wheel (Poison / Dark / 1% gold Legendary reward); four challengers test it; Ritchie becomes the first gold draw and faces Articuno in a 2v2 (Chapters 87-89).
+- **Same Monday afternoon:** Officer Jenny scolds D in the Leaders chat; D explains the wheel by phone and Inspection Bureau supports it; frustrated challengers form a group after Ritchie's Articuno battle (Chapters 89-90).
+- **Two days later:** Forum post "The Story of Me and the Rota Gym" trends; Gary returns to Rota for a third attempt; Blue calls with eight badges and heads to Rota (Chapter 90).
+- **Same visit continued:** Blue arrives on Pidgeot, challenges Rota Gym, spins Dark, and opens a 4v4 with Incineroar versus Rhyperior (Chapter 91).
+- **Same 4v4 continued:** Incineroar Parting Shots into Sableye; Sableye burns, confuses, and KOs Rhyperior with Energy Ball; Blue sends Arcanine (Chapters 92-93).
+- **Same 4v4 continued:** Arcanine KOs Sableye; Incineroar Parting Shots again into Drapion Toxic Spikes; Blue's Roar randomly brings out Darkrai, who KOs Arcanine (Chapters 93-94).
+- **Same 4v4 finish:** Darkrai puts Blastoise and Machamp to sleep with Dark Void, finishes Machamp and Blastoise, and completes the sweep; Blue loses completely and begs for a transfer-machine rematch with more Oak Lab Pokémon (Chapter 95).
+- **Same afternoon after the 4v4:** D offers Blue the Dark Rota Badge; Blue refuses as a handout; learns about Legendary Gold 2v2 rewards; leaves to prepare a two-lineup rematch (Chapter 96).
+- **Three days later (Friday):** Rota Gym is more famous after continuous challenger failures; Selene's Litten is now Torracat; Dad sends Misdreavus, Mimikyu, and Zorua and invites D to Alola before a Hoenn trip (Chapter 97).
+- **Next morning:** D and Ilene fly to Hau'oli City, meet Lillie in person, and D spots Cosmog/Nebby in her bag (Chapter 97).
+- **Same Alola visit:** D explains Cosmog lore to Lillie; she learns Nebby can become Solgaleo or Lunala and that Dad already agreed to a D versus Zinnia battle for the elders (Chapter 98).
+- **Same evening at the villa:** Dad and Amelia return; Rotom Pokédex prototype delivered; Master Ball nearly ready next month; Dad warns about Lance-council conflict; D reinterprets Giovanni's taunt as a plan to push Lance into darkness (Chapter 99).
+- **Next day:** family flies to Rustboro, rides to Meteor Falls on Articuno and Altaria, reaches Meteor Village, and Zinnia challenges D to a full battle with one-favor stakes (Chapter 100).
+- **Same Meteor Village battle:** 6v6 begins; Dad referees; Drapion KOs Goodra after Incineroar/Sableye support and Toxic Spikes; Altaria clears spikes and boosts (Chapters 101-102).
+- **Same battle continued:** Toxapex poisons and Ice Beams Altaria into a recall; Tyrantrum and Toxapex mutual KO; Hydreigon enters (Chapters 103-104).
+- **Same battle continued:** Incineroar weakens Hydreigon; Meowscarada KOs it with Play Rough; Zinnia Mega Evolves Salamence; D answers with Articuno (Chapter 105).
+- **Same battle finish:** Articuno uses Agility, Hail, Ice Beam, and Blizzard to KO Mega Salamence; Dad awards D the 6v6 win; elder gifts Bagon; Zinnia asks D for help with Rayquaza prophecy and Aster revenge (Chapters 106-107).
+- **Following days at Meteor Falls:** Zinnia explains Magma/Aqua plan to awaken Groudon/Kyogre; leaves next day; Amelia and Dad stay ~1 month; D, Ilene, and Lillie go to Rustboro (Chapter 108).
+- **Rustboro / Devon:** D meets Steven and warns him about Embedded Tower; Joseph admits Aster's death in the Rayquaza Capture Plan; Steven is torn between League duty and family (Chapters 108-109).
+- **Return to Rota:** gym reopens; Ghost added to type wheel; Yamask and Honedge arrive; next morning a Karate Master spins Ghost and forfeits immediately; Gary waits in line (Chapters 109-110).
+- **Same reopen day:** Psychic also forfeits after spinning Dark; Gary spins Ghost and loses a 2v2 to Misdreavus (Ninetales then Alakazam Destiny Bond trade) (Chapters 111-112).
+- **Same day after gym:** Leah arrives with Rocket intel that Plasma's king N is coming; D chooses Alola as next Growth Mode region (Chapter 113).
+- **Same afternoon / evening:** Leah says N lands in Saffron in five days; D takes Leah and Lillie to the Tree of Beginning, battles and catches Regirock after 35 Ultra Balls; Mew arrives angry then recognizes D (Chapters 114-115).
+- **Same evening continued:** Mew uses telepathy; D keeps Regirock after promising land purchase, patrols, and 30 boxes of tuna; Dad funds the Tree land buy; Goodshow helps speed it (Chapter 116).
+- **~Three days later:** Regirock training; Blue sends Alolan Ninetales family; D closes gym two days and visits Oak Lab for Partner Pikachu and Partner Eevee (Chapter 117).
+- **Same trip / Saffron day:** Oak studies Articuno; N and Colress arrive at Saffron Airport (Chapter 118).
+- **Saffron night:** D meets N at the hotel training ground; philosophy clash; Zekrom confirms Ideal bond; D plans Reshiram later (Chapter 119).
+- **Next morning:** Master Ball received at Silph with Giovanni present; Silph accounts locked one year; Leah scouts Rocket factory with Archer, Proton, unknown exec, and Giovanni incoming; D calls Lance (Chapter 120).
+- **Same morning / raid:** Lance Draco Meteors the factory; Giovanni holds him; Archer and Proton captured by D then handed to Jenny; Lorelei stops N and Colress; N summons Zekrom (Chapters 121-122).
+- **Same raid continued:** Articuno helps Lorelei; D throws Mew into Thunder; Mew fights as itself then as Kyurem; Zekrom flees wounded; Goodshow call follows; Archer and Proton rescued again by Hypnosis (Chapters 123-125).
+- **Same day aftermath:** Sabrina brings Archer and Proton to Saffron Gym; Giovanni escaped Lance again; Leah leaves; D returns to Rota; Dad sends Charcadet and Gimmighoul (2 coins) (Chapter 126).
+- **Next day (Monday):** Gym reopens; Erika, Cerulean sisters, and Flint visit; Erika spins Ghost for a 4v4 badge battle (Chapter 127).
+- **Same Monday battle:** Ceruledge Destiny Bond traded for Jumpluff; shiny Gengar finishes Erika's remaining team; D awards first Ghost Rota Badge (Chapters 128-131).
+- **Same Monday evening:** Dreepy arrives from Goodshow; Duraludon arrives from Dad (Chapter 132).
+- **~Half a month later:** Dragon added to type wheel; Alola sim ~1 week from Necrozma; Carsey offers Frontier Brain role; D asks for a Brandon spar (Chapter 133).
+- **Next day:** Battle Pyramid; Anabel referees; D leads Salamence vs Brandon's Dusclops; Dusclops KOd under Curse trade (Chapters 134-135).
+- **Same Brandon match:** Dragapult KOs Solrock; Dragonite KOs Registeel after Lock-On/Zap Cannon/Fire Spin/Protect sequence; Brandon forfeits (Chapters 136-138).
+- **Same afternoon lounge:** D tips Brandon on Regieleki and Regidrago in Crown Tundra; Brandon will call D after finding Regice (Chapter 139).
+- **One week later:** Alola Growth Mode reaches Moone Altar; Lunala forms; Dawn Wings appears; Necrozma caught and exported shiny; Unova leave for Reshiram approved (Chapters 139-140).
+- **Unova day 1:** Castelia City; Amelia allows Lillie one more month; Reshiram voice contacts Hilda, Rosa, and D; Rosa challenges Ghost 3v3 (Chapters 141-142).
+- **Same evening:** Mismagius beats Bisharp and Destiny Bonds Reuniclus; Annihilape KOs Serperior; D wins (Chapters 143-144).
+- **Next day:** Icirrus then Dragonspiral Tower; D states his truth; Reshiram awakens from the Light Stone and accepts him (Chapter 145).
+- **Same day continued:** D catches Reshiram in a deep crimson Luxury Ball; rides to Icirrus; interrupts Ghetsis preaching and calls Officer Jenny (Chapter 146).
+- **Same evening:** Salamence defeats Ghetsis's Hydreigon; Ghetsis arrested; transfer to Opelucid planned; D seeks Deino reward (Chapter 147).
+- **Next day:** Reshiram flight to Lacunosa Town and Giant Chasm; Kyurem found with Cryogonal; Reshiram scared (Chapter 147).
+- **Same chasm visit:** Kyurem lore as Original Dragon shell; White Kyurem transforms; battle begins (Chapter 148).
+- **Overnight before chasm battle:** Growth Mode obtains Lunala and fuses Necrozma into Dawn Wings Necrozma (Chapter 149).
+- **Same chasm battle:** Reshiram loses hard to White Kyurem (Fusion Flare, Blizzard); Dawn Wings Necrozma enters with Photon Geyser vs Ice Beam (Chapter 149).
+- **Same battle continued:** N/Colress learn of Ghetsis capture and plan rescue with two Genesect; Dawn Wings barely holds Blizzard; Black Kyurem appears; legal 2v1 considered; battle ongoing (Chapter 150).
+- **Ilene's framing:** Rota trash ~1+ month before current; D "epiphany" strength ~half a month ago (aligns with transmigration/system stretch).
+
+## Open / undated
+
+- Red vs D all-out rematch pending (badge refused; maybe non-Poison; video copy for Red).
+- Ash also wants Rota challenge; Selene apprenticeship underway (younger Litten bonded; afternoon lesson pending).
+- Kanto Gym Leaders Group Chat joined; Inspection approval done.
+- Fuji on Lavender path; Mewtwo lab unknown; D holds residual beads; silence to Jenny holds.
+- Dad asked in Alola for Kukui Incineroar offspring / Intimidate Littens; Silph/Rocket warning still unsent.
+- Growth Mode: Articuno exported to real world; next region pick delayed; Dragonair grind (Chapter 69).
+- Agatha Death Makeup / Eternatus / Pecharunt later goals.
+- Inspection Bureau secret check still expected.
+- Gary rematch lost again; badge still withheld; next challenge pending.
+- League rare gift arrived: Dratini (Extreme Speed; Lance/Dragon Den line; Chapter 59).
+- Red vs D battle video live on League site (Ilene; trending).
+- Reggie vs D ended soft; rematch/doubles pending; Lance visited Rota and left after Champion-challenge banter (Chapters 62-63).
+- Selene Champion path; tasked to defeat Lance someday.
+- Saffron Black Belt Kiyo quit after Dark setup; trash-gym exit (Chapters 65-67).
+- Video-met god-sister Lillie in Alola; Amelia wants Meteor Village / Zinnia blessing trip (Chapter 67).
+- Celadon Rocket base raid complete; Ariana still held; Archer and Proton captured then rescued; Darkrai formally caught by D; experimental Eevee acquired (Chapters 82-85).
+- Hail team vs Lance (Articuno core); watch Rocket vs League conflict escalate after Giovanni's taunt
+- Aster died Embedded Tower ~9 years ago; Zinnia Lorekeeper questions for Meteor Village visit (Chapter 68).
+- Dad Rotom Dex in progress; Littens still cooking.
+- D can now call Lance "Senior" after the Champion personally acknowledged the shared Viridian blessing (Chapter 75).
+- Lance wants D on Elite Four path; D aiming Champion; dragon path versus Lance still open; Lance now more openly hostile to League councilors (Chapter 85).
+- Darkrai formally caught by D; Mewtwo gene-fuse attempt already failed; genetic-fusion USB currently with Giovanni (Chapters 77-85).
+- Tobias hunting Latios; Darkrai path now with D.
+- Leah's organization unknown; may visit Rota as hire joke.
+- Mew guest must cycle Tree of Beginning; rare Silph ball incoming.
+- Jeanette follow-ups.
+- Salazzle injured by Giovanni's Beedrill during the Celadon escape attempt (Chapter 80).
+- Leah found Rocket lab experimental Eevee and a semi-finished fusion product during the raid (Chapters 79, 82).
+- Goodshow reward arrived: Larvitar plus Shiny Gastly (Chapter 86).
+- Rota Gym challenger type wheel live: Poison / Dark / Ghost / 1% gold Legendary reward; gold can be 3v3 (Chapters 87-90, 110, 116)
+- Blue Oak lost the first 4v4 Dark challenge; refused offered Dark Rota Badge; sent Alolan foxes; rematch pending (Chapters 95-96, 117)
+- Rota Gym temporarily closed for Alola/Hoenn family trip (~4-5 days) (Chapter 97); closed again two days for Pallet/Saffron (Chapter 117)
+- Cosmog/Nebby with Lillie; Solgaleo/Lunala altar lore explained (Chapters 97-98).
+- Rotom Pokédex prototype received; Silph Master Ball obtained (Chapters 99, 120).
+- Zinnia full-battle challenge opening at Meteor Village; loser owes one favor (Chapter 100).
+- Zinnia battle finished: D win via Articuno over Mega Salamence; Bagon gifted; Zinnia Magma/Aqua Rayquaza plan underway with D's support (Chapters 106-108).
+- Steven warned about Embedded Tower; Joseph confessed Aster's death (Chapter 109).
+- Rota Gym reopened with Ghost on the wheel (Chapters 109-110).
+- Gary's third Rota loss on Ghost; Misdreavus Destiny Bond debut (Chapters 111-113).
+- Leah returned; Team Plasma's N met in Saffron (Chapters 113-119).
+- Regirock caught; Tree land purchased; Mew tuna deal (Chapters 115-116).
+- Partner Pikachu and Partner Eevee obtained; Alolan Ninetales family from Blue (Chapters 117-118).
+- Master Ball received; only finished unit worldwide for now (Chapter 120).
+- N met; Zekrom confirmed; Rocket-Plasma factory meet underway; Lance called (Chapters 118-120).
+- Factory raid: Lance vs Giovanni unresolved then Giovanni escapes again; Archer/Proton captured then rescued again; Mew drove Zekrom off as Kyurem (Chapters 121-126).
+- Dad gifts Charcadet (→ Ceruledge) and Gimmighoul (2 coins); coin buy post live; Dreepy pending; Duraludon wanted (Chapters 126-127).
+- Erika Ghost 4v4 finished; first Ghost Rota Badge issued (Chapters 127-131).
+- Dreepy and Duraludon obtained; Dragon added to gym wheel (Chapters 132-133).
+- Brandon Dragon spar underway at Battle Pyramid (Chapters 134-135).
+- Brandon forfeits after Solrock and Registeel fall; Dragapult and Dragonite shown (Chapters 136-138).
+- Regieleki/Regidrago Crown Tundra tip; Brandon will scout after Regice (Chapter 139).
+- Alola Growth Mode cleared; shiny Necrozma exported; Unova Reshiram trip starting (Chapter 140).
+- Unova: Castelia Ghost 3v3 vs Rosa won; Reshiram caught in Luxury Ball; Ghetsis arrested; Kyurem fight in Giant Chasm ongoing (Chapters 141-150).
+- Lillie returns to Alola in ~1 month with D to confront Lusamine (Chapter 141).
+- Lunala obtained and fused into Dawn Wings Necrozma overnight in Growth Mode (Chapters 149-150).
+- N/Colress planning Ghetsis rescue with two Genesect before Opelucid transfer (Chapter 150).
+- Deino reward sought from Unova League for Ghetsis capture (Chapters 146-147).
+- Elder pressure for D to train dragons as half Draconid (Chapter 103).
+- Sabrina secretly working with Giovanni; Hypnosis rescues confirmed Celadon and Saffron (Chapters 85, 125-126).
+- Giovanni wall message: "Your dragon is nothing special." (Chapter 85)

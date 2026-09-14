@@ -1,0 +1,1192 @@
+# Locations
+
+Master list of named places. Source tables live in `csv/`.
+Region files list the same places with identifiers.
+Real-world scale: [Region-Sizes.md](Region-Sizes.md).
+Climate and weather: [Region-Weather.md](Region-Weather.md).
+Origin seasons: [Region-Seasons.md](Region-Seasons.md).
+Zone temperatures: [Region-Temperatures.md](Region-Temperatures.md).
+Official population: [Region-Population.md](Region-Population.md).
+Story population scale: [Story-Population.md](Story-Population.md).
+
+| Region | Count | File |
+| --- | ---: | --- |
+| Kanto | 96 | [Kanto](Kanto.md) |
+| Johto | 67 | [Johto](Johto.md) |
+| Hoenn | 110 | [Hoenn](Hoenn.md) |
+| Sinnoh | 128 | [Sinnoh](Sinnoh.md) |
+| Unova | 122 | [Unova](Unova.md) |
+| Kalos | 106 | [Kalos](Kalos.md) |
+| Alola | 101 | [Alola](Alola.md) |
+| Galar | 92 | [Galar](Galar.md) |
+| Hisui | 89 | [Hisui](Hisui.md) |
+| Paldea | 84 | [Paldea](Paldea.md) |
+| Orre | 18 | [Orre](Orre.md) |
+| Other | 91 | [Other](Other.md) |
+| **Total** | **1104** | |
+
+Anime-only, no catalogue tags: [Orange Islands](Orange-Islands.md). [Decolore Islands](Decolore-Islands.md).
+
+## Kanto
+
+96 places. Full file: [Kanto](Kanto.md).
+
+- Altering Cave
+- Berry Forest
+- Birth Island
+- Bond Bridge
+- Canyon Entrance
+- Cape Brink
+- Celadon City
+- Cerulean Cave
+- Cerulean City
+- Cinnabar Island
+- Diglett's Cave
+- Dilford Chamber
+- Five Island
+- Five Isle Meadow
+- Four Island
+- Fuchsia City
+- Green Path
+- Icefall Cave
+- Indigo Plateau
+- Kanto Pokecenter
+- Kanto Pokemart
+- Kanto Power Plant
+- Kanto Underground Path
+- Kindle Road
+- Lavender Town
+- Liptoo Chamber
+- Lost Cave
+- Memorial Pillar
+- Monean Chamber
+- Mt. Ember
+- Mt. Moon
+- Navel Rock
+- One Island
+- Outcast Island
+- Pallet Town
+- Pattern Bush
+- Pewter City
+- Pokémon Mansion
+- Pokémon Tower
+- Resort Gorgeous
+- Rixy Chamber
+- Roaming Kanto
+- Rock Tunnel
+- Route 1
+- Route 2
+- Route 3
+- Route 4
+- Route 5
+- Route 6
+- Route 7
+- Route 8
+- Route 9
+- Route 10
+- Route 11
+- Route 12
+- Route 13
+- Route 14
+- Route 15
+- Route 16
+- Route 17
+- Route 18
+- Route 22
+- Route 23
+- Route 24
+- Route 25
+- Route 26
+- Route 27
+- Route 28
+- Ruin Valley
+- S.S. Anne
+- Safari Zone
+- Saffron City
+- Scufib Chamber
+- Sea Route 19
+- Sea Route 20
+- Sea Route 21
+- Seafoam Islands
+- Sevault Canyon
+- Seven Island
+- Six Island
+- Tanoby Ruins
+- Three Island
+- Three Isle Path
+- Three Isle Port
+- Trainer Tower
+- Treasure Beach
+- Two Island
+- Vermilion City
+- Viapos Chamber
+- Victory Road
+- Victory Road
+- Viridian City
+- Viridian Forest
+- Water Labyrinth
+- Water Path
+- Weepth Chamber
+
+## Johto
+
+67 places. Full file: [Johto](Johto.md).
+
+- Azalea Town
+- Bell Tower
+- Bellchime Trail
+- Blackthorn City
+- Burned Tower
+- Cherrygrove City
+- Cianwood City
+- Cliff Cave
+- Cliff Edge Gate
+- Dark Cave
+- Dragon's Den
+- Ecruteak City
+- Embedded Tower
+- Frontier Access
+- Goldenrod City
+- Goldenrod Tunnel
+- Ice Path
+- Ilex Forest
+- Johto Pokemart
+- Johto Safari Zone
+- Lake of Rage
+- Lighthouse
+- Mahogany Town
+- Mt. Mortar
+- Mt. Silver
+- Mt. Silver Cave
+- National Park
+- New Bark Town
+- Olivine City
+- Pokéathlon Dome
+- Pokéwalker
+- Radio Tower
+- Roaming Johto
+- Route 29
+- Route 30
+- Route 31
+- Route 32
+- Route 33
+- Route 34
+- Route 35
+- Route 36
+- Route 37
+- Route 38
+- Route 39
+- Route 42
+- Route 43
+- Route 44
+- Route 45
+- Route 46
+- Route 47
+- Route 48
+- Ruins of Alph
+- S.S. Aqua
+- Safari Zone Gate
+- Sea Route 40
+- Sea Route 41
+- Sinjoh Ruins
+- Slowpoke Well
+- Sprout Tower
+- Team Rocket HQ
+- Tohjo Falls
+- Union Cave
+- Unknown; all bugs
+- Unknown; all Poliwag
+- Unknown; all Rattata
+- Violet City
+- Whirl Islands
+
+## Hoenn
+
+110 places. Full file: [Hoenn](Hoenn.md).
+
+- ???
+- Abandoned Ship
+- Altering Cave
+- Ancient Tomb
+- Artisan Cave
+- Battle Resort
+- Battle Tower
+- Cave of Origin
+- Crescent Isle
+- Desert Ruins
+- Desert Underpass
+- Dewford Town
+- Ever Grande City
+- Fabled Cave
+- Fallarbor Town
+- Faraway Island
+- Fiery Path
+- Fortree City
+- Gnarled Den
+- Granite Cave
+- Hoenn Battle Frontier
+- Hoenn Pokecenter
+- Hoenn Pokemart
+- Island Cave
+- Jagged Pass
+- Lavaridge Town
+- Lilycove City
+- Littleroot Town
+- Magma Hideout
+- Marine Cave
+- Mauville City
+- Meteor Falls
+- Mirage Cave
+- Mirage Forest
+- Mirage Island
+- Mirage Island
+- Mirage Mountain
+- Mirage Tower
+- Mossdeep City
+- Mossdeep Space Center
+- Mt. Chimney
+- Mt. Pyre
+- Nameless Cavern
+- New Mauville
+- Oldale Town
+- Pacifidlog Town
+- Pathless Plain
+- Petalburg City
+- Petalburg Woods
+- Pokémon League
+- Roaming Hoenn
+- Route 101
+- Route 102
+- Route 103
+- Route 104
+- Route 105
+- Route 106
+- Route 107
+- Route 108
+- Route 109
+- Route 110
+- Route 111
+- Route 112
+- Route 113
+- Route 114
+- Route 115
+- Route 116
+- Route 117
+- Route 118
+- Route 119
+- Route 120
+- Route 121
+- Route 122
+- Route 123
+- Route 124
+- Route 125
+- Route 126
+- Route 127
+- Route 128
+- Route 129
+- Route 130
+- Route 131
+- Route 132
+- Route 133
+- Route 134
+- Rustboro City
+- Rusturf Tunnel
+- S.S. Tidal
+- Safari Zone
+- Scorched Slab
+- Sea Mauville
+- Seafloor Cavern
+- Sealed Chamber
+- Secret Base
+- Secret Islet
+- Secret Meadow
+- Secret Shore
+- Shoal Cave
+- Sky Pillar
+- Slateport City
+- Soaring in the sky
+- Sootopolis City
+- Southern Island
+- Team Aqua Hideout
+- Team Magma Hideout
+- Terra Cave
+- Trackless Forest
+- Underwater
+- Verdanturf Town
+- Victory Road
+
+## Sinnoh
+
+128 places. Full file: [Sinnoh](Sinnoh.md).
+
+- Acuity Cavern
+- Acuity Lakefront
+- Amity Square
+- Battle Arcade
+- Battle Castle
+- Battle Factory
+- Battle Frontier
+- Battle Hall
+- Battle Park
+- Battle Tower
+- Battleground
+- Café
+- Canalave City
+- Canalave Library
+- Celestic Town
+- Contest Hall
+- Cycle Shop
+- Distortion World
+- Eterna City
+- Eterna Forest
+- Fight Area
+- Floaroma Meadow
+- Floaroma Town
+- Flower Paradise
+- Flower Shop
+- Footstep House
+- Foreign Building
+- Fuego Ironworks
+- Fullmoon Island
+- Galactic HQ
+- Game Corner
+- Global Terminal
+- Grand Lake
+- Great Marsh
+- GTS
+- Hall of Origin
+- Hall of Origin
+- Hearthome City
+- Iceberg Ruins
+- Iron Island
+- Iron Ruins
+- Jubilife City
+- Jubilife TV
+- Lake Acuity
+- Lake Valor
+- Lake Verity
+- Lost Tower
+- Maniac Tunnel
+- Mining Museum
+- Mt. Coronet
+- Newmoon Island
+- Old Chateau
+- Oreburgh City
+- Oreburgh Gate
+- Oreburgh Mine
+- Pal Park
+- Pastoria City
+- Poffin House
+- Pokémon Day Care
+- Pokémon League
+- Pokétch Co.
+- Ravaged Path
+- Resort Area
+- Restaurant
+- Roaming Sinnoh
+- Rock Peak Ruins
+- ROTOM's Room
+- Route 201
+- Route 202
+- Route 203
+- Route 204
+- Route 205
+- Route 206
+- Route 207
+- Route 208
+- Route 209
+- Route 210
+- Route 211
+- Route 212
+- Route 213
+- Route 214
+- Route 215
+- Route 216
+- Route 217
+- Route 218
+- Route 219
+- Route 221
+- Route 222
+- Route 224
+- Route 225
+- Route 227
+- Route 228
+- Route 229
+- Ruin Maniac Cave
+- Sandgem Town
+- Sea Route 220
+- Sea Route 223
+- Sea Route 226
+- Sea Route 230
+- Seabreak Path
+- Sendoff Spring
+- Sinnoh Pokemart
+- Snowpoint City
+- Snowpoint Temple
+- Solaceon Ruins
+- Solaceon Town
+- Spear Pillar
+- Spring Path
+- Stark Mountain
+- Sunyshore City
+- Sunyshore Market
+- Survival Area
+- T.G. Eterna Bldg
+- Trainers' School
+- Trophy Garden
+- Turnback Cave
+- Twinleaf Town
+- Valley Windworks
+- Valor Cavern
+- Valor Lakefront
+- Veilstone City
+- Veilstone Store
+- Verity Cavern
+- Verity Lakefront
+- Victory Road
+- Villa
+- Vista Lighthouse
+- Wayward Cave
+
+## Unova
+
+122 places. Full file: [Unova](Unova.md).
+
+- Abundant Shrine
+- Abyssal Ruins
+- Accumula Gate
+- Accumula Town
+- Anville Town
+- Aspertia City
+- Aspertia Gate
+- Battle Subway
+- Black City
+- Black Gate
+- Black Tower
+- Bridge Gate
+- Castelia City
+- Castelia Gate
+- Castelia Sewers
+- Cave of Being
+- Celestial Tower
+- Challenger's Cave
+- Chargestone Cave
+- Clay Tunnel
+- Cold Storage
+- Desert Resort
+- Dragonspiral Tower
+- Dreamyard
+- Driftveil City
+- Driftveil Drawbridge
+- Entralink
+- Entree Forest
+- Faraway place
+- Floccesy Ranch
+- Floccesy Town
+- Gear Station
+- Giant Chasm
+- Glacier Room
+- Guidance Chamber
+- Hidden Grotto
+- Humilau City
+- Icirrus City
+- Iron Room
+- Join Avenue
+- Lacunosa Town
+- Lentimas Town
+- Liberty Garden
+- Lostlorn Forest
+- Marine Tube
+- Marvelous Bridge
+- Medal Secretariat
+- Mistralton Cave
+- Mistralton City
+- Moor of Icirrus
+- Musical Theater
+- Mystery Zone
+- N's Castle
+- Nacrene City
+- Nacrene Gate
+- Nature Sanctuary
+- Nimbasa City
+- Nimbasa Gate
+- Nuvema Town
+- Opelucid City
+- Opelucid Gate
+- P2 Laboratory
+- Pinwheel Forest
+- Plasma Frigate
+- Pledge Grove
+- Poké Transfer Lab
+- Pokémon League
+- PokéStar Studios
+- Relic Castle
+- Relic Passage
+- Reversal Mountain
+- Rocky Mountain Room
+- Route 1
+- Route 2
+- Route 3
+- Route 4
+- Route 5
+- Route 6
+- Route 7
+- Route 8
+- Route 9
+- Route 10
+- Route 11
+- Route 12
+- Route 13
+- Route 14
+- Route 15
+- Route 16
+- Route 17
+- Route 18
+- Route 19
+- Route 20
+- Route 21
+- Route 22
+- Route 23
+- Route Gate
+- Royal Unova
+- Rumination Field
+- Seaside Cave
+- Shopping Mall
+- Skyarrow Bridge
+- Strange House
+- Striaton City
+- Trial Chamber
+- Tubeline Bridge
+- Twist Mountain
+- Undella Bay
+- Undella Gate
+- Undella Town
+- Underground Ruins
+- Unity Tower
+- Unova (Roaming)
+- Victory Road
+- Victory Road
+- Village Bridge
+- Virbank City
+- Virbank Complex
+- Virbank Gate
+- Wellspring Cave
+- White Forest
+- White Gate
+- White Treehollow
+
+## Kalos
+
+106 places. Full file: [Kalos](Kalos.md).
+
+- Ambrette Aquarium
+- Ambrette Gate
+- Ambrette Town
+- Anistar City
+- Anistar Gate
+- Aquacorde Town
+- Avance Trail
+- Azure Bay
+- Battle Chateau
+- Battle Maison
+- Blazing Chamber
+- Brun Way
+- Camphrier Town
+- Chamber of Emptiness
+- Connecting Cave
+- Coumarine City
+- Coumarine Gate
+- Couriway Gate
+- Couriway Town
+- Cyllage City
+- Dendemille Gate
+- Dendemille Town
+- Dernière Way
+- Dragonmark Chamber
+- Détourner Way
+- Flood Chamber
+- Fourrage Road
+- Friend Safari
+- Frost Cavern
+- Geosenge Town
+- Glittering Cave
+- Grande Vallée Way
+- Ironworks Chamber
+- Kalos (Roaming)
+- Kalos Berry Fields
+- Kalos Power Plant
+- Kiloude City
+- Kiloude Station
+- Laverre City
+- Laverre Gate
+- Laverre Nature Trail
+- Lost Hotel
+- Lumiose Badlands
+- Lumiose City
+- Lumiose Gate
+- Lumiose Station
+- Lysandre Labs
+- Mamoswine Road
+- Menhir Trail
+- Miroir Way
+- Muraille Coast
+- Mélancolie Path
+- Ouvert Way
+- Palais Lane
+- Parfum Palace
+- Parterre Way
+- Poké Ball Factory
+- Pokémon League
+- Pokémon League Gate
+- Pokémon Village
+- Prism Tower
+- Radiant Chamber
+- Reflection Cave
+- Rivière Walk
+- Route 1
+- Route 2
+- Route 3
+- Route 4
+- Route 5
+- Route 6
+- Route 7
+- Route 8
+- Route 9
+- Route 10
+- Route 11
+- Route 12
+- Route 13
+- Route 14
+- Route 15
+- Route 16
+- Route 17
+- Route 18
+- Route 19
+- Route 20
+- Route 21
+- Route 22
+- Santalune City
+- Santalune Forest
+- Sea Spirit's Den
+- Shabboneau Castle
+- Shalour City
+- Shalour Gate
+- Snowbelle City
+- Snowbelle Gate
+- Spikes Passage
+- Team Flare Secret HQ
+- Terminus Cave
+- Tower of Mastery
+- Unknown Dungeon
+- Vallée Étroite Way
+- Vaniville Pathway
+- Vaniville Town
+- Versant Road
+- Victory Road
+- Winding Woods
+- Zubat Roost
+
+## Alola
+
+101 places. Full file: [Alola](Alola.md).
+
+- Aether Paradise
+- Akala Meadow
+- Akala Outskirts
+- Alola Berry Fields
+- Altar of the Moone
+- Altar of the Sunne
+- Ancient Poni Path
+- Battle Royal Dome
+- Battle Tree
+- Blush Mountain
+- Brooklet Hill
+- Brooklet Hill (Totem's Den)
+- Diglett's Tunnel
+- Dividing Peak Tunnel
+- Exeggutor Island
+- Haina Desert
+- Hano Beach
+- Hano Grand Resort
+- Hau'oli Cemetery
+- Hau'oli City
+- Hau'oli City (Beachfront)
+- Hau'oli City (Marina)
+- Hau'oli City (Shopping District)
+- Heahea Beach
+- Heahea City
+- Hokulani Observatory
+- Iki Town
+- Kala'e Bay
+- Konikoni City
+- Lake of the Moone
+- Lake of the Sunne
+- Lush Jungle
+- Mahalo Trail
+- Mahalo Trail (Plank Bridge)
+- Malie City
+- Malie City
+- Malie City (Outer Cape)
+- Malie Garden
+- Melemele Meadow
+- Melemele Sea
+- Memorial Hill
+- Mount Hokulani
+- Mount Lanakila
+- Paniola Ranch
+- Paniola Town
+- Po Town
+- Poké Pelago
+- Pokémon League
+- Poni Breaker Coast
+- Poni Coast
+- Poni Gauntlet
+- Poni Grove
+- Poni Meadow
+- Poni Plains
+- Poni Wilds
+- Resolution Cave
+- Route 1
+- Route 1 (Hau'oli Outskirts)
+- Route 2
+- Route 3
+- Route 4
+- Route 5
+- Route 6
+- Route 7
+- Route 8
+- Route 9
+- Route 10
+- Route 11
+- Route 12
+- Route 13
+- Route 14
+- Route 15
+- Route 16
+- Route 17
+- Royal Avenue
+- Royal Avenue
+- Ruins of Abundance
+- Ruins of Conflict
+- Ruins of Hope
+- Ruins of Life
+- Sandy Cave
+- Seafolk Village
+- Seaward Cave
+- Secluded Shore
+- Shady House
+- Tapu Village
+- Team Rocket's Castle
+- Ten Carat Hill
+- Ten Carat Hill (Farthest Hollow)
+- Thrifty Megamart (Abandoned Site)
+- Ula'ula Beach
+- Ula'ula Meadow
+- Ultra Megalopolis
+- Ultra Space
+- Ultra Space Wilds
+- Vast Poni Canyon
+- Verdant Cavern
+- Verdant Cavern (Totem's Den)
+- Verdant Cavern (Trial Site)
+- Wela Volcano Park
+- Wela Volcano Park (Totem's Den)
+
+## Galar
+
+92 places. Full file: [Galar](Galar.md).
+
+- Axew's Eye
+- Ballimere Lake
+- Ballonlea
+- Battle Tower
+- Brawlers' Cave
+- Bridge Field
+- Challenge Beach
+- Challenge Road
+- Circhester
+- Courageous Cavern
+- Crown Shrine
+- Dappled Grove
+- Dusty Bowl
+- Dyna Tree Hill
+- East Lake Axewell
+- Energy Plant
+- Fields of Honor
+- Forest of Focus
+- Freezington
+- Frigid Sea
+- Frostpoint Field
+- Galar Mine
+- Galar Mine No. 2
+- Giant's Bed
+- Giant's Cap
+- Giant's Foot
+- Giant's Mirror
+- Giant's Seat
+- Glimwood Tangle
+- Hammerlocke
+- Hammerlocke Hills
+- Honeycalm Island
+- Honeycalm Sea
+- Hulbury
+- Iceberg Ruins
+- Insular Sea
+- Iron Ruins
+- Lake of Outrage
+- Lakeside Cave
+- Loop Lagoon
+- Master Dojo
+- Max Dens in the Galar Wild Area
+- Max Lair
+- Meetup Spot
+- Motostoke
+- Motostoke Outskirts
+- Motostoke Riverbank
+- North Lake Miloch
+- Old Cemetery
+- Path to the Peak
+- Postwick
+- Potbottom Desert
+- Random caves across the Isle of Armor
+- Roaming Galar Wild Areas
+- Roaming the Crown Tundra
+- Roaming the Isle of Armor
+- Roaring-Sea Caves
+- Rock Peak Ruins
+- Rolling Fields
+- Route 1
+- Route 2
+- Route 3
+- Route 4
+- Route 5
+- Route 6
+- Route 7
+- Route 8
+- Route 8
+- Route 9
+- Route 10
+- Slippery Slope
+- Slumbering Weald
+- Snowslide Slope
+- Soothing Wetlands
+- South Lake Miloch
+- Spikemuth
+- Split-Decision Ruins
+- Stepping-Stone Sea
+- Stony Wilderness
+- Stow-on-Side
+- Three-Point Pass
+- Tower of Darkness
+- Tower of Waters
+- Training Lowlands
+- Tunnel to the Top
+- Turffield
+- Warm-Up Tunnel
+- Watchtower Ruins
+- Wedgehurst
+- West Lake Axewell
+- Workout Sea
+- Wyndon
+
+## Hisui
+
+89 places. Full file: [Hisui](Hisui.md).
+
+- Aipom Hill
+- Ancient Quarry
+- Arena's Approach
+- Aspiration Hill
+- Avalanche Slopes
+- Avalugg's Legacy
+- Bathers' Lagoon
+- Bolderoll Ravine
+- Bolderoll Slope
+- Bonechill Wastes
+- Brava Arena
+- Castaway Shore
+- Celestica Ruins
+- Celestica Trail
+- Clamberclaw Cliffs
+- Cloudcap Pass
+- Cloudpool Ridge
+- Coastlands Base Camp
+- Cottonsedge Prairie
+- Crossing Slope
+- Deadwood Haunt
+- Deertrack Heights
+- Deertrack Path
+- Diamond Heath
+- Diamond Settlement
+- Droning Meadow
+- Fabled Spring
+- Firespit Island
+- Floaro Gardens
+- Gapejaw Bog
+- Ginkgo Landing
+- Glacier Terrace
+- Golden Lowlands
+- Grandtree Arena
+- Grueling Grove
+- Heart's Crag
+- Heavenward Lookout
+- Heights Base Camp
+- Hideaway Bay
+- Holm of Trials
+- Horseshoe Plains
+- Ice Column Chamber
+- Icebound Falls
+- Icepeak Arena
+- Icepeak Cavern
+- Islespy Shore
+- Jubilife Village
+- Lake Acuity
+- Lake Valor
+- Lake Verity
+- Lonely Spring
+- Lunker's Lair
+- Molten Arena
+- Moonview Arena
+- Nature's Pantry
+- Obsidian Falls
+- Oreburrow Tunnel
+- Pearl Settlement
+- Primeval Grotto
+- Ramanas Island
+- Sacred Plaza
+- Sand's Reach
+- Sandgem Flats
+- Scarlet Bog
+- Seagrass Haven
+- Seaside Hollow
+- Shrouded Ruins
+- Sludge Mound
+- Snowfall Hot Spring
+- Snowpoint Temple
+- Solaceon Ruins
+- Sonorous Path
+- Space-time distortion
+- Spring Path
+- Stonetooth Rows
+- Temple of Sinnoh
+- The Heartwood
+- Tidewater Dam
+- Tombolo Walk
+- Tranquility Cove
+- Turnback Cave
+- Ursa's Ring
+- Veilstone Cape
+- Wayward Cave
+- Wayward Wood
+- Whiteout Valley
+- Windbreak Stand
+- Windswept Run
+- Worn Bridge
+
+## Paldea
+
+84 places. Full file: [Paldea](Paldea.md).
+
+- Alfornada
+- Alfornada Cavern
+- Apple Hills
+- Area Zero
+- Artazon
+- Asado Desert
+- Cabo Poco
+- Canyon Biome
+- Canyon Plaza
+- Caph Squad's Base
+- Cascarrafa
+- Casseroya Lake
+- Central Plaza
+- Chargestone Cavern
+- Chilling Waterhead
+- Coastal Biome
+- Coastal Plaza
+- Cortondo
+- Crystal Pool
+- Dalizapa Passage
+- Dreaded Den
+- East Paldean Sea
+- East Province (Area One)
+- East Province (Area Three)
+- East Province (Area Two)
+- Fellhorn Gorge
+- Firescourge Shrine
+- Glaseado Mountain
+- Grasswither Shrine
+- Groundblight Shrine
+- Icerend Shrine
+- Infernal Pass
+- Inlet Grotto
+- Kitakami Hall
+- Kitakami Road
+- Kitakami Wilds
+- League Club Room
+- Levincia
+- Los Platos
+- Loyalty Plaza
+- Medali
+- Mesagoza
+- Montenevera
+- Mossfell Confluence
+- Mossui Town
+- Naranja Academy
+- Navi Squad's Base
+- North Paldean Sea
+- North Province (Area One)
+- North Province (Area Three)
+- North Province (Area Two)
+- Oni Mountain
+- Oni's Maw
+- Paradise Barrens
+- Poco Path
+- Pokémon League
+- Polar Biome
+- Polar Plaza
+- Porto Marinada
+- Reveler's Road
+- Ruchbah Squad's Base
+- Savanna Biome
+- Savanna Plaza
+- Schedar Squad's Base
+- Segin Squad's Base
+- Socarrat Trail
+- South Paldean Sea
+- South Province (Area Five)
+- South Province (Area Four)
+- South Province (Area One)
+- South Province (Area Six)
+- South Province (Area Three)
+- South Province (Area Two)
+- Tagtree Thicket
+- Timeless Woods
+- Torchlit Labyrinth
+- Uva Academy
+- West Paldean Sea
+- West Province (Area One)
+- West Province (Area Three)
+- West Province (Area Two)
+- Wistful Fields
+- Zapapico
+- Zero Lab
+
+## Orre
+
+18 places. Full file: [Orre](Orre.md).
+
+- Agate Village
+- Cipher Key Lair
+- Cipher Lab
+- Citadark Isle
+- Gateon Port
+- Mt. Battle
+- ONBS
+- Outskirt Stand
+- Phenac City
+- Pokemon Hq Lab
+- Pokespot
+- Pyrite Bldg
+- Pyrite Cave
+- Pyrite Town
+- Realgam Tower
+- Shadow Pokémon Lab
+- Snagem Hideout
+- The Under
+
+## Other
+
+91 places. Full file: [Other](Other.md).
+
+- Concert Event
+- Cynthia
+- Day-Care Couple
+- Distant land
+- Event Site
+- Faraway place
+- Hoenn
+- Johto
+- Kanto
+- Link trade (arrive)
+- Link trade (met)
+- Lovely place
+- Mr. Pokémon
+- Mystery Zone
+- Nintendo World
+- PC Fukuoka
+- PC Nagoya
+- PC Osaka
+- PC Sapporo
+- PC Tokyo
+- PC Yokohama
+- Pokémon Cartoon
+- Pokémon Center
+- Pokémon Event
+- Pokémon Event 06
+- Pokémon Event 07
+- Pokémon Event 08
+- Pokémon Event 09
+- Pokémon Event 10
+- Pokémon Event 11
+- Pokémon Event 12
+- Pokémon Event 13
+- Pokémon Event 14
+- Pokémon Event 15
+- Pokémon Event 16
+- Pokémon Fan Club
+- Pokémon Festa
+- Pokémon Festa 06
+- Pokémon Festa 07
+- Pokémon Festa 08
+- Pokémon Festa 09
+- Pokémon Festa 10
+- Pokémon Festa 11
+- Pokémon Festa 12
+- Pokémon Festa 13
+- Pokémon Festa 14
+- Pokémon Festa 15
+- Pokémon Festa 16
+- Pokémon Movie
+- Pokémon Movie 06
+- Pokémon Movie 07
+- Pokémon Movie 08
+- Pokémon Movie 09
+- Pokémon Movie 10
+- Pokémon Movie 11
+- Pokémon Movie 12
+- Pokémon Movie 13
+- Pokémon Movie 14
+- Pokémon Movie 15
+- Pokémon Movie 16
+- Pokémon Ranger
+- POKéPARK
+- POKéPARK 06
+- POKéPARK 07
+- POKéPARK 08
+- POKéPARK 09
+- POKéPARK 10
+- POKéPARK 11
+- POKéPARK 12
+- POKéPARK 13
+- POKéPARK 14
+- POKéPARK 15
+- POKéPARK 16
+- Primo
+- Riley
+- Sinnoh
+- Space World
+- Space World 06
+- Space World 07
+- Space World 08
+- Space World 09
+- Space World 10
+- Space World 11
+- Space World 12
+- Space World 13
+- Space World 14
+- Space World 15
+- Space World 16
+- Traveling Man
+- Wi-Fi Event
+- Wi-Fi Gift

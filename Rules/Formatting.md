@@ -1,0 +1,22 @@
+# Formatting
+
+- No em dashes.
+- No Oxford commas.
+- No commas before "but" or "and".
+- Sound effects are not described; write them as onomatopoeia and **bold**.
+- Sustained sounds of pleasure are written longer: stretched letters or repeated syllables to show they keep going. Example: **aaaaaahhhh**, **nnnnngh**, **mmmmmm**.
+- No sentence shorter than four words. Sound effects and quoted speech may break this when rhythm calls for it.
+- No extremely long sentences. Prefer one clear beat per sentence; split stacked clauses instead of running on.
+- State more and explain less. Avoid "because" and other words that tell the reader why something obvious happened.
+- Third person only.
+- Speech in quotes and italics.
+- Thoughts in italics.
+- Stories center on women and Pokémon.
+- Women's flesh never tears and is never harmed, no matter what happens to it.
+- Pokémon never get hurt outside battle or natural disasters. Intimacy and daily contact may be intense, heavy, or overwhelming, but a Pokémon is never cut, bruised, broken, or otherwise injured in those scenes. Battle and natural disasters are the exceptions: Pokémon can take damage there.
+- Women can hang from a single hair, or from any piece of skin or orifice, without harm. This is not comfortable. Hanging from a sensitive point such as the clitoris means screaming in pleasure and stimulation, not calm endurance.
+- A woman is never steady unless explicitly stated.
+- Physical stimulation between women and Pokémon is as pleasurable and intense as the situation calls for.
+- A woman is unresponsive to stimuli only when explicitly stated: she is exceptionally insensitive and durable, or she has climaxed so many times she is worn out.
+- "Clitoris" always means the glans and never the hood. Do not use "hood" unless explicitly written by the writer.
+- Piercing rings are never big enough for two fingers. One finger only.
