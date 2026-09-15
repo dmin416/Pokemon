@@ -2,7 +2,23 @@
 
 Prices in **LL** (Stardew g × **4**). See `Currency.md`. Story finds noted in `../Ingredients.md`.
 
-**Story 1 (Chapters 21, 31):** ranch cave mushroom trays (Robin, 5000). League **298-01-15**: two Small Mushrooms (500 each) plus ordinary. Big 5000 and fragrant 15000 quoted, not in trays.
+## Story sell policy
+
+- **Default:** wild and cave forage sells at this table (Mundane / Lvl 1 / Lvl 2 / Lvl 3). Use quality columns when the story tracks grade.
+- **Black Truffle (Ch. 6):** gourmet override — normal **5000 LL**/lb · **iridium grade 15000 LL**/lb. Do **not** use the Stardew Truffle row below for ranch Black Truffle.
+- **Fragrant mushroom (Ch. 31 quote):** perfume/high-society override **15000 LL** (not a Stardew forage price). Cooking value is separate and lower.
+- Round to nice numbers in Zack dialogue when needed.
+
+**Story cave mushroom map (Ch. 31):**
+
+| Story name | Stardew analogue | Mundane | Lvl 3 (iridium) |
+|------------|------------------|---------|-----------------|
+| Ordinary mushroom | Common Mushroom | 160 LL | 320 LL |
+| Small Mushroom | Morel | 600 LL | 1,200 LL |
+| Big mushroom | Purple Mushroom | 1,000 LL | 2,000 LL |
+| Fragrant mushroom | *(override)* | 15,000 LL | — |
+
+**Story 1 (Chapters 21, 31):** ranch cave mushroom trays (Robin, 5000). League **298-01-15**: two Small Mushrooms plus ordinary.
 
 **Quality columns:** Mundane = regular · Lvl 1 = silver · Lvl 2 = gold · Lvl 3 = iridium (Botanist only for iridium on most forage).
 
