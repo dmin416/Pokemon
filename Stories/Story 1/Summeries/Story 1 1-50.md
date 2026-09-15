@@ -94,7 +94,7 @@ Deeper in, Cyclizar finds a dead grass circle; under the leaves is a Black Truff
 
 D digs out the palm-sized Black Truffle (~1 kg) and gets home around 5 PM as Zack from Porto Marinada Market arrives for ranch pickups.
 
-Zack prices iridium-grade truffle at about 15000 per pound; the haul weighs 2.2 pounds for 33000 league coins.
+Zack prices top-quality truffle at about 15000 per pound; the haul weighs 2.2 pounds for 33000 league coins.
 
 D sells it to fund seeds, ranch work, and real food, keeping a small broken scrap for cooking later.
 

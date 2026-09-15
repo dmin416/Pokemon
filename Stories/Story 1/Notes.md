@@ -33,8 +33,9 @@ Date stamps and chapter beat order still follow [`Story 1 References/Dates.md`](
 13. **Culinary Master** (cooking cheat / dish UI) comes from **Chu Feng’s** work and memories as a game developer, not from D’s company. Current D recognizes the panel through those inherited memories.
 14. **D’s past:** he has woken in worlds with nothing at all. In his first life, the sins of his ancestors left a debt he could never repay on his own. Early Ch2 thin funds (about 2,300 League coins, spare clothes, dried noodles) read relaxed and comfortable next to that, not despairing.
 15. **Ch2 Lewis visit:** Naoki did not clearly answer whether he would stay and look after the ranch. Lewis returns next morning to see if the mind is made up, then offers the young Cyclizar.
-16. **Black Truffle prices (Ch. 6):** normal grade ~**5000** League coins a pound; **iridium grade 15000** a pound. Zack pays by the pound (not jin).
-17. **Forage sell benchmark:** other forage (wild plants, berries, common/cave mushrooms, beach shells, etc.) uses Stardew Valley base prices × **4** LL — see [`Story 1 References/Stardew/Forage.md`](Story%201%20References/Stardew/Forage.md). Quality: silver ×1.25 · gold ×1.5 · iridium ×2. Overrides: Black Truffle (gourmet) and fragrant mushroom (**15000** perfume). Story cave map: ordinary → Common Mushroom · Small → Morel · Big → Purple Mushroom.
+16. **Sell grades:** **normal · silver · gold · top** (not Stardew “iridium”). Multipliers vs normal: silver ×1.25 · gold ×1.5 · top ×2 unless a story override sets flat prices.
+17. **Black Truffle prices (Ch. 6):** normal ~**5000** League coins a pound; **top 15000** a pound. Zack pays by the pound (not jin).
+18. **Forage sell benchmark:** other forage (wild plants, berries, common/cave mushrooms, beach shells, etc.) uses Stardew Valley base prices × **4** LL — see [`Story 1 References/Stardew/Forage.md`](Story%201%20References/Stardew/Forage.md). Grades: normal / silver / gold / top. Overrides: Black Truffle (gourmet) and fragrant mushroom (**15000** perfume). Story cave map: ordinary → Common Mushroom · Small → Morel · Big → Purple Mushroom.
 
 ## Still open / not decided
 
@@ -57,5 +58,6 @@ Date stamps and chapter beat order still follow [`Story 1 References/Dates.md`](
 | 2026-09 | Ch2: D relaxed about thin funds vs prior worlds / ancestral debt |
 | 2026-09 | Lewis look: green shirt, yellow tie, brown vest, brown leather cap |
 | 2026-09 | Ch2: Lewis returns because Naoki never answered about staying on the ranch |
-| 2026-09 | Ch6: iridium-grade Black Truffle = 15000 LL/lb; prices by the pound |
+| 2026-09 | Ch6: top-grade Black Truffle = 15000 LL/lb; prices by the pound |
+| 2026-09 | Sell grades: normal · silver · gold · top (not iridium) |
 | 2026-09 | Forage goods: Stardew ×4 sell table as default; remap Small/Big mushrooms to Morel/Purple Mushroom |

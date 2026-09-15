@@ -40,9 +40,9 @@ Early “January” notes = **League 298** ([`Dates.md`](Dates.md) / [`Timeline.
 
 - Robin sold mushroom cultivation trays for 5000 (Chapter 21)
 - January 15 (Chapter 31): two **Small Mushrooms** plus ordinary mushrooms after one night
-- Ordinary mushrooms: Stardew Common Mushroom ×4 — **160 LL** mundane · **320 LL** iridium
-- Small Mushroom: Stardew Morel ×4 — **600 LL** mundane · **1200 LL** iridium; cooking and game-exchange item. Two mundane ≈ **1200**
-- Big mushroom: Stardew Purple Mushroom ×4 — **1000 LL** mundane · **2000 LL** iridium (not in trays)
+- Ordinary mushrooms: Stardew Common Mushroom ×4 — **160 LL** normal · **320 LL** top
+- Small Mushroom: Stardew Morel ×4 — **600 LL** normal · **1200 LL** top; cooking and game-exchange item. Two normal ≈ **1200**
+- Big mushroom: Stardew Purple Mushroom ×4 — **1000 LL** normal · **2000 LL** top (not in trays)
 - Fragrant mushroom: perfume override **15000 LL**; rare; area smells; high society more than cooking (not in trays)
 - January 15 dinner used creamy mushroom soup (Chapter 32; grade not shown). Small Mushrooms not said to be cooked or sold yet
 - Sell benchmark for other wild forage: [`Stardew/Forage.md`](Stardew/Forage.md) (Stardew g × 4). Black Truffle and fragrant mushrooms are the main price overrides.
@@ -76,7 +76,7 @@ Early “January” notes = **League 298** ([`Dates.md`](Dates.md) / [`Timeline.
 - No inherent enhancement; significantly improves a dish's effects
 - First found: Chapter 5 (under dead grass by a tree)
 - Market: normal ~5000/lb; top quality ~15000/lb (Zack, Chapter 6)
-- Status: main ~2.2 lb iridium-grade sold for **33000** (15000/lb); small scrap kept for cooking (Chapter 6). About one quarter of the scrap used in Black Truffle Milk Porridge (S), Chapter 39; remainder stored. D wants Oinkologne later for back-mountain truffle hunting
+- Status: main ~2.2 lb top-grade sold for **33000** (15000/lb); small scrap kept for cooking (Chapter 6). About one quarter of the scrap used in Black Truffle Milk Porridge (S), Chapter 39; remainder stored. D wants Oinkologne later for back-mountain truffle hunting
 - Sell note: gourmet override vs Stardew Truffle table — see `Stardew/Forage.md` / `Stardew/Currency.md`
 
 #### Purifying Salt (Garganacl)
