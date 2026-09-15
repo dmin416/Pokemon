@@ -33,7 +33,7 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 | Dish | Grade | Effects |
 |------|-------|---------|
 | Salt-Overloaded Clear Soup Noodles | D- | None useful (salt wiped bonuses). Fills belly; thirst; salty Pokémon may like it. Ch. 1 |
-| Sandwich | D | Energy boost (small); more energetic / less drowsy. Ch. 9 |
+| Sandwich | D | Energy boost (small); restores some stamina. Ch. 9 |
 | Cold Cucumber Slices | *(unrated)* | Heat relief; body feels cool. Ch. 10 |
 | Warming Hot Juice | *(unrated)* | Body warming. Ch. 14 |
 | Steamed Green Grass | D- | Grass-types: slightly higher chance to comprehend Grass-type moves. Inedible for humans. Ch. 22 |
@@ -116,7 +116,7 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 
 - Tier: D-band (weak)
 - Sandwich (D)
-- More energetic; less prone to drowsiness
+- Energy boost (small); restores some stamina
 - Confirmed: Cyclizar, Koraidon (Ch. 9)
 
 ### Heat relief / body cool

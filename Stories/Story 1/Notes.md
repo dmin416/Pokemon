@@ -10,7 +10,7 @@ Date stamps and chapter beat order still follow [`Story 1 References/Dates.md`](
 
 1. **Protagonist is D**, not Naoki (直樹 / 直树). Prior body owners are **Naoki** (original native) and **Chu Feng** (modern-world Taiwanese game developer). Applied in Story 1 English drafts, Chinese dumps, and related Inspiration/reference text used for this story.
 2. **Mayor is Lewis**, not Thomas (托馬斯). English and Story 1 Chinese use Lewis / 劉易斯. Appearance: green shirt, yellow tie, brown vest and brown leather cap (soft and kind around the eyes).
-3. **Carpenter is Robin**, not Keri (克麗). English and Story 1 Chinese use Robin / 羅賓.
+3. **Carpenter is Robin**, not Keri (克麗). English and Story 1 Chinese use Robin / 羅賓. Appearance: strong, orange hair in a ponytail with a green hairtie.
 4. Place and people use Story 1 / official English forms where set (e.g. **Porto Marinada**, **Mayor Lewis**, **Zack**, **Robin**, **Cyclizar**, **Koraidon**). Prefer official English Pokémon terms in translation.
 
 ## Calendar
@@ -51,6 +51,7 @@ Date stamps and chapter beat order still follow [`Story 1 References/Dates.md`](
 | 2026-09 | D rename; League +100; Ch1 thank; Chapters 1–10 English draft started |
 | 2026-09 | Mayor Thomas → Lewis |
 | 2026-09 | Carpenter Keri → Robin |
+| 2026-09 | Robin look: strong, orange ponytail, green hairtie |
 | 2026-09 | Three body owners: Naoki (native), then Chu Feng (Taiwanese modern-world game developer), then D |
 | 2026-09 | Culinary Master from Chu Feng’s memories, not D’s company |
 | 2026-09 | Chu Feng: yearns for another world; farm work vs escaped responsibilities; sleeping pills / eternal dream |

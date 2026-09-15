@@ -4,7 +4,7 @@
 
 Location weather and seasons: [Paldea-Farm-Climate.md](../../../Reference/Places/Paldea-Farm-Climate.md) (El Bierzo / La Rioja).
 
-Crop, Iberian plant, and berry growth times: [Growth-and-Season.md](../../../Reference/Places/Growth-and-Season.md). Berry stand-ins for real plants: [Berry-Plant-Replacements.md](../../../Reference/Places/Berry-Plant-Replacements.md). Plants with no berry stand-in: [Plants-Without-Berry-Analogues.md](../../../Reference/Places/Plants-Without-Berry-Analogues.md). Land prices (Iberian ranch scale): [Iberian-Land-Values.md](../../../Reference/Places/Iberian-Land-Values.md).
+Crop, Iberian plant, and berry growth times: [Growth-and-Season.md](../../../Reference/Places/Growth-and-Season.md). Berry stand-ins for real plants: [Berry-Plant-Replacements.md](../../../Reference/Places/Berry-Plant-Replacements.md). Plants with no berry stand-in: [Plants-Without-Berry-Analogues.md](../../../Reference/Places/Plants-Without-Berry-Analogues.md). Land prices (Iberian ranch scale): [Iberian-Land-Values.md](../../../Reference/Places/Iberian-Land-Values.md). Livestock, dairy, eggs, meat, and acreage to feed ~40 people: [Farm-Livestock-and-Land.md](../../../Reference/Places/Farm-Livestock-and-Land.md).
 
 ## House cluster
 

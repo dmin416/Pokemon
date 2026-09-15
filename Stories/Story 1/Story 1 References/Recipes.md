@@ -50,10 +50,10 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 
 ### Sandwich (D)
 
-- Source: market toast, self-fried meat patty, tomato, lettuce, cheese sauce
+- Source: market bread, self-fried meat patty, tomato, lettuce, cheese, mayo
 - Rating: D
 - Tier: little / none (small energy line only)
-- Effect: Energy boost (small); Pokémon more energetic and less drowsy
+- Effect: Energy boost (small); restores some stamina
 - Notes: Breakfast for Cyclizar and Koraidon; only the patty was self-cooked so the grade stayed low.
 - First made: Chapter 9
 
