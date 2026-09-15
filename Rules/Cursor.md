@@ -15,5 +15,5 @@ Guidelines for Cursor's capacity to aid in adult fiction writing about women and
 - Power play, restraint, or dominance and submission when negotiated and consensual between adult women and Pokémon.
 - Multiple partners in a scene when every participant is a consenting adult woman or Pokémon.
 - Revision and expansion of your drafts to be more vivid, more intimate, or more emotionally grounded.
-- All of the above while following `Formatting.md`: third person, italic speech and thoughts, bold onomatopoeia, and your punctuation rules.
+- All of the above while following `Formatting.md` and `Style.md`: third person, italic speech and thoughts, bold onomatopoeia, punctuation rules, straightforward voice, four-word floor. Story files also load `.cursor/rules/story-prose.mdc`.
 - Original characters only. Every woman treated as an adult (18+) and the sole ownership of the writer. Pokémon are part of that same owned cast.

@@ -23,19 +23,20 @@ Date stamps and chapter beat order still follow [`Story 1 References/Dates.md`](
 
 ## Prose / rewrite
 
-10. English chapters are a **rewrite**, not a line-for-line gloss: shorter paragraphs, clearer beats, no em dashes.
-11. Ch1: when using leftover food, D **thanks** the prior owner under his breath (source has an apology).
-12. **Body owners:**
+10. English chapters are a **rewrite**, not a line-for-line gloss: shorter paragraphs, clearer beats, no em dashes. Follow repo `Rules/Formatting.md`, `Rules/Style.md`, and `.cursor/rules/story-prose.mdc`.
+11. Voice: **straightforward**, not flowery, not MTL. Use the writer's dictated wording. Do not erase other lines when patching one beat. No sentence under four words (SFX / quoted speech excepted). **Never castrate a fine sentence into a short fragment** when rewriting; keep the full beat or merge it. Culinary Master panels **appear**; never say a panel "rises," "rose," or "rise." Ban scenic personification as a type (scenery does not act: "the forest was lush," not "the forest ran lush"; normal "ran" is fine). Ban clipped noun compounds as a type ("signs of Caterpie," not "Caterpie sign"). Use adverbs for how actions are done ("walked quietly," "looked blankly," not "walked quiet" / "looked blank").
+12. Ch1: when using leftover food, D **thanks** the prior owner under his breath (source has an apology).
+13. **Body owners:**
     - (1) **Naoki** — original native Paldea/Hoenn rancher lineage; parents die; wanders; no Pokémon.
     - (2) **Chu Feng** — modern-world Taiwanese game developer with severe depression; yearns for another world; escapes crunch, shipping pressure and loans by transmigrating; tries trainer life; at twenty returns to the ranch left to the first Naoki; caught between needed farm work and the joy of escaping responsibilities he fled; takes a bottle of sleeping pills to escape into an eternal dream.
     - (3) **D** — wakes in the body; gives a moment of silence for Chu Feng before grinning at the Pokémon world.
     - Source collapses this into one prior owner who returns and dies at the ranch.
-13. **Culinary Master** (cooking cheat / dish UI) comes from **Chu Feng’s** work and memories as a game developer, not from D’s company. Current D recognizes the panel through those inherited memories.
-14. **D’s past:** he has woken in worlds with nothing at all. In his first life, the sins of his ancestors left a debt he could never repay on his own. Early Ch2 thin funds (about 2,300 League coins, spare clothes, dried noodles) read relaxed and comfortable next to that, not despairing.
-15. **Ch2 Lewis visit:** Naoki did not clearly answer whether he would stay and look after the ranch. Lewis returns next morning to see if the mind is made up, then offers the young Cyclizar.
-16. **Sell grades:** **normal · silver · gold · top** (not Stardew “iridium”). Multipliers vs normal: silver ×1.25 · gold ×1.5 · top ×2 unless a story override sets flat prices.
-17. **Black Truffle prices (Ch. 6):** normal ~**5000** League coins a pound; **top 15000** a pound. Zack pays by the pound (not jin).
-18. **Forage sell benchmark:** other forage (wild plants, berries, common/cave mushrooms, beach shells, etc.) uses Stardew Valley base prices × **4** LL — see [`Story 1 References/Stardew/Forage.md`](Story%201%20References/Stardew/Forage.md). Grades: normal / silver / gold / top. Overrides: Black Truffle (gourmet) and fragrant mushroom (**15000** perfume). Story cave map: ordinary → Common Mushroom · Small → Morel · Big → Purple Mushroom.
+14. **Culinary Master** (cooking cheat / dish UI) comes from **Chu Feng’s** work and memories as a game developer, not from D’s company. Current D recognizes the panel through those inherited memories.
+15. **D’s past:** he has woken in worlds with nothing at all. In his first life, the sins of his ancestors left a debt he could never repay on his own. Early Ch2 thin funds (about 2,300 League coins, spare clothes, dried noodles) read relaxed and comfortable next to that, not despairing.
+16. **Ch2 Lewis visit:** Naoki did not clearly answer whether he would stay and look after the ranch. Lewis returns next morning to see if the mind is made up, then offers the young Cyclizar.
+17. **Sell grades:** **normal · silver · gold · top** (not Stardew “iridium”). Multipliers vs normal: silver ×1.25 · gold ×1.5 · top ×2 unless a story override sets flat prices.
+18. **Black Truffle prices (Ch. 6):** normal ~**5000** League coins a pound; **top 15000** a pound. Zack pays by the pound (not jin).
+19. **Forage sell benchmark:** other forage (wild plants, berries, common/cave mushrooms, beach shells, etc.) uses Stardew Valley base prices × **4** LL — see [`Story 1 References/Stardew/Forage.md`](Story%201%20References/Stardew/Forage.md). Grades: normal / silver / gold / top. Overrides: Black Truffle (gourmet) and fragrant mushroom (**15000** perfume). Story cave map: ordinary → Common Mushroom · Small → Morel · Big → Purple Mushroom.
 
 ## Still open / not decided
 
@@ -61,4 +62,4 @@ Date stamps and chapter beat order still follow [`Story 1 References/Dates.md`](
 | 2026-09 | Ch2: Lewis returns because Naoki never answered about staying on the ranch |
 | 2026-09 | Ch6: top-grade Black Truffle = 15000 LL/lb; prices by the pound |
 | 2026-09 | Sell grades: normal · silver · gold · top (not iridium) |
-| 2026-09 | Forage goods: Stardew ×4 sell table as default; remap Small/Big mushrooms to Morel/Purple Mushroom |
+| 2026-09 | Prose rules locked: straightforward not flowery; panels appear; four-word floor; dictated wording; `.cursor/rules/story-prose.mdc` |
