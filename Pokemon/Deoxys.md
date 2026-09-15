@@ -120,6 +120,7 @@ Legends Z-A: unknown.
 - Nasty Plot: event-only.
 - Learnset spans Generation 3 through 9. All forms share the pool. Some levels differ by form.
 - Unique moves: 132. Egg moves: 8.
+- Type-sorted master movepool (all Formes): `Pokemon/Movepools/Deoxys.md`.
 
 ## Level-Up
 

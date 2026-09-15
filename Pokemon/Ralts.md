@@ -32,6 +32,7 @@ Mega Gardevoir: Gardevoirite (Gen 6-7). Type stays Psychic / Fairy from Gen 6 on
 - Type gained Fairy in Gen 6.
 - Unique moves: 126. All three share 108. Gardevoir only: 18. Kirlia + Gardevoir only: Hyper Beam, Triple Axel. Egg moves: 8.
 - Learnset spans Generation 3 through 9.
+- Type-sorted movepools: `Pokemon/Movepools/Ralts.md`, `Kirlia.md`, `Gardevoir.md`.
 
 ## Level-Up
 
