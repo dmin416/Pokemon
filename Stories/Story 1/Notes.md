@@ -37,6 +37,8 @@ Date stamps and chapter beat order still follow [`Story 1 References/Dates.md`](
 17. **Sell grades:** **normal · silver · gold · top** (not Stardew “iridium”). Multipliers vs normal: silver ×1.25 · gold ×1.5 · top ×2 unless a story override sets flat prices.
 18. **Black Truffle prices (Ch. 6):** normal ~**5000** League coins a pound; **top 15000** a pound. Zack pays by the pound (not jin).
 19. **Forage sell benchmark:** other forage (wild plants, berries, common/cave mushrooms, beach shells, etc.) uses Stardew Valley base prices × **4** LL — see [`Story 1 References/Stardew/Forage.md`](Story%201%20References/Stardew/Forage.md). Grades: normal / silver / gold / top. Overrides: Black Truffle (gourmet) and fragrant mushroom (**15000** perfume). Story cave map: ordinary → Common Mushroom · Small → Morel · Big → Purple Mushroom.
+20. **Ch13 planting day is 298-01-06.** That day he planted potatoes, turnips, garlic, spring wheat, strawberries, cabbage, cucumbers, radishes, tomatoes; Pokémon berries Cheri, Chesto, Pecha, Rawst, Aspear, Persim and Oran; common berries strawberry, raspberry and blueberry; berry plants strawberry, raspberry, blueberry, blackberry and rose; saplings apple, apricot, cherry, chestnut, orange, fig, lemon, peach, pear, persimmon, plum, pomegranate, mango, grape, kiwi, olive, almond and avocado; spring crops carrots, onions, peas, green beans, lettuce, spinach, cauliflower and kale. Summer and fall crops stay in [`Story 1 References/Farm.md`](Story%201%20References/Farm.md) until later chapters. Corn, peppers and zucchini are summer. Eggplant and squash / pumpkin are fall. Maturity from that day: [`Story 1 References/Crop-Projection.md`](Story%201%20References/Crop-Projection.md).
+21. **Pokémon berries: 7 days to mature, then 7 days per fruit to peak sweetness.** Rarer berries add 7 days per extra in-game growth day from [`Reference/Places/Growth-and-Season.md`](../../Reference/Places/Growth-and-Season.md) (2-day berries add 7, 3-day add 14, 4-day add 21) to both clocks. Do not use analogue years for berry plants. Common fruit, vegetables and saplings still use real plant times. The seven berries planted on 298-01-06 are common: mature **298-01-13**, peak sweetness **298-01-20**.
 
 ## Still open / not decided
 
@@ -63,3 +65,7 @@ Date stamps and chapter beat order still follow [`Story 1 References/Dates.md`](
 | 2026-09 | Ch6: top-grade Black Truffle = 15000 LL/lb; prices by the pound |
 | 2026-09 | Sell grades: normal · silver · gold · top (not iridium) |
 | 2026-09 | Prose rules locked: straightforward not flowery; panels appear; four-word floor; dictated wording; `.cursor/rules/story-prose.mdc` |
+| 2026-09 | Ch13 planting day 298-01-06: expanded crop, berry and sapling lists in the ground |
+| 2026-09 | Crop-Projection.md: maturity from 298-01-06 using Growth-and-Season times |
+| 2026-09 | Pokémon berries grow at game speed (1 to 4 days), not analogue years |
+| 2026-09 | Pokémon berries: 7 days to mature, 7 days to peak sweetness, rarer add 7 days per extra in-game day |

@@ -4,6 +4,8 @@ Covers three unrelated topics compiled from the same conversation: Stardew Valle
 
 Farm weather: [Paldea-Farm-Climate.md](Paldea-Farm-Climate.md). Story ranch: `Stories/Story 1/Story 1 References/Farm.md`. Livestock and land to feed ~40 people: [Farm-Livestock-and-Land.md](Farm-Livestock-and-Land.md). Stardew shop/upgrade lists stay under that story's Stardew folder. Berries that can stand in for real plants: [Berry-Plant-Replacements.md](Berry-Plant-Replacements.md). Plants with no clear berry stand-in: [Plants-Without-Berry-Analogues.md](Plants-Without-Berry-Analogues.md).
 
+**Story 1 / D Ranch:** Pokémon berries take **7 days** to mature. Each fruit then takes **7 days** to peak sweetness. Rarer berries add **7 days per extra in-game growth day** (In-Game Growth minus 1) to both clocks. Do not use "Time to First Fruit (If Real)" for berry plants on the ranch. Analogue years are naming and harvest-season flavor only. Common fruit, vegetables, and saplings still use the real plant times in this file.
+
 ---
 
 ## 1. Stardew Valley: Plant Growth Times
@@ -208,9 +210,9 @@ Figures below are flowering season and time to reach a mature, characteristic si
 
 Pokémon berries do not grow on a calendar season system. Growth is measured in real-time hours regardless of season, and the closest thing to a season effect is the Growth Mulch and Damp Mulch items introduced in Generation IV, which speed up or slow down growth by 25%. Sinnoh's real-world season cycle (Diamond, Pearl, Platinum) changes wild Pokémon forms and weather but has no effect on berry growth speed. Berries are also the only "plant" in the series with a formal growth mechanic; Apricorns and Honey Trees are found or smeared, not grown.
 
-"In-Game Growth" restates the modern growth hours (Generation VII, or Generation III for the Japan-exclusive e-Reader berries) as full day/night cycles. This is a direct, non-speculative conversion: the games' internal clock runs in real time, tied to the console's clock, so the growth hours already represent how long the wait actually is within the Pokémon world's own day/night cycle.
+"In-Game Growth" restates the modern growth hours (Generation VII, or Generation III for the Japan-exclusive e-Reader berries) as full day/night cycles. This is a direct, non-speculative conversion: the games' internal clock runs in real time, tied to the console's clock, so the growth hours already represent how long the wait actually is within the Pokémon world's own day/night cycle. **Story 1 does not use this column as raw ranch days.** It is the rarity tier: 1-day berries use the 7/7 clock. Each extra in-game day adds 7 days to mature and 7 days to peak sweetness.
 
-"Effect" is the berry's actual in-game function. "Real-World Season" and "Regrowth Frequency" describe the real fruit or plant each berry is named or designed after: when it naturally comes into season, and how often a mature plant produces once it starts bearing. "Time to First Fruit (If Real)" is the same rough, speculative estimate as before, for how long that real plant would take to reach its first harvest. Where a berry's naming inspiration is unclear or invented, that is noted rather than guessed at with false confidence.
+"Effect" is the berry's actual in-game function. "Real-World Season" and "Regrowth Frequency" describe the real fruit or plant each berry is named or designed after: when it naturally comes into season, and how often a mature plant produces once it starts bearing. "Time to First Fruit (If Real)" is the same rough, speculative estimate as before, for how long that real plant would take to reach its first harvest. It is not the Story 1 ranch clock. Where a berry's naming inspiration is unclear or invented, that is noted rather than guessed at with false confidence.
 
 ### Status and Basic Berries
 | Berry | Effect | In-Game Growth | Real-World Season | Regrowth Frequency | Time to First Fruit (If Real) |

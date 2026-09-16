@@ -4,7 +4,7 @@
 
 Location weather and seasons: [Paldea-Farm-Climate.md](../../../Reference/Places/Paldea-Farm-Climate.md) (El Bierzo / La Rioja).
 
-Crop, Iberian plant, and berry growth times: [Growth-and-Season.md](../../../Reference/Places/Growth-and-Season.md). Berry stand-ins for real plants: [Berry-Plant-Replacements.md](../../../Reference/Places/Berry-Plant-Replacements.md). Plants with no berry stand-in: [Plants-Without-Berry-Analogues.md](../../../Reference/Places/Plants-Without-Berry-Analogues.md). Land prices (Iberian ranch scale): [Iberian-Land-Values.md](../../../Reference/Places/Iberian-Land-Values.md). Livestock, dairy, eggs, meat, and acreage to feed ~40 people: [Farm-Livestock-and-Land.md](../../../Reference/Places/Farm-Livestock-and-Land.md).
+Crop, Iberian plant, and berry growth times: [Growth-and-Season.md](../../../Reference/Places/Growth-and-Season.md). Berry stand-ins for real plants: [Berry-Plant-Replacements.md](../../../Reference/Places/Berry-Plant-Replacements.md). Plants with no berry stand-in: [Plants-Without-Berry-Analogues.md](../../../Reference/Places/Plants-Without-Berry-Analogues.md). Maturity from the 298-01-06 planting: [Crop-Projection.md](Crop-Projection.md). Land prices (Iberian ranch scale): [Iberian-Land-Values.md](../../../Reference/Places/Iberian-Land-Values.md). Livestock, dairy, eggs, meat, and acreage to feed ~40 people: [Farm-Livestock-and-Land.md](../../../Reference/Places/Farm-Livestock-and-Land.md).
 
 ## House cluster
 
@@ -18,7 +18,7 @@ Crop, Iberian plant, and berry growth times: [Growth-and-Season.md](../../../Ref
 ## Field and grounds
 
 - **Outer fence** and lawn grass. **Wooden board path** with oil-cloth torches (Chapter 38).
-- **Farmland:** turnips, potatoes, garlic, radishes near mature (~one month). Cabbage, cucumber, tomato need more time. Berry seedlings slow; fruit likely autumn (Chapter 50). Fertilizer before next crop still open.
+- **Farmland:** turnips, potatoes, garlic, radishes near mature (~one month). Cabbage, cucumber, tomato need more time. **Pokémon berries:** 7 days to mature, then 7 days per fruit to peak sweetness. Rarer berries add 7 days per extra in-game growth day. Common berry plants and saplings use analogue times. Fertilizer before next crop still open.
 - **Southwest lake and river:** Magikarp returned to river (Chapter 38). Lake used as live fish holding with bottom net. Wishiwashi-scale river otherwise.
 - **Pokémon House:** still a framework. Needed before Miltank.
 - **Chicken House (complete):** 3 hens + 1 rooster + silo.
@@ -44,10 +44,22 @@ Crop, Iberian plant, and berry growth times: [Growth-and-Season.md](../../../Ref
 - Skiddo binge Grass dumplings → Grassy Terrain / Solar Beam; fence repaired
 - Dragon Tail training succeeded for Dragonite; Cyclizar also has it
 
-## Planted (Chapter 13)
+## Planted (Chapter 13, 298-01-06)
 
 - Potatoes, turnips, garlic, spring wheat, strawberries, cabbage, cucumbers, radishes, tomatoes
-- Berry seedlings: Oran, Pecha, Cheri, Nomel
+- Pokémon berries in the ground: Cheri, Chesto, Pecha, Rawst, Aspear, Persim, Oran
+- Common berries: strawberry, raspberry, blueberry
+- Berry plants: strawberry, raspberry, blueberry, blackberry, rose
+- Saplings: apple, apricot, cherry, chestnut, orange, fig, lemon, peach, pear, persimmon, plum, pomegranate, mango, grape, kiwi, olive, almond, avocado
+- Spring crops: carrots, onions, peas, green beans, lettuce, spinach, cauliflower, kale
+
+## Summer crops (not on Ch13 page yet)
+
+Corn, peppers, zucchini, melon, watermelon, hops, sunflower, red cabbage. Stardew also treats tomato, radish and wheat as summer; tomato, radish and spring wheat are already planted. Blueberry is under berry plants.
+
+## Fall crops (not on Ch13 page yet)
+
+Eggplant, pumpkin / squash, bok choy, yam, cranberry, amaranth, artichoke. Corn, sunflower and wheat also run in fall. Grape is under saplings.
 
 ## Watering
 

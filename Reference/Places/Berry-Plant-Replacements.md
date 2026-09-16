@@ -2,7 +2,7 @@
 
 Derived from [Growth-and-Season.md](Growth-and-Season.md) §3. Only berries with a usable real-plant stand-in.
 
-**Use:** When writing D Ranch / Paldea crops, swap the real plant for the berry (or name both). In-game berry growth is still 1 to 4 days; real growth times below are for season and pacing flavor only.
+**Use:** When writing D Ranch / Paldea crops, swap the real plant for the berry (or name both). **Pokémon berries:** 7 days to mature, then 7 days per fruit to peak sweetness. Rarer berries add 7 days per extra in-game growth day to both clocks. Do not use analogue years for berry maturity. Real season and years below are naming and harvest-flavor only.
 
 **Iberian?** Marks whether that real crop already appears in Growth-and-Season Iberian lists (can grow somewhere on the peninsula). Tropical-only crops can still appear as rare imports or greenhouse specialties.
 
