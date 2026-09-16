@@ -94,7 +94,7 @@ Deeper in, Cyclizar finds a dead grass circle; under the leaves is a Black Truff
 
 D digs out the palm-sized Black Truffle (~1 kg) and gets home around 5 PM as Zack from Porto Marinada Market arrives for ranch pickups.
 
-Zack prices top-quality truffle at about 15000 per pound; the haul weighs 1.1 kg for 33000 league coins.
+Zack prices top-quality truffle at about 15000 per pound; the haul weighs 2.2 pounds for 33000 league coins.
 
 D sells it to fund seeds, ranch work, and real food, keeping a small broken scrap for cooking later.
 
@@ -455,7 +455,7 @@ D has no phone. Sada sees the new ranch and tight funds, says she will come back
 
 Koraidon hid behind the door. D pets it. They have lived together about half a month. It licks his face. He is not afraid of it anymore. Casseroya slips one day.
 
-Cave after one night: two Small Mushrooms plus ordinary ones. Small Mushroom appraises as a rare forest/mountain mushroom, cooking and game-exchange item, 500 each. Big mushroom 5000 and fragrant mushroom 15000 (perfume more than cooking) are not in the trays. Two small ones could sell for 1000 in a few days.
+Cave after one night: two Small Mushrooms plus ordinary ones. Sell prices follow Stardew ×4 (ordinary = Common Mushroom 160–320; Small = Morel 600–1200). Big = Purple Mushroom 1000–2000; fragrant mushroom perfume override 15000 (not in trays). Two mundane Smalls ≈ 1200.
 
 Back mountain: Bug- and Grass-types flee from Koraidon. Ranch river: Magikarp and tiny Wishiwashi only. Water-types for watering will have to wait for Casseroya.
 

@@ -2,11 +2,27 @@
 
 Prices in **LL** (Stardew g × **4**). See `Currency.md`. Story finds noted in `../Ingredients.md`.
 
-**Story 1 (Chapters 21, 31):** ranch cave mushroom trays (Robin, 5000). League **298-01-15**: two Small Mushrooms (500 each) plus ordinary. Big 5000 and fragrant 15000 quoted, not in trays.
+## Story sell policy
 
-**Quality columns:** Mundane = regular · Lvl 1 = silver · Lvl 2 = gold · Lvl 3 = iridium (Botanist only for iridium on most forage).
+- **Default:** wild and cave forage sells at this table (normal / silver / gold / top). Use quality columns when the story tracks grade.
+- **Black Truffle (Ch. 6):** gourmet override — **normal 5000 LL**/lb · **top 15000 LL**/lb. Do **not** use the Stardew Truffle row below for ranch Black Truffle.
+- **Fragrant mushroom (Ch. 31 quote):** perfume/high-society override **15000 LL** (not a Stardew forage price). Cooking value is separate and lower.
+- Round to nice numbers in Zack dialogue when needed.
 
-Sell multipliers: silver ×1.25 · gold ×1.5 · iridium ×2 (rounded).
+**Story cave mushroom map (Ch. 31):**
+
+| Story name | Stardew analogue | Normal | Top |
+|------------|------------------|--------|-----|
+| Ordinary mushroom | Common Mushroom | 160 LL | 320 LL |
+| Small Mushroom | Morel | 600 LL | 1,200 LL |
+| Big mushroom | Purple Mushroom | 1,000 LL | 2,000 LL |
+| Fragrant mushroom | *(override)* | 15,000 LL | — |
+
+**Story 1 (Chapters 21, 31):** ranch cave mushroom trays (Robin, 5000). League **298-01-15**: two Small Mushrooms plus ordinary.
+
+**Story grades:** normal · silver · gold · top. (Stardew table columns below: Mundane = normal · Lvl 1 = silver · Lvl 2 = gold · Lvl 3 = top. Do not say “iridium” in story prose.)
+
+Sell multipliers vs normal: silver ×1.25 · gold ×1.5 · top ×2 (rounded).
 
 ---
 
@@ -65,9 +81,9 @@ Sell multipliers: silver ×1.25 · gold ×1.5 · iridium ×2 (rounded).
 
 | Name | Found | Mundane | Lvl 1 | Lvl 2 | Lvl 3 | Energy / Health | Used In |
 |------|-------|---------|-------|-------|-------|-----------------|---------|
-| Winter Root | Tilling soil (wild; not Botanist iridium via dig) | 280 LL | 348 LL | 420 LL | 560 LL | 25/11 · 35/15 · 45/20 · 65/29 | Winter Foraging Bundle, Winter Seeds, Roots Platter, Juice, Pickles |
+| Winter Root | Tilling soil (wild; not Botanist top via dig) | 280 LL | 348 LL | 420 LL | 560 LL | 25/11 · 35/15 · 45/20 · 65/29 | Winter Foraging Bundle, Winter Seeds, Roots Platter, Juice, Pickles |
 | Crystal Fruit | Railroad 50%; Cindersap 39%; Mountain 38%; Bus Stop 23%; Backwoods 22%; Town 8% | 600 LL | 748 LL | 900 LL | 1,200 LL | 63/28 · 88/39 · 113/50 · 163/73 | Winter Foraging Bundle, Winter Seeds, Dried Fruit, Jelly, Wine |
-| Snow Yam | Tilling soil (wild; not Botanist iridium via dig) | 400 LL | 500 LL | 600 LL | 800 LL | 30/13 · 42/18 · 54/24 · 78/35 | Winter Foraging Bundle, Winter Seeds, Juice, Pickles |
+| Snow Yam | Tilling soil (wild; not Botanist top via dig) | 400 LL | 500 LL | 600 LL | 800 LL | 30/13 · 42/18 · 54/24 · 78/35 | Winter Foraging Bundle, Winter Seeds, Juice, Pickles |
 | Crocus | Town 54%; Railroad 50%; Bus Stop 42%; Mountain 40%; Cindersap 39%; Backwoods 35% | 240 LL | 300 LL | 360 LL | 480 LL | 0/0 all | Winter Foraging Bundle, Winter Seeds |
 | Holly | Secret Woods 100%; Backwoods 43%; Town 38%; Bus Stop 35%; Cindersap/Mountain 22% | 320 LL | 400 LL | 480 LL | 640 LL | −37/0 · −52/0 · −67/0 · −97/0 (poison) | Remixed Winter Foraging Bundle, Winter Star Bundle |
 | Nautilus Shell | Beach (winter) | 480 LL | 600 LL | 720 LL | 960 LL | — | Field Research Bundle |
@@ -138,5 +154,6 @@ Truffle row is ×4 wiki default. **Story Black Truffle uses gourmet pricing** (s
 
 ## Quality notes
 
-- Without Botanist: gold chance = foraging level/30; else silver chance = foraging level/15 (conditional). Else regular.
-- Botanist → always iridium on eligible forage (not Sap, Cave Carrot, dug Snow Yam/Winter Root, Seaweed, non-ground mushrooms from taps/cave, etc.).
+- Story prose grades: **normal · silver · gold · top** (Stardew Lvl 3 / “iridium” → **top**).
+- Without Botanist: gold chance = foraging level/30; else silver chance = foraging level/15 (conditional). Else normal.
+- Botanist → always **top** on eligible forage (not Sap, Cave Carrot, dug Snow Yam/Winter Root, Seaweed, non-ground mushrooms from taps/cave, etc.).

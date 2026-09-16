@@ -6,7 +6,9 @@
 
 Both anchored on Zack’s carp (**120 LL**): Stardew Carp 30g · ACNH Carp 300 bells.
 
-Use Stardew ×4 for Stardew tables in this folder. Use AC ×0.4 for AC-only fish unless overridden (red snapper = **3000 LL**). If a fish exists in both and prices clash, prefer **story quote → Stardew table → AC**.
+Use Stardew ×4 for Stardew tables in this folder (including **forage** in `Forage.md`). Use AC ×0.4 for AC-only fish unless overridden (red snapper = **3000 LL**). If a fish exists in both and prices clash, prefer **story quote → Stardew table → AC**.
+
+**Forage default:** sell at `Forage.md` (Stardew g × 4 + quality). Exceptions in Overrides below (Black Truffle, fragrant mushroom).
 
 **Overrides:**
 
@@ -14,7 +16,7 @@ Use Stardew ×4 for Stardew tables in this folder. Use AC ×0.4 for AC-only fish
 |------|-----|
 | Rainbow trout | Zack **1200 LL** (~18× Stardew; rare catch) |
 | Bass | Zack **300 LL** (Stardew ×4 = 400; AC black bass ×0.4 = 160) |
-| Black Truffle | Story gourmet ~5000–15000 LL/lb (not Truffle 625g ×4) |
+| Black Truffle | Gourmet override: **normal ~5000 LL**/lb · **top 15000 LL**/lb (Ch. 6). Not Stardew Truffle 625g ×4 |
 | Mushroom cultivation trays | Robin **5000 LL** (Chapter 21; not a Stardew catalogue item) |
 | Buried-pipe irrigation | Robin **30000 to 40000 LL** for the whole field (Chapter 21; sprinkler analogue) |
 | Wooden fence (Chicken House run) | Robin **1500 LL** (Chapter 23) |
@@ -29,11 +31,12 @@ Use Stardew ×4 for Stardew tables in this folder. Use AC ×0.4 for AC-only fish
 | Happy Ranch farm Pokémon | Combee/Smoliv **2500**, Alcremie **2600**, Noibat **3000**, Wooloo/Nacli **10000**, Miltank **20000** (Chapter 24). Wild Nacli x5 and Skiddo x3 joined free |
 | Happy Ranch feed | Chicken **50**, cow/sheep/sweet/salty **100** per ~2 kg portion (Chapter 24) |
 | Eggs | Retail **250 LL** per 10 (Chapter 28). Zack wholesale a bit less. |
-| Small Mushroom | **500 LL** each (Chapter 31; game-exchange item) |
-| Big mushroom | **5000 LL** (quoted Chapter 31; not harvested) |
-| Fragrant mushroom | **15000 LL** (quoted Chapter 31; perfume more than cooking; not harvested) |
+| Ordinary cave mushrooms | Stardew Common Mushroom ×4: **160–320 LL** by grade |
+| Small Mushroom | Stardew Morel ×4: **600 LL** normal · **1200 LL** top (Ch. 31) |
+| Big mushroom | Stardew Purple Mushroom ×4: **1000 LL** normal · **2000 LL** top (Ch. 31 quote) |
+| Fragrant mushroom | Perfume override **15000 LL** (Ch. 31; not Stardew forage) |
 | Red snapper | **3000 LL** (AC bells as LL; not ×0.4) |
 
-Quality sell multipliers (Stardew) still apply on top of the LL base when the story uses quality: silver ×1.25 · gold ×1.5 · iridium ×2.
+Story sell grades: **normal · silver · gold · top** (not “iridium”). Multipliers vs normal when quality applies: silver ×1.25 · gold ×1.5 · top ×2.
 
 Round to nice numbers in prose when selling.

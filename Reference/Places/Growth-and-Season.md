@@ -2,7 +2,7 @@
 
 Covers three unrelated topics compiled from the same conversation: Stardew Valley crop growth, common plants of the Iberian Peninsula, and Pokémon berry growth times.
 
-Farm weather: [Paldea-Farm-Climate.md](Paldea-Farm-Climate.md). Story ranch: `Stories/Story 1/Story 1 References/Farm.md`. Stardew shop/upgrade lists stay under that story's Stardew folder. Berries that can stand in for real plants: [Berry-Plant-Replacements.md](Berry-Plant-Replacements.md). Plants with no clear berry stand-in: [Plants-Without-Berry-Analogues.md](Plants-Without-Berry-Analogues.md).
+Farm weather: [Paldea-Farm-Climate.md](Paldea-Farm-Climate.md). Story ranch: `Stories/Story 1/Story 1 References/Farm.md`. Livestock and land to feed ~40 people: [Farm-Livestock-and-Land.md](Farm-Livestock-and-Land.md). Stardew shop/upgrade lists stay under that story's Stardew folder. Berries that can stand in for real plants: [Berry-Plant-Replacements.md](Berry-Plant-Replacements.md). Plants with no clear berry stand-in: [Plants-Without-Berry-Analogues.md](Plants-Without-Berry-Analogues.md).
 
 ---
 
