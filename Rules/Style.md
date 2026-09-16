@@ -15,12 +15,14 @@ Prose and drafting style for `Stories/`. Follow `Formatting.md` for hard punctua
 - Scenic personification banned as a type: scenery does not act ("the forest was lush," never "the forest ran lush"). The word "ran" itself is fine in normal use.
 - Clipped noun compounds banned as a type: "signs of Caterpie," never "Caterpie sign."
 - Adjective vs adverb: "walked quietly," never "walked quiet."
+- No Python unless the writer explicitly permits it. Use StrReplace / Write / Read for edits.
 
 ## Drafting workflow
 
 - The writer owns the wording.
 - **Line-edit / dictation mode** (default when the writer points at a line or gives exact wording): apply the writer's words; capitalize; fix clear typos; enforce `Formatting.md`; do not erase neighboring sentences; do not polish into new prose.
 - **Chapter rewrite mode** (only when the writer asks to rewrite a chapter or decade as flowing English): translate/rewrite from the Inspiration source into plain English under `Formatting.md` and Story Notes. Still not flowery. Still not a summary. Still four-word floor.
+- **No Python unless the writer explicitly permits it.** For line edits and normal chapter work use StrReplace / Write / Read only. Do not write temp scripts, run `python`, or scan with scripts unless the writer clearly says to use Python.
 - Do not invent plot, dialogue, or lore unless asked.
 - When the writer sends a bare line number, pull that beat from the active reference chapter file for the current story (Story 1: `Inspiration/Rancher/Chapters/…`; Story 2: `Inspiration/Gym Leader/Chapters/…`) and put it into the story using the writer's wording habits as already on the page. Change reference names only when Notes require it (e.g. Naoki → D). Do not polish the line into new prose.
 - If a fix is needed for `Formatting.md` (four-word floor, no em dash, panel appear), make the smallest possible edit that fixes the rule.

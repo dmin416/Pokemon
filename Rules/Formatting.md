@@ -23,6 +23,7 @@ Hard rules for all `Stories/` prose. Also mirrored in `.cursor/rules/story-prose
 - Banned flavor unless the writer wrote it: "eyes lit," "went down to the core," "ringed," "eyed," "spitting image," "harvest joy," "ranch river," and similar purple fillers. Not "His eyes lit." Write the plain beat ("Then what caught his attention was..."). Not "berries went down to the core." Write plain eating ("It quickly ate the two berries...").
 - When the writer dictates a phrase, use that exact phrase. Do not "improve" it.
 - When changing one beat in a paragraph, keep the other sentences unless asked to cut them.
+- **No Python unless the writer explicitly permits it.** Edit with StrReplace / Write / Read only. Do not write temp scripts or run python for story edits unless asked.
 
 ## Markup
 
