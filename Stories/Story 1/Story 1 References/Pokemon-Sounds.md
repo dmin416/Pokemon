@@ -215,7 +215,7 @@ These 19 entries need a different sound register than the syllabic name-echo pat
 Cry / idle-random / aggressive / content / distress / long.
 
 **Koraidon**
-GRAAOOM-vroom! / hrrm... hrrm... hrrm... / KRAAAGH! / Kor! Kor! / skrii-krkt! / GRAAOOM-vroom-GRAAOOM-vroom-krkt-DON!
+GRAAOOM-vroom! / Kor... Kor... Kor... / KRAAAGH! / Kor! Kor! / skrii-krkt! / GRAAOOM-vroom-GRAAOOM-vroom-krkt-DON!
 
 **Dragonite**
 Kroooh! / hrmm~ hrmm~ / Graff-ROOH! / hnn-hnn-hnn~ / kweeeh... / Kroooh-kroo-ni-Kroooh-ROOH-ite!
