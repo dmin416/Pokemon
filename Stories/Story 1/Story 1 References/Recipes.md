@@ -97,8 +97,44 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Rating: C-
 - Tier: Level 1 (RNG skill effect)
 - Effect: Skill Refinement — after eating, a Pokémon's move randomly changes (power up/down, forget, specialize, or learn new)
-- Notes: Caterpie learned Electroweb. D forbids casual remakes until the new move is mastered (Chapter 17). Double-edged; Chu Feng’s Culinary Master memories warn of wipeouts.
+- Notes: Caterpie learned Electroweb (Ch16). Cyclizar learned Dragon Tail and kept other moves (Ch49). Dragonite learned Extreme Speed then on a second (truffle) platter forgot Dragon Tail (Ch51). Double-edged; Chu Feng’s Culinary Master memories warn of wipeouts.
 - First made: Chapter 16
+
+### Berry Platter (B+)
+
+- Source: mixed berries + Black Truffle powder on top
+- Rating: B+
+- Tier: Level 2 package with RNG Skill Refinement
+- Effect: Skill Refinement with increased chance of comprehending powerful rare moves
+- Notes: Fed to Dragonite after Extreme Speed platter (Chapter 51). It forgot Dragon Tail. D stopped further gambles until Dragon Tail was relearned
+- First made: Chapter 51
+
+### Smashed Cucumber (D)
+
+- Source: smashed cucumber from first harvest
+- Rating: D
+- Tier: little / slight
+- Effect: Heat Resistance lv1
+- Notes: Harvest lunch with Yousuke (Chapter 54). Excellent for cooling off in summer
+- First made: Chapter 54
+
+### Tomato and Scrambled Eggs (C)
+
+- Source: harvest tomatoes scrambled with eggs
+- Rating: C
+- Tier: Level 1
+- Effect: Appetite Increase
+- Notes: Homemade sweet-sour. Served at harvest lunch and wine-party stall (Chapters 54, 56–58)
+- First made: Chapter 54
+
+### Boiled Pork Slices (B)
+
+- Source: pork tenderloin with chili, Sichuan pepper, ginger and scallions in red oily broth
+- Rating: B
+- Tier: Level 2
+- Effect: Blaze Burst — Fire-type exclusive. Moderately increases Fire-type energy short-term. Slightly enhances comprehension of Fire-type moves
+- Notes: Cinderace spat fire then learned Blast Burn (Chapter 54–55). Dragonite tried; not Fire-type; no move. Party stall star at **800** LL; Litleo learned Flame Charge (Chapter 57). Limit two servings per person at the stall
+- First made: Chapter 54
 
 ### Steamed Green Grass (D-)
 
@@ -238,3 +274,128 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Source: Alcremie caramel cream mixed with Nacli rock salt (Chapter 43)
 - Rating: not a plated dish appraisal
 - Notes: Milky caramel sweet-salty. Great for desserts. Appeals to sweet-and-salty Pokémon. Cheese rock-salt Assam milk-tea vibe (Chapter 48). Used in Xue Mei Niang stuffing (Chapter 49)
+
+### Fragrant Sweet Poffin (A)
+
+- Source: Pecha + Mago and other Poffin ingredients (Chapter 71)
+- Rating: A
+- Tier: Level 3
+- Effect: Good Friend lv2 — raises friendliness of sweet-liking Pokémon; helps attract wild sweet-likers. Long-term use can strengthen
+- Notes: Homemade after dessert-shop Poffin gift. First clear A-letter dish
+- First made: Chapter 71
+
+### Lucky Pudding (A)
+
+- Source: light cream, MooMoo Fresh Milk, Combee honey, gelatin; chilled in fridge molds (Chapter 77)
+- Rating: A
+- Tier: Level 3 (temporary luck)
+- Effect: Good fortune — short luck up for humans; Pokémon rare-item find chance up while the effect lasts
+- Notes: Standard batches stay temporary. Teddiursa and Mew ate many. Remakes with tulip honey still usually A (Chapter 103)
+- First made: Chapter 77
+
+### Honey Bun (A-)
+
+- Source: honey, MooMoo Milk, eggs, flour; baked after oven purchase (Chapter 94)
+- Rating: A-
+- Tier: Level 3 (upper C/B package vibe; letter A-)
+- Effect: Rich honey scent attracts some Bear-type Pokémon
+- Notes: Made while watching for Teddiursa. Fed to Koraidon, Dragonite, Cyclizar and later Teddiursa
+- First made: Chapter 94
+
+### Birthday Cake (B)
+
+- Source: birthday cake for Cyclizar (and shared day with Koraidon) (Chapter 95)
+- Rating: B
+- Tier: Level 2 with permanent stat line
+- Effect: Birthday gift — permanent +1 to HP, Attack, Sp. Atk, Speed, Defense, Sp. Def
+- Notes: Tied to Cyclizar birthday pin **Aug 20** (prior autumn). Lewis confirmed the date
+- First made: Chapter 95
+
+### Black Truffle Caramel Honey Pudding (A+)
+
+- Source: Lucky Pudding line with Black Truffle and caramel honey (Chapter 100)
+- Rating: A+
+- Tier: Level 3+ temporary luck
+- Effect: Extreme Luck — stronger short luck / rare Pickup odds than plain Lucky Pudding (A). Still temporary
+- Notes: Farewell prep for Teddiursa / Mew. Not the permanent S batch
+- First made: Chapter 100
+
+### Honey Grilled Fish
+
+- Source: fish grilled with honey (Chapter 101)
+- Rating: not fully lettered on page
+- Effect: Stamina Recovery (Large)
+- Notes: Side experiment while waiting on gummies. Not the target effect
+- First made: Chapter 101
+
+### Honey Lemon Water
+
+- Source: honey lemon drink (Chapter 101)
+- Rating: not fully lettered on page
+- Effect: Revitalization — relieves fatigue and restores energy
+- Notes: Side experiment while waiting on gummies
+- First made: Chapter 101
+
+### Honey Gummies (A)
+
+- Source: gelatin + water + honey + Nomel Berry juice; mold-chilled (Chapter 101)
+- Rating: A
+- Tier: Level 3
+- Effect: **Run Away** — Pokémon gains guaranteed escape ignoring the opponent's strength
+- Notes: Fed to Teddiursa before travel. Stacks conceptually with Pickup + Lucky Pudding for escape theft fantasies. Evaluation: do not underestimate the gummy
+- First made: Chapter 101
+
+### Lucky Pudding (S)
+
+- Source: same cream, MooMoo Fresh Milk and honey as A batch but cooked with sincere wishing for Teddiursa's journey (Chapter 101)
+- Rating: S
+- Tier: S-band permanent
+- Effect: **Fortune Accompanies** — luck permanently increases for humans and Pokémon; traveling Pokémon permanently raise rare Pickup odds
+- Notes: Mood while cooking changed temporary A luck into permanent S. Only confirmed once so far. D gave the batch to Teddiursa instead of keeping it. Later remakes with Tulip Honey did not hit S again (Chapter 103)
+- First made: Chapter 101
+
+### Hot Noodle Soup (B+)
+
+- Source: full ingredients and seasonings: noodles, scallions, poached eggs, sesame oil (Chapter 109). Same line as early Hot Soup Noodles
+- Rating: B+
+- Tier: Level 2 with Cold Resistance lv3
+- Effect: Cold Resistance **lv3** — endure severe cold; warm body; **6 hours**
+- Notes: Upgraded from C- / C (lv1, 30–35 min) when ingredients were complete. Fed to D and Koraidon before Glaseado. Appraisal also prints "Slight" flavor note
+- First made: Chapter 109 (improved form); base line Chapters 3 / 5
+
+### Poisonous Mushroom Soup / Thick Soup (B-)
+
+- Source: toxic wild mushrooms simmered as thick soup (Chapters 200–203)
+- Rating: B-
+- Tier: Level 2 niche
+- Effect: Links the eater’s consciousness to Giratina’s Reversed World while the body stays in the real world. Poisoned state; detox with Pecha Berry Juice or Antidote on a short timer
+- Notes: Culinary Master version is what makes the vision work. Indeedee siblings supervise. Neighbor Toff’s hollow supplies dried stock. Cannot remove Reversed World water by VR-style visits alone
+- First logged: Chapter 200 / 201 arc
+
+### Reversing Mask · Heart / Techniques / Body (S)
+
+- Source: clear soup noodles (and later tea) cooked with **Water of the Reversed World** plus rich ingredients (Chapter 204)
+- Rating: S each
+- Tier: S-band Reversing the Universe
+- Effect: Heart reverses inner nature. Techniques reverses Legendary ability / aura / authority. Body reverses physical power
+- Notes: Indeedee tasted Techniques (no Legendary effect). D ate Body and turned skinny; random Reversed tea hit Body and restored him. Heart + Techniques offered to Giratina → temporary luminous soft form
+- First made: Chapter 204
+
+### Storm Steamed Bun (S+)
+
+- Source: dough kneaded with **Lugia's Feather Powder** from a ground Silver Wing (Chapters 206–207)
+- Rating: S+
+- Tier: S+ Legendary cuisine
+- Effect: **Sea God (1/6)** — weather control; Flying exclusive; incomplete because crusher blast wasted most powder
+- Notes: Six buns steamed. Dragonite ate all six → ranch-scale then region-scale Rain Dance; later demonstrated **Aeroblast**. Full Sea God needs a full powder ratio
+- First made: Chapter 207
+
+### Super Berry Platter (A-)
+
+- Source: mixed berries including gold and silver rare garden berries (Chapter 210)
+- Rating: A-
+- Tier: Level 3
+- Effect: Skill Refinement (**large**); higher rare-move odds than Berry Platter C- / B+
+- Notes: Sister Indeedee learned **Lunar Dance**. D stopped further platters to protect the exclusive. Wants Lucky Pudding / Teddiursa luck before more tests
+- First made: Chapter 210
+

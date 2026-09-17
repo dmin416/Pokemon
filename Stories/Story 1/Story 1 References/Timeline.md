@@ -62,23 +62,43 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 - **298 late January (Ch49–50):** First salt bag. Top goat milk. Dragon Tail (Cyclizar / Dragonite).
 
-- **298-01-31 (Ch52):** Calendar. Wine-party invite for Feb 7.
+- **Soon after Ch50 (Ch51):** Dragonite Berry Platter → Extreme Speed; B+ truffle platter → forgot Dragon Tail. Practices again.
 
-- **298-02-04 (Ch53):** Calendar.
+- **298-01-31 (Ch52):** Ledger +32300 haul (salt/milk/mushrooms). Funds **33680**. Allen delivers Elif wine-party invite for Feb 7. Mrs. Dantes cookies + thanks.
 
-- **298-02-05 (Ch56):** Two days before wine party.
+- **298-02-04 (Ch53–55):** Yousuke visits. First harvest. Boiled Pork Slices → Cinderace Blast Burn. Replant + fertilizer. Crop sale >20000. Night: Metapod → **Butterfree**. Yousuke camps then leaves next morning (Ch56).
 
-- **298-02-07 (Ch56–58):** Cherry Blossom Wine Party.
+- **298-02-05 (Ch56):** Two days before wine party. Flower seeds + Space Backpack (~20000).
 
-- **298-02-15 (Ch72):** Calendar.
+- **298-02-07 (Ch56–58):** Cherry Blossom Wine Party at Elif Cherry Garden. Stall net ~14000. Litleo Flame Charge. Trades: cherry wine, cheese, Poffins, cookies, Pikachu mask.
 
-- **298-02-21 (Ch94):** Two days before cattle/sheep contest.
+- **After party storm (Ch59–60):** Leaf Blade Skiddo. Six chicks hatch. Feed thief footprints. Dragonite storm training → Thunderbolt + Thunder Punch; Rain Dance still open.
 
-- **298-02-24 (Ch93–95):** Contest day. Cyclizar birthday pinned: **Aug 20** (prior autumn).
+- **Ch61–67:** Rain Dance mastered (short shower). Combee ×3 + hive. Pawmi caught (feed thief → chicken guard). Bank card. Sada/Turo video call. Pokémon House commissioned (**50000**). TV **9000** + fridge **53000**.
 
-- **298 late February (~Ch103):** Month end.
+- **298-02-15 (Ch72):** Calendar. Pokémon House complete. New bed already in. Miltank still unaffordable at that stamp.
 
-- **298-03-14 (Ch103):** Calendar.
+- **Ch73–79:** Teddiursa honey arc; Lucky Pudding (A); Everstone trade; flying disc; Zapapico special soil.
+
+- **Ch80–83:** Typhoon Furious Parrot; black Rayquaza clears storm; Dragonite Hurricane + Dragon Dance; goat milk Top **800**/bottle.
+
+- **Ch85–86:** First Miltank (**20000**); pasture sown; Teddiursa returns with warm stone.
+
+- **Ch87–92:** Super Vine Whip; free auto-milker; Skiddo → **Gogoat ×3**; goat milk daily; MooMoo Top priced **600**.
+
+- **298-02-21 (Ch94):** Two days before cattle/sheep contest. Honey Bun (A−). Three Miltank noted. Oven bought. AC still planned.
+
+- **298-02-24 (Ch93–98):** Contest day. Cyclizar birthday pinned **Aug 20**. Birthday Cake (B). Teddiursa returns with **Water Stone** then is caught. Ranch champion + half-year feed prize. Mew arc Ch99–100; travel prep; Black Truffle Caramel Honey Pudding (A+).
+
+- **Late February (Ch101–102):** Honey Gummies (A); Lucky Pudding (S) farewell; Teddiursa + Mew sail Saint Ann → Vermilion. Flower strip blooms; second harvest. Calyrex feels D’s faith in southern Galar.
+
+- **298-03-14 (Ch103):** Calendar. Four ACs **−120000**. Dragonite shows Rain Dance + Hurricane + Thunder. Plans stay on ranch + Dragonite Island visit.
+
+- **Ch104–106:** Dragonite Island. Tribe show-off; spar win; mating duel loss; three wild Dragonite deferred; home under sunset weather play.
+
+- **Ch107–108:** Garden fence; Lewis calls Spring Horse Race **298-03-25**; Smoliv moves to Gogoat pen; thermal gear; ice-cave plan (remodel mushroom cave); generator **30000** ordered.
+
+- **Ch109–110:** Generator installed; mushroom trays reclaimed; Hot Noodle Soup (B+) Cold Resist lv3; Glaseado Mountain; Avalugg migrates with Bergmite; meet Everett (Alola); Glaceon hunt cliffhanger.
 
 - **298-03-15 (~Ch116–118):** Planting day.
 
@@ -476,9 +496,15 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 
 
-## Open / undated (early ranch draft only)
+## Open / undated
 
-
-
-- Sell first salt bag; crop harvest; fridge/TV/cellar; Tropius; Rain Dance; Space Backpack; flower field + Combee; Dragonite Island rumor; Arven’s game-era future not yet.
-
+- Summeries Ch61–100 still title-only; Status/Inventory/Farm/Recipes/Effects/Timeline now locked through **Ch110** from English chapters
+- Exact cash after generator (**−30000** Ch109) unclear; AC spend cleared half-month savings (Ch103)
+- Miltank #2–3 buy chapters / costs not stamped (three present by Ch94)
+- Combee trio total paid not written (list **2500** each)
+- Glaceon hunt / ice cave in progress (Ch110 cliffhanger with Everett)
+- Spring Horse Race **298-03-25**: watch and bet only (no Horse-type yet)
+- Tropius and other deferred catches: confirm before writing
+- Pokéblocks: waiting on a Breeder (Allen still hunting as of Ch205)
+- Full **Sea God** effect: needs a full Lugia powder ratio (Storm Bun was 1/6)
+- Autumn horse race: invite received; D has no horse yet (Ch205)

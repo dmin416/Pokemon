@@ -6,9 +6,11 @@ Robin’s Carpenter’s Shop stock (Stardew Valley). Permanent stock every day; 
 
 **Story 1 extras (Robin, not in this Stardew list):** mushroom cultivation trays 5000 (bought Chapter 21); buried-pipe irrigation 30000 to 40000 (quoted, not bought); Chicken House run wooden fences 1500 (bought Chapter 23); water mill 15000 including materials (quoted Chapter 23, not bought). See `../Farm.md`.
 
-**Story 1 (Chapter 31):** latest **video phone** installed, lab-funded gift from Professor Sada. Not bought from Robin. Still no TV, phonograph, or computer. Fridge/TV/cellar dreamed after first salt money (Chapter 50).
+**Story 1 (Chapter 31):** latest **video phone** installed, lab-funded gift from Professor Sada. Not bought from Robin.
 
 **Story 1 (Chapter 32–38):** wooden board path with oil-cloth torches. Grass left uncut (lawn).
+
+**Story 1 (through Chapter 210):** glass greenhouse online (Ch196 title; heated with Pawmot power by Ch205). Pokémon Tavern and new-home stretch exist from mid-year arcs. Glaceon ice cellar stores three barrels of Reversed Water. Phone Rotom from Ch196 title. Fridge / TV / cellar / hops wine remain confirm-before-write if a middle chapter did not already add them.
 
 Wood/stone buy prices rise in Year 2 (letter Spring 1, Year 2). Sell value of wood/stone to Robin or the Shipping Bin is unchanged in Year 2+.
 

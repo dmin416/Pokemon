@@ -50,12 +50,12 @@ Sells ordinary animals and farm Pokémon. League-legal (not black market). Sign:
 
 | Item | Price | Notes |
 |------|-------|-------|
-| Combee | 2500 | Need flower field + hives; forage their own food |
-| Smoliv | 2500 | Bought x1 (Chapter 24). Oil bitter until Dolliv. |
+| Combee | 2500 | Need flower field + hives; forage their own food. Bought trio + hive Chapter 62–63 (males; no Vespiquen needed) |
+| Smoliv | 2500 | Bought x1 (Chapter 24). Oil bitter until Dolliv. Moved to Gogoat pen Chapter 108 |
 | Alcremie | 2600 | Bought x1 (Chapter 24). Strawberry-topped. Caramel cream confirmed (Chapter 26). Happier = richer cream. |
 | Noibat | 3000 | No feed; brings fruit and berries |
 | Wooloo | 10000 | Wool. Cow/sheep feed. |
-| Miltank | 20000 | Milk. Cow/sheep feed. |
+| Miltank | 20000 | Milk. Cow/sheep feed. First bought Chapter 85–86; three on ranch by Chapter 94 |
 | Nacli | 10000 | Shop price. Wild x5 joined Chapter 40. Salt House complete. First harvest 3250 g (Chapter 50) |
 
 ### Feed (~2 kg per portion)
@@ -77,7 +77,17 @@ Sells ordinary animals and farm Pokémon. League-legal (not black market). Sign:
 
 | Item | Price | Notes |
 |------|-------|-------|
-| Milking machine + 3 milk cans + 200 glass bottles | 4600 | Granddaughter sold while grandpa was out. Skiddo milk every two days ~2–3 kg each before Gogoat |
+| Milking machine + 3 milk cans + 200 glass bottles | 4600 | Granddaughter sold while grandpa was out. Skiddo milk every two days ~2–3 kg each before Gogoat. Auto-milker later free (Chapter 89–90; list 4000) |
+
+## Department store / Robin extras
+
+| Item | Price | Notes |
+|------|-------|-------|
+| Projection TV | 9000 | Chapter 68. Annual program fee 3000 |
+| Double-door fridge | 53000 | Chapter 68 |
+| Air conditioner ×4 | 120000 total | Chapter 103. Cabin, Salt House, Pokémon House, Chicken House |
+| Power generator | 30000 | Robin Chapter 108–109. Stores Pokémon electricity |
+| Thermal mountain kit | (town store) | Coat, gloves, goggles, snow boots + kerosene stove (Chapter 108) |
 
 ## Notes
 
@@ -85,12 +95,13 @@ Sells ordinary animals and farm Pokémon. League-legal (not black market). Sign:
 - Black Truffle sale was to Zack (33000 for ~1.1 kg), not the general store.
 - Carpenter-shop forest locals: Tarountula, Nymble, Smoliv (Chapter 23).
 - Eggs: 10 for 250 retail. Zack wholesale a bit less (Chapter 28). Fishing stretch: eggs kept for cooking rewards (Chapter 38).
-- Zack: buy fertilizer in town before the next crop (Chapter 32). Not bought.
+- Fertilizer bought Chapter 52 (−10000). Applied after first harvest (Chapter 54).
 - League **298-01-15** evening fish **2620**. Five days Casseroya / Paldea Sea fish net **43320**. Holding-lake haul **3360** (Chapter 43). Seafood restaurant exclusive offer refused.
 - Mrs. Boji Dantes: 308 Blue Sea Street. Two bottles goat milk every morning. Offered 500/bottle; D charges normal + ~100 delivery. Dragonite delivers (Chapter 45–50).
 - Fishing-tackle shop: giant fishing nets (Chapter 37).
 - Trainer shop: ten Poké Balls for **2000** (Chapter 38).
-- Goat milk: market ~200/300 ml; Top Quality Zack **600** (Chapter 50).
-- Pasture seeds: Robin tip when sheep-pen grass is gone (Chapter 48). Not bought.
-- Space Backpack: traveler gear; ask at town department store (Chapter 41). Not bought.
+- Goat milk: market ~200/300 ml; Top Quality Zack **600** (Chapter 50) then **800** (Chapter 83). MooMoo Top **600** (Chapter 92).
+- Pasture seeds: sown for Miltank lawn (Chapter 86+). Robin tip earlier Chapter 48.
+- Space Backpack: bought Chapter 56 (~20000 with flower seeds).
 - Red satchel for Dragonite: grocery store (Chapter 47).
+- Pokémon House: Robin **50000** (Chapter 68–72).

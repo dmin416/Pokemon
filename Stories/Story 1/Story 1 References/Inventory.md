@@ -1,52 +1,57 @@
 # Inventory
 
-Early chapter money/hauls sit in **League 298** ([`Dates.md`](Dates.md) / [`Timeline.md`](Timeline.md)).
+Money and hauls sit in **League 298** ([`Dates.md`](Dates.md) / [`Timeline.md`](Timeline.md)). Current beat: after Chapter 110 Glaseado trip start.
 
 ## Money
 
-- Lake holding haul to Zack (Chapter 43): **3360**
-- Milking machine + 3 cans + 200 glass bottles: **-4600** (Happy Ranch, Chapter 45)
-- After goat pen: about **5000** left (Chapter 46), before salt/milk sales scale up
-- First Nacli salt bag: **3250 g** → about **19500** at 3000/500 g (Chapter 50; sell to Zack evening)
-- Goat milk: market bottle was **200**/300 ml; Top Quality to Zack **600**/bottle. Mrs. Dantes: normal price + ~100 delivery (two bottles mornings)
-- Older: five-day fish net 43320; Salt House -25000; ten balls -2000
+- Ledger **298-01-31** (Chapter 52): remaining **33680**
+- Crop sale Ch54 **>20000**; Space Backpack Ch56 **~−20000**; wine party Ch58 net **~14000** → rough post-party **~47k**
+- Ch68: Pokémon House **−50000**; TV **−9000**; fridge **−53000** (card left ~**8000** after TV+fridge; funds before house had been ~**120000**)
+- Combee ×3 list **2500** each (Ch62); Miltank #1 **20000** (Ch85–86); Miltank #2–3 bought later (costs not stamped)
+- Sheep milk Top raised to **800**/bottle (Ch83). MooMoo Top **600**/bottle (Ch92). Mrs. Dantes: normal + delivery
+- Ch103: four air conditioners **−120000** (cleared half-month crop/salt/milk savings)
+- Ch109: power generator **−30000**. Exact remaining cash after generator **unclear**
+- Older marks: Salt House −25000; milking gear −4600; five-day fish 43320; first salt bag ~19500
 
 ## Possessions
 
-- Backpack (wants Space Backpack from department store later, Chapter 41)
-- Clothes / blue overalls / gray dirt-resistant apron (Chapter 46)
-- Tools: hammer, sickle, hoe, sprayer, axe, saw, flashlight, hayfork
-- Basic fishing rod; giant nets; lake-bottom oversized net
-- Oil-cloth torches; wooden path
-- Seasoning set; market groceries; glutinous rice flour and white sugar stock for Grass dumplings
+- **Space Backpack** (Ch56)
+- **Bank card** (Ch67)
+- Clothes / overalls / apron; **thermal coat, gloves, goggles, snow boots** (Ch108); kerosene stove
+- Tools: hammer, sickle, hoe, sprayer, axe, saw, flashlight, hayfork, workbench
+- Basic fishing rod; giant nets; lake-bottom net
+- Oil-cloth torches; wooden path; **flower-garden wooden fence** + flower sign (Ch107)
+- Seasoning set; gelatin powder; glutinous rice flour; white sugar; oven + skillet (Ch94)
 - Pasture Encyclopedia
-- Mushroom trays; cave Small Mushrooms x2 (status not updated)
-- Black Truffle scrap: grated into Skiddo porridge (Chapter 46); remainder stored
-- Account book + pen; Mrs. Dantes number and address (308 Blue Sea Street)
-- Video phone
-- Purifying Salt jar (Garganacl gift)
-- Chicken feed / sweet feed
-- Flowerpot (Smoliv)
-- Eggs (cooking rewards during fishing; hatch pile pending)
-- Galarian leek (Yousuke)
-- **Milking machine**, three milk cans, 200 glass bottles (Chapter 45)
-- Dragonite **red satchel** (grocery store, Chapter 47)
-- Sealed cloth bags for rock salt; first bag **3250 g** (Chapter 50)
-- Green Grass Dumplings batch (~one week; Chapter 46–48)
-- Poké Balls: Cyclizar, 5 Nacli, 3 Skiddo, Dragonite filled. Spares from the ten bought Chapter 38 reduced by those catches. Koraidon still uncatchable with regular balls
+- **Video phone**; **projection TV** (Ch68; annual fee 3000); **double-door fridge** (Ch68); **new bed**; **AC ×4** (cabin, Salt House, Pokémon House, Chicken House — Ch103)
+- **Power generator** in storeroom (Ch109; Pokémon electricity)
+- Purifying Salt jar; Black Truffle scrap (remainder after platters/porridge)
+- Account book; Mrs. Dantes 308 Blue Sea Street
+- Chicken feed / sweet feed / pasture seeds (sown for Miltank lawn)
+- Flowerpot (Smoliv’s old spot); Combee hive
+- Dragonite **red satchel**; milking machine + cans + bottles; **automatic milker** (free, Ch89–90)
+- Sealed rock-salt bags
+- Party leftovers: cherry wine, cheese, Poffins, cookies, Pikachu mask
+- **Water Stone** (Teddiursa gift, Ch95)
+- Contest champion trophy + half-year Pokémon food prize (Ch98)
+- Poké Balls filled: Cyclizar, 5 Nacli, 3 Gogoat (were Skiddo), Dragonite, Teddiursa (traveling), Pawmi. Combee/Miltank from Happy Ranch. Koraidon still uncatchable with regular balls. Spares as bought
 
 ## Companions
 
-- Cyclizar (caught Ch 32). Dragon Tail from Berry Platter (Ch 49). Eaves guard. Helps salt bags
-- Koraidon (Sada/Turo). Flies. Taught Dragon Tail. Holds Nacli during harvest
-- Metapod (eaves). Not Butterfree yet
-- Alcremie (caramel). Caramel Rock Salt Cream with Nacli
-- Smoliv (windowsill / play)
-- **Nacli x5** (Ch 40). Salt House home. Share salt with D
-- **Skiddo x3** (Ch 42). Sheep pen. Milk every two days. Moves: Vine Whip, Razor Leaf; Grassy Terrain; Solar Beam; Synthesis (battle one)
-- **Dragonite** (Ch 44). Red-satchel deliveryman. Moves: Wing Attack, Leer, Twister, Dragon Rage, **Dragon Tail** (Ch 50). Soft belly confirmed
+- Cyclizar (Ch32). Dragon Tail. Transport. Birthday **Aug 20**
+- Koraidon. Flies. Sunny Day / Orichalcum Pulse shown Ch106
+- Butterfree (evo Ch55)
+- Alcremie (caramel)
+- Smoliv (Gogoat pen from Ch108)
+- Nacli ×5 (Ch40)
+- **Gogoat ×3** (evo from Skiddo Ch91). Daily milk. Contest champs
+- Dragonite (Ch44). Moves: Wing Attack, Leer, Twister, Dragon Rage, Dragon Tail, Extreme Speed, Thunderbolt, Thunder Punch, Agility, Dragon Dance, Rain Dance, Hurricane, Thunder
+- Combee ×3 + hive (Ch62–63)
+- Pawmi (Ch64; was feed thief)
+- Miltank ×3 (first Ch85–86; three by Ch94)
+- Teddiursa (caught Ch97; left Ch101 with Mew)
 
 ## Livestock
 
-- 3 hens + 1 rooster (Chicken House)
-- January 15 Egg explosion cooldown and hatch half still on the books unless aged off-page
+- 3 hens + 1 rooster; chicks grown; Chicken House free-feed
+- Pawmi herding. Feed-thief arc closed
