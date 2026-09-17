@@ -48,15 +48,16 @@ Story calendar uses **League years** (聯盟歷). Main arrival year = **League 2
 | 298-04-01 | 129 | Summer begins |
 | 298-04-16 | 149–150 | Calendar |
 | 298-05-06 | 162 | Calendar |
-| 298-05-07 | 170 | Crop schedule; fireworks announced for **May 31** |
-| 298-05-19 | 176 | Calendar |
+| 298-05-07 | 170 | Crop schedule; fireworks announced for **May 31**; fishing contest set for **May 20** |
+| 298-05-19 | 176 | Calendar; house build in progress |
+| 298-05-20 | 176–178 | Fishing contest day (D skips for Ninetales); Magikarp Uncle wins |
 | 298-05-31 | 179–180 | Summer fireworks festival |
-| 298-06-28 | 181, 184 | Calendar |
-| 298-06-29 | 184 | Calendar |
-| 298 (note) | 185 | Calendar marked **Nov 2** for a later trip; winter = Oct–Dec |
+| 298-06-28 | 181–183 | New house complete; furniture / barrels / tavern soft open |
+| 298-06-29 | 184 | Mutant Miracle Seedling; Machamp tavern guests |
+| 298 (note) | 185 | Calendar marked **Nov 2** for a later Galar trip; winter = Oct–Dec |
 | 298-07-04 | 185 | Wine barrels finished |
-| 298-07-05 | ~186 | Next day |
-| 298-07-25 | 198 | Autumn begins |
+| 298-07-05 | 187–190 | Indeedee siblings delivered; new pumpkin/sunflower sow |
+| 298-07-25 | 198 | Autumn begins; Cyclizar fever; glass greenhouse build starts |
 | 298 early August | 205 | Month marker |
 | 298-08-12 | 210 | Calendar |
 | 298-08-13 | 213 | Calendar; mark on Aug 20 |
@@ -277,7 +278,12 @@ Story calendar uses **League years** (聯盟歷). Main arrival year = **League 2
 - **Ch1–10:** Almost no calendar stamps (clock times only). Story 1 `Timeline.md` infers Jan 5–14 from ledger continuity; only 01-05 / 01-06 / 01-07 / 01-14 are stamped in-source.
 - **Ch60–90:** Sparse until Feb contest arc. Story 1 Timeline now fills Combee / Pawmi / Pokémon House / typhoon / Miltank / Gogoat from English Ch61–100.
 - **Late Feb–mid Mar (Ch101–110):** Teddiursa departure; ACs **298-03-14**; Dragonite Island; Glaseado trip. No new ledger stamp.
-- **Ch201–210:** stamps include early August (Ch205) and **298-08-12** (Ch210). No money ledger in this stretch.
+- **Ch201–270:** early August through early November home. Key stamps include **298-10-09** depart Galar (Ch241); dock Levincia **298-10-28** / home **298-10-31** (Ch262). Money: beer ~270k; ledger **680000** (Ch237); Zack **+48000** (Ch239); cruise **−3200** (Ch242). Ch261–270: Red Tea / Green Grass Cake / Reversed Red Tea Heart; World Tree −2000 years; no new LL stamps.
+- **Ch271–280:** **298-11-06** Alice films (Ch271); **298-11-10** *Man and Dragon* airs (Ch272); **298-11-14** first snow (Ch276); **298-11-25** Arven leaves + berry wines ready (Ch279). Pawmot hammer; Teddiursa/Mew return; Gimmighoul. No new LL stamps; ancient gold coin unstamped.
+- **Ch281–290:** late Dec Second Nurture / Leaf Cake S-; NYE→**299** New Year; early spring Life Sheep Milk + Calyrex mountain miracle + Friendship Berry; Leaf Cake S / Green Grass Cake A+; Elo **−4200**; Diglett→Dugtrio; Teddiursa/Mew to Johto. Life Sheep Milk price not stamped through Ch290.
+- **Ch291–300:** Life Sheep Milk **30000 LL**/bottle; ≈**+1M** banked (Ch291). Rika Abundant Shrine + cemetery; World Tree **91220** / ~3 m+; TV faith surge; **299-02-06** Elif letter + Sada Flutter Mane call; Area Zero reunion Ch298–300 (Flutter Mane uncatched; Miraidon offer). Retail humans often switch to MooMoo.
+
+
 - **Mid League 300:** After 300-06-30 fireworks, jumps to 300-11-03 (Jul–Oct largely undated).
 - **Ch521–530:** Almost no specific dates in the Chinese dumps.
 - Real-world author dates (2023–2025 update notes) are not listed here.

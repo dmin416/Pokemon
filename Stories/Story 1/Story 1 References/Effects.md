@@ -15,7 +15,7 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 ### Working notes
 
 - Grade is the dish rating; effect *level* is what the buff line shows (e.g. Cold Resistance **lv1** on a **C** dish). Exclusive niche lines can punch above the letter: Slippery **lv3** on Steamed Egg **B+** (Chapter 26).
-- Same recipe can climb a letter with better ingredients (Hot Soup Noodles C- → C with wild leeks). A proper cake base would have raised Cream Fruit Cake above D-.
+- Same recipe can climb a letter with better ingredients (Hot Soup Noodles C- → C with wild leeks). Cream Fruit Cake rose D- → B with a proper cake base (Ch. 177).
 - Special ingredients (Black Truffle, Water of the Reversed World, Lugia's Feather Powder, gold/silver berries) don't always add their own buff; they **amplify** or change the dish. Confirmed: Milk Porridge (B) → Black Truffle Milk Porridge (S); Berry Platter (C-) → (B+) with truffle → **Super Berry Platter (A-)** with rare berries (Ch. 210); clear soup noodles + Reversed Water → Reversing Mask (S); steamed bun + Lugia powder → Storm Steamed Bun (S+).
 - Purifying Salt (Garganacl) adds **Stamina Recovery** to dishes (confirmed on fried pork cutlets, clear soup noodles, and Steamed Egg, Chapter 26) and can heal Pokémon wounds on its own.
 - Happier Alcremie produces richer cream (Chapter 26).
@@ -58,6 +58,8 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 | Fried Pork Loin | C | Restores health. Ch. 49 |
 | Lemon Sole Sandwich | C+ | Attracts Water-types when carried. Ch. 49 |
 | Tomato and Scrambled Eggs | C | Appetite Increase. Ch. 54 |
+| Grass Juice | C | Restorative potion **lv1** (Grass Energy / Grass PP). Ch. 134 |
+| Watermelon Jelly | C+ | **Watermelon Knight** (helmet draw + foe Atk/Def down). Ch. 163 |
 
 ### B — Level 2
 
@@ -71,8 +73,23 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 | Xue Mei Niang | B | Greatly raises dessert-lover fondness; strong Alcremie attraction. Ch. 49 |
 | Boiled Pork Slices | B | Blaze Burst (Fire exclusive). Cinderace → Blast Burn. Litleo → Flame Charge. Ch. 54–57 |
 | Birthday Cake | B | Permanent +1 all six stats. Ch. 95 |
-| Hot Noodle Soup | B+ | Cold Resistance **lv3**, **6 h**. Ch. 109 |
+| Hot Noodle Soup | B+ | Cold Resistance **lv3**, **6 h**. Ch. 109. Careful remake also used in Crown Tundra cave (Ch. 243) |
+| Hot Noodle Soup | B- | Cold Resistance **lv2**, **2 h**. Crown Tundra cave first batch Ch. 243 |
+| Potato Stew | B+ | Cold resistance + recovery **lv2**; warm body + stamina; **6 h**. Can retire hot noodle soup for cold. Ch. 250 |
+| Cloud Milkshake | B+ | Slight Ice-move comprehension + Ice fondness. Ch. 130 |
+| Courage Egg Fried Rice | B+ | Gather your courage (willpower can refuse). Ch. 138 |
+| Translation Nuts | B+ | **Language communication (minor)**: one nut = one translated word; stacks. Ch. 162 |
+| Ice-cold Watermelon Juice | B | Heat Resistance **lv1**, **15 min**. Ch. 163 |
+| Sweet and Sour Pineapple Pork | B+ | **Flash**: chance to learn Flash; body shines **30 min**. Ch. 165 |
+| Pineapple Sticky Rice | B+ | Same **Flash** / glow line. Ch. 166 |
+| Cream Fruit Cake (Caramel Flavor) | B | Sweet Dream **lv2** (Dream God–blessed). Ch. 177 |
+| Explosive Popcorn | B | **Explosion Specialization lv1**. Collision Course crater. Ch. 178 |
 | Poisonous Mushroom Soup / Thick Soup | B- | Culinary Master toxin that links consciousness to Giratina’s Reversed World while the body moves in the real world. Needs Pecha Berry / Antidote detox on a timer. Ch. 200–203 |
+| Barley Beer | B | **Intoxication**: tipsy calm; body and mind relax; faster injury recovery. Fighting-types may get odd battle results if drunk. Ch. 211 |
+| Pumpkin Cookies | B+ | **Lucky lv2**: status-move hit rate up; stronger Metronome odds; **10 min**. Ch. 216 |
+| Pecha Berry Wine | B | Detoxification: clear poison + some poison resist (non-stack; slight immune chance). Do not overindulge. Ch. 279 |
+| Cheri Berry Wine | B | Paralysis Resistance: clear paralysis + some resist (non-stack). Do not overindulge. Ch. 279 |
+| Sitrus Berry Wine | B | Stamina restoration only. Do not overindulge. Ch. 279 |
 
 ### A — Level 3
 
@@ -83,7 +100,13 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 | Honey Bun | A- | Attracts some Bear-types by honey scent. Ch. 94 |
 | Black Truffle Caramel Honey Pudding | A+ | Extreme Luck (temporary; stronger than A). Ch. 100 |
 | Honey Gummies | A | **Run Away** (guaranteed escape). Ch. 101 |
+| Green Grass Cake | A | **Flower Trick** crop mutations via Grass tenders. Smoliv → Dolliv. Ch. 134 |
+| Green Grass Cake | A+ | **Flower Trick** (small chance; was extremely small). Friendship Berry upgrade. Ch. 289 |
+| Braised Chicken with Mushrooms | A | **Oily and Slippery lv3** (fur). Ch. 142 |
+| Pumpkin Pancake | A | **Size Adjustment**: three size-change chances then revert; humans and Pokémon. Ch. 166 |
+| Brown Sugar Ginger Tea / Red Sugar Ginger Tea | A | **Warmth lv3**: dispel cold; practice efficiency up; **12 h**. Ch. 199 |
 | Super Berry Platter | A- | Skill Refinement (**large**); higher rare-move odds than Berry Platter C- / B+. Sister Indeedee → **Lunar Dance**. Ch. 210 |
+| Pumpkin Cookies | A | **Lucky lv3**: larger status / Metronome luck; **1 hour** (not permanent like Lucky Pudding S). Ch. 217 |
 
 ### S — Permanent / equal power
 
@@ -91,10 +114,17 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 |------|-------|---------|
 | Black Truffle Milk Porridge | S | Better Milk **lv3** (milk-producers only); quick energy restore; growth food for all. Ch. 39 |
 | Lucky Pudding | S | **Fortune Accompanies** permanent luck + permanent rare Pickup odds for travelers. Ch. 101 |
+| Lightning Steamed Bun | S+ | Legendary. **Thunder God** (Electric once); hidden Electric-move power up. Pawmi → Pawmo. Ch. 125 |
 | Reversing Mask · Heart | S | Reversing the Universe: reverses inner nature. Made with Water of the Reversed World. Ch. 204 |
 | Reversing Mask · Techniques | S | Reversing the Universe: reverses Legendary ability / aura / authority. Legendaries only. Fed to Indeedee (no effect on them). Offered to Giratina. Ch. 204 |
 | Reversing Mask · Body | S | Reversing the Universe: reverses physical power (strong ↔ weak). D ate it and turned skinny until Body tea restored him. Ch. 204 |
 | Storm Steamed Bun | S+ | Legendary cuisine. **Sea God (1/6)** weather control; Flying exclusive; incomplete because most Lugia powder was lost in grinding. Full effect needs all six portions’ worth of powder. Dragonite ate six → huge Rain Dance + later **Aeroblast**. Ch. 207–208 |
+| Birthday Cake | S | **Birthday gift**: permanently boosts HP Attack Sp. Atk Speed Defense Sp. Def (all six). Cyclizar party Ch. 227 (stronger letter than Ch95 B cake) |
+| Celebration Stew | No Level | No special Culinary Master effect; taste of happiness. Festival Plaza Thanksgiving Ch. 238 |
+| Red Tea | C | **Refreshing lv1** (bitter wake-up). Polteageist mood swings with tea flavor. Ch. 261 |
+| Reversed Red Tea · Heart | S | **Reversing the Universe** (inner nature reverse). Used to enter Giratina's realm kindly. Ch. 268 |
+| Leaf Cake (Incomplete Edition) | S- | **Breath of Nature**: Grass moves +20%; slight crop shorten. Master of the World Tree (D). Ch. 282 |
+| Leaf Cake (Incomplete) | S | **Breath of Nature**: Grass moves +25%; significant crop shorten. Friendship Berry upgrade. Ch. 288 |
 
 ---
 
@@ -189,8 +219,8 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 
 ### Heat Resistance lv1
 
-- Tier: D-band
-- Smashed Cucumber (D). Harvest lunch Ch. 54
+- Tier: D-band on Smashed Cucumber (D); also Ice-cold Watermelon Juice (B) for **15 min** (Ch. 163)
+- Smashed Cucumber harvest lunch Ch. 54; summer melon juice Ch. 163
 
 ### Appetite Increase
 
@@ -233,6 +263,12 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 - After eating, Pokémon temporarily forget worries and sadness and have a sweet dream of who and what they wish to see
 - D compares it to Cresselia (Ch. 26)
 - Cook can see dream bubbles over sleeping Pokémon (Ch. 27). Confirmed: Koraidon, Cyclizar, Smoliv, Alcremie. Metapod did not eat the cake.
+
+### Sweet Dream lv2
+
+- Tier: B-band remake of Cream Fruit Cake (Caramel Flavor) (B)
+- Dream God–blessed wording; stronger sweet dream of wished people/things (Ch. 177)
+- Confirmed: ancient **Ninetales** dreams of Ryoko (~1500 years). Cook and ranch still see dream bubbles; reality tears match dream tears
 
 ### Slippery lv3
 
@@ -327,20 +363,74 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 - Tier: A-band
 - Guaranteed escape ignoring opponent strength (Ch. 101). Fed to Teddiursa
 
-### Heat Resistance lv1
+### Thunder God (Lightning Steamed Bun)
 
-- Tier: D-band line on Smashed Cucumber (D)
-- Ch. 54 harvest dish
+- Tier: S+ Legendary. Electric-types only for the main line. Once per Pokémon
+- Control thunder like the feather's owner. Do not eat indoors
+- Hidden: Electric moves grow stronger (confirmed Dragonite Thunderbolt and Butterfree Electroweb)
+- Confirmed: Pawmi → **Pawmo** with flight and a large Electric move set (Ch. 125–126)
 
-### Appetite Increase
+### Ice-move comprehension + Ice fondness (Cloud Milkshake)
+
+- Tier: B+ band
+- Slight Ice-move learn chance and Ice fondness up (Ch. 130). Glaceon path like Grassy Seed for Gogoat
+
+### Flower Trick (Green Grass Cake)
+
+- Tier: A-band
+- Grass-types tending crops with Grass Energy may cause minor mutations (Ch. 134)
+- Confirmed path: Smoliv → **Dolliv**; later giant watermelon with Calyrex faith (Ch. 146)
+
+### Gather your courage (Courage Egg Fried Rice)
+
+- Tier: B+ band
+- Courage for feared tasks. Willpower can refuse (Ch. 138–139). Helped reveal Bell's true fear
+
+### Oily and Slippery lv3 (Braised Chicken)
+
+- Tier: A-band fur exclusive
+- Slick shiny fur, less shedding, health to maximum (Ch. 142). Pawmo and Glaceon
+
+### Restorative potion lv1 (Grass Juice)
 
 - Tier: C-band
-- Tomato and Scrambled Eggs (C). Ch. 54
+- Slight Grass Energy and Grass-move PP restore (Ch. 134)
 
-### Blaze Burst
+### Language communication (minor) (Translation Nuts)
 
-- Tier: B-band Fire exclusive
-- Boiled Pork Slices (B). Fire energy up; slight Fire-move comprehension. Cinderace → Blast Burn (Ch. 55). Litleo → Flame Charge (Ch. 57)
+- Tier: B+ band
+- One roasted nut translates one Pokémon word; stacks until the count runs out (Ch. 162)
+- Confirmed: Butterfree; ranch Dragonite; wild Psyduck chatter; giant Dragonite friend talk
+
+### Watermelon Knight (Watermelon Jelly)
+
+- Tier: C+ band
+- After eating if the Pokémon wears a watermelon helmet it draws foe attention and lowers foe Attack and Defense (Ch. 163)
+- Confirmed setup: Dragonite rind helmet (rots next day)
+
+### Flash (Glowing Pineapple dishes)
+
+- Tier: B+ band
+- Chance to learn Flash; body shines **30 minutes** (Ch. 165–166)
+- Dishes: Sweet and Sour Pineapple Pork; Pineapple Sticky Rice
+
+### Size Adjustment (Pumpkin Pancake)
+
+- Tier: A-band
+- Change body size at will within limits; **three** transformation chances then revert (Ch. 166–169)
+- Enlarge boosts moves (three powered uses then pop like Dynamax). Shrink weakens moves but allows many more uses. Size can hold if no moves used. Works on humans. Giant Dragonite → ~3 m. Ranch Dragonite ocean test → ~30 m
+
+### Explosion Specialization lv1 (Explosive Popcorn)
+
+- Tier: B-band
+- Strengthens explosion-type moves (Ch. 178)
+- Confirmed: Koraidon **Collision Course** cratered the lawn
+
+### Warmth lv3 (Brown Sugar Ginger Tea)
+
+- Tier: A-band emotion-boosted
+- Dispel cold; body and mind warm; move-practice efficiency up; **12 hours** (Ch. 199)
+- Confirmed ranch-wide after Cyclizar chill; second emotion cook after Lucky Pudding experiments
 
 ### Reversed World link (Poisonous Mushroom Soup)
 
@@ -362,3 +452,92 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 
 - Tier: A- band on Super Berry Platter (A-)
 - Same RNG family as Berry Platter but higher rare-move odds. Sister Indeedee → Lunar Dance (Ch. 210). Still can forget moves — D stopped further tests after the Legendary exclusive landed
+
+### Intoxication
+
+- Tier: B-band on Barley Beer (B)
+- Tipsy calm; body and mind relax; faster injury recovery while drunk. Fighting-types may behave oddly in battle if drunk. Confirmed: Machamp, Meowth, Mewtwo, Giratina (Ch. 211–213)
+
+### Lucky lv2 / lv3 (Pumpkin Cookies)
+
+- Tier: B+ → A on Pumpkin Cookies
+- Status-move accuracy up; better strong Metronome odds. lv2 lasts **10 min**; lv3 lasts **1 hour**. Emotion bake raised grade (Ch. 216–217). Not permanent like Lucky Pudding (S)
+
+### Birthday gift (Birthday Cake S)
+
+- Tier: S-band on Birthday Cake (S) Ch. 227
+- Permanently boosts all six stats (HP Atk SpA Spe Def SpD). Stronger letter than the Ch95 Birthday Cake (B) stamp. Fed at Cyclizar’s **298-08-20** party; Cyclizar shared with Koraidon. Overnight change not visible; D guesses species caps rose slowly
+
+### Celebration Stew (No Level)
+
+- Tier: no Culinary Master buff line
+- Festival Plaza Thanksgiving stew (Ch. 238). Taste of happiness only
+- Confirmed: D and plaza feast
+
+### Berry Milk stamina (Area Zero use)
+
+- Ch. 231: Berry Milk used on Koraidon after Flare Blitz vs Scream Tail for **large stamina recovery**. Separate from Berry Milk (C) bovine milk-quality line; confirm panel text before merging grades
+
+### Cold Resistance lv2 (Hot Noodle Soup B-)
+
+- Tier: B- band
+- Duration: **2 hours**
+- Crown Tundra cave first batch (Ch. 243)
+
+### Potato Stew cold + recovery lv2
+
+- Tier: B+ band
+- Warm body and stamina recovery; lasts **6 hours**
+- Crown Shrine lunch (Ch. 250). Calyrex and horses took bread instead (vegetarian)
+
+### Next Grass-type move power up
+
+- Unstamped vegetable sandwich (Ch. 252)
+- Boosts the power of the eater's next Grass-type move
+- Confirmed intent: Calyrex
+
+### Refreshing lv1 (Red Tea)
+
+- Tier: C-band
+- Bitter wake-up. Sinistea refused; Polteageist drank and turned gloomy (Ch. 261). Sweet red tea later restores cheerful mood (Ch. 263)
+
+### Flower Trick (restated Ch266 / A+ Ch289)
+
+- Green Grass Cake (A) small-chance Grass-energy crop mutations. Greenhouse bloom produced **Moon Dew Rose**. Ch. 266–267
+- Green Grass Cake (A+) Friendship Berry: mutation chance **small** (was extremely small). Ch. 289
+
+### Reversing the Universe (Reversed Red Tea · Heart)
+
+- Same S-band family as Reversing Mask Heart. Brewed with leftover Reversed Water (Ch. 268). Opens kindly Giratina visit; wears off mid-planting
+
+### Detoxification (Pecha Berry Wine)
+
+- Tier: B-band
+- Clears poison status and grants some poison resistance (non-stack; slight immune chance). Do not overindulge. Ch. 279
+
+### Paralysis Resistance (Cheri Berry Wine)
+
+- Tier: B-band
+- Clears paralysis and grants some paralysis resistance (non-stack). Do not overindulge. Ch. 279
+
+### Stamina restoration (Sitrus Berry Wine)
+
+- Tier: B-band
+- Stamina restoration only. Do not overindulge. Ch. 279
+
+### Breath of Nature (Leaf Cake)
+
+- Tier: S- / S
+- Grass-types only; no stack. S-: Grass moves +20%; slight crop-growth shorten. S (Friendship Berry): +25%; **significant** shorten. Extra (D only): Master of the World Tree — may enter all World Tree regions later. Ch. 282 / Ch. 288
+
+### Flower Trick (Green Grass Cake A+)
+
+- Friendship Berry upgrade from A. Mutation chance **small** (was extremely small). Ch. 289
+
+### Friendship Berry (ingredient)
+
+- Cooking: dish rank **+1** (no effect if already at level cap). Forest gratitude gift. Ch. 287
+
+### Life Sheep Milk / Gogoat's Milk (Ultra Perfect)
+
+- Not a Culinary Master dish grade. Nature Power milk; nutrients dozens of times ordinary; heals severe / near-death injuries (>> MooMoo). Top cheese/butter path. **30000 LL**/bottle (Ch. 291). Longevity nutrition on ranch (Butterfree wings etc. Ch. 294). Humans: excess → nosebleeds; sip + exercise. Ch. 284 / Ch. 290–296

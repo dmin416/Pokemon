@@ -10,7 +10,7 @@ Robin’s Carpenter’s Shop stock (Stardew Valley). Permanent stock every day; 
 
 **Story 1 (Chapter 32–38):** wooden board path with oil-cloth torches. Grass left uncut (lawn).
 
-**Story 1 (through Chapter 210):** glass greenhouse online (Ch196 title; heated with Pawmot power by Ch205). Pokémon Tavern and new-home stretch exist from mid-year arcs. Glaceon ice cellar stores three barrels of Reversed Water. Phone Rotom from Ch196 title. Fridge / TV / cellar / hops wine remain confirm-before-write if a middle chapter did not already add them.
+**Story 1 (through Chapter 300):** countryside cottage; Pokémon Tavern (wines; Gimmighoul; Pawmot-parents notice); Cream Workshop; Glaceon ice cellar; Berry Garden; glass greenhouse; World Tree ~3 m+ / 91220 years; two horse stables; Snow/Ghost fields; flower-field pergola + tea table; Combee hive outdoors. Back mountain: **Abundant Shrine** + Pokémon cemetery; **Abundant Festival** planned. Thunder/Storm Trial ready. D at Area Zero Ch298–300 (Miraidon fight); Indeedee house-sit. Early League 299 (~Feb).
 
 Wood/stone buy prices rise in Year 2 (letter Spring 1, Year 2). Sell value of wood/stone to Robin or the Shipping Bin is unchanged in Year 2+.
 

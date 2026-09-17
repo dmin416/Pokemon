@@ -341,7 +341,7 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Source: gelatin + water + honey + Nomel Berry juice; mold-chilled (Chapter 101)
 - Rating: A
 - Tier: Level 3
-- Effect: **Run Away** — Pokémon gains guaranteed escape ignoring the opponent's strength
+- Effect: **Run Away**. Pokémon gains guaranteed escape ignoring the opponent's strength
 - Notes: Fed to Teddiursa before travel. Stacks conceptually with Pickup + Lucky Pudding for escape theft fantasies. Evaluation: do not underestimate the gummy
 - First made: Chapter 101
 
@@ -350,7 +350,7 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Source: same cream, MooMoo Fresh Milk and honey as A batch but cooked with sincere wishing for Teddiursa's journey (Chapter 101)
 - Rating: S
 - Tier: S-band permanent
-- Effect: **Fortune Accompanies** — luck permanently increases for humans and Pokémon; traveling Pokémon permanently raise rare Pickup odds
+- Effect: **Fortune Accompanies**. Luck permanently increases for humans and Pokémon; traveling Pokémon permanently raise rare Pickup odds
 - Notes: Mood while cooking changed temporary A luck into permanent S. Only confirmed once so far. D gave the batch to Teddiursa instead of keeping it. Later remakes with Tulip Honey did not hit S again (Chapter 103)
 - First made: Chapter 101
 
@@ -359,18 +359,190 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Source: full ingredients and seasonings: noodles, scallions, poached eggs, sesame oil (Chapter 109). Same line as early Hot Soup Noodles
 - Rating: B+
 - Tier: Level 2 with Cold Resistance lv3
-- Effect: Cold Resistance **lv3** — endure severe cold; warm body; **6 hours**
+- Effect: Cold Resistance **lv3**. Endure severe cold; warm body; **6 hours**
 - Notes: Upgraded from C- / C (lv1, 30–35 min) when ingredients were complete. Fed to D and Koraidon before Glaseado. Appraisal also prints "Slight" flavor note
 - First made: Chapter 109 (improved form); base line Chapters 3 / 5
 
+### Lightning Steamed Bun (S+)
+
+- Source: flour, sugar, yeast and **Zapdos Feather Powder** steamed into yellow prickly buns (Chapter 125). Twelve made
+- Rating: S+
+- Tier: S-band Legendary Cuisine
+- Effect: **Thunder God**. Electric-types gain thunder control once (massive bolts on command). Warning: do not eat indoors. Hidden line: Electric moves grow stronger even for non-Electric eaters who already know them
+- Notes: Pawmi ate outside → thunderstrike evolution to **Pawmo** plus Thunderbolt / Thunder Punch / Discharge / Electro Ball / Electric Terrain and flight. Dragonite Thunderbolt and Butterfree Electroweb hit harder after leftovers. Electric exclusive for the main Thunder God line
+- First made: Chapter 125
+
+### Cloud Milkshake (B+)
+
+- Source: MooMoo / goat milk, sugar, Glaceon ice, **Yache Berry**, Alcremie cream cloud bands, **Cheri Berry** top; juicer (Chapter 130)
+- Rating: B+
+- Tier: Level 2
+- Effect: Slightly raises an Ice-type's chance to learn Ice moves. Slightly boosts Ice-type fondness
+- Notes: Same pattern as Grassy Seed / Grass Ball for Grass. Fed to Glaceon; no new move on first cup. Festival snacks later call a Creamy Smoothie line (Chapter 147)
+- First made: Chapter 130
+
+### Boiled Grass (F-)
+
+- Source: summer grass boiled too long in lots of water (Chapter 134)
+- Rating: F-
+- Tier: little / none / bad
+- Notes: Ruined flavor and texture. Test cook while aiming for Green Grass Cake
+- First made: Chapter 134
+
+### Grass Juice (C)
+
+- Source: ripe summer grass juiced (Chapter 134)
+- Rating: C
+- Tier: Level 1
+- Effect: Restorative potion **lv1**. Slightly recovers Grass-type Energy and restores PP of Grass-type moves
+- Notes: Juicing tender spring grass might grade better
+- First made: Chapter 134
+
+### Fried Grass (F)
+
+- Source: fried summer grass (Chapter 134)
+- Rating: F
+- Effect: Lowers Grass-type favorability
+- First made: Chapter 134
+
+### Steamed Green Grass (E) (summer)
+
+- Source: summer grass steamed (Chapter 134). Separate from early-spring Steamed Green Grass (D-) Chapter 22
+- Rating: E
+- Effect: Slightly restores Grass-type stamina
+- First made: Chapter 134
+
+### Spicy Grass (D-)
+
+- Source: chili-seasoned grass (Chapter 134)
+- Rating: D-
+- Effect: Occasionally makes a Grass-type breathe fire; can raise favorability of certain Pokémon
+- First made: Chapter 134
+
+### Green Grass Cake (A)
+
+- Source: mature summer grass, flour, MooMoo Fresh Milk and Alcremie cream (Chapter 134). Incomplete form first then finished
+- Rating: A
+- Tier: Level 3
+- Effect: **Flower Trick**. Grass-types that tend crops with Grass Energy may cause minor crop mutations
+- Notes: Long-wanted Culinary Master dish. Fed to Gogoat and Smoliv. **Smoliv → Dolliv**. Later tied to giant watermelon with Calyrex faith (Chapter 146). Chance of mutation is low
+- First made: Chapter 134
+
+### Courage Egg Fried Rice (B+)
+
+- Source: ranch eggs, rice, Dolliv olive oil and Purifying Salt (Chapter 138)
+- Rating: B+
+- Tier: Level 2
+- Effect: **Gather your courage**. Humans and Pokémon find courage for tasks they want but fear. Willpower can refuse it
+- Notes: Chaos on ranch after feeding. Box sent to Bell (Chapter 139). Pawmo favorite per appraisal
+- First made: Chapter 138
+
+### Braised Chicken with Mushrooms (A)
+
+- Source: town three-yellow chicken simmered with back-hill mountain mushrooms about four hours in clay pot (Chapter 141–142)
+- Rating: A
+- Tier: Level 3
+- Effect: **Oily and Slippery lv3**. Fur becomes slick and shiny, less shedding; health rises to maximum. Furred Pokémon only in practice
+- Notes: Perfect autumn dish for Pawmo and Glaceon. Ranch hens kept for eggs. Glaceon cools scalding meat for the others
+- First made: Chapter 142
+
+### Rock Salt Fried Soil
+
+- Source: Zapapico special soil fried with Rock Salt for Nacli (Chapter 150). Big pot; stores well
+- Rating: not printed on page in summaries
+- Effect: Strengthens Nacli body toward Naclstack evolution conditions
+- Notes: Stall soil linked to Larvitar / Tyranitar territory. Fed to last unevolved Nacli after three more evolved (Chapter 149–150)
+- First logged: Chapter 150
+
+### Translation Nuts (B+)
+
+- Source: roasted sunflower seeds with Alcremie caramel cream and Purifying Salt (Chapter 162)
+- Rating: B+
+- Tier: Level 2+
+- Effect: **Language communication (minor)** — one nut translates one Pokémon word; effect stacks
+- Notes: Confirmed on Butterfree then ranch Dragonite. Word count runs out mid-chat. D expands sunflower planting afterward
+- First made: Chapter 162
+
+### Ice-cold Watermelon Juice (B)
+
+- Source: Ice House–chilled watermelon juiced (Chapter 163)
+- Rating: B
+- Tier: Level 2
+- Effect: Heat Resistance **lv1**; hot-weather / heatstroke resist; **15 minutes**
+- Notes: Summer melon harvest batch. Other melon tests (shaved ice fried rind popsicles) only refresh or small stamina
+- First made: Chapter 163
+
+### Watermelon Jelly (C+)
+
+- Source: fresh ranch watermelon jelly (Chapter 163)
+- Rating: C+
+- Tier: Level 1+
+- Effect: **Watermelon Knight** — after eating if the Pokémon wears a watermelon helmet it draws foe attention and lowers foe Attack and Defense
+- Notes: Rind helmet fitted on Dragonite (horns poke through). Helmet rots next day; plastic stand-in may not count
+- First made: Chapter 163
+
+### Sweet and Sour Pineapple Pork (B+)
+
+- Source: mutant **Glowing Pineapple** flesh + pork tenderloin sweet-and-sour stir-fry (Chapter 165)
+- Rating: B+
+- Tier: Level 2+
+- Effect: **Flash** — chance to learn Flash; body shines **30 minutes**
+- Notes: Mutant from Gogoat Grass Energy. Pineapple shells saved for sticky rice
+- First made: Chapter 165
+
+### Pineapple Sticky Rice (B+)
+
+- Source: sticky rice steamed in Glowing Pineapple shells (Chapter 166)
+- Rating: B+
+- Tier: Level 2+
+- Effect: same **Flash** / glow line as Sweet and Sour Pineapple Pork
+- Notes: Tropical sticky-rice panel; glow lasts 30 minutes
+- First made: Chapter 166
+
+### Pumpkin Pancake (A)
+
+- Source: mutant **Size-Shifting Pumpkin** steamed mashed with sticky-rice flour and sugar then fried (Chapter 166). Batch of 32
+- Rating: A
+- Tier: Level 3
+- Effect: **Size Adjustment** — change body size at will within limits; **three** transformation chances then revert. Works on humans and Pokémon
+- Notes: D tested ~2.5 m then shrink. Ranch Dragonite ~6 m then later ~30 m Dynamax-like over ocean (three boosted moves). Shrink mode: weaker moves many more uses. Fed to giant Dragonite under Dragon Island → ~3 m. Pancakes do not keep
+- First made: Chapter 166
+
+### Cream Fruit Cake (Caramel Flavor) (B)
+
+- Source: proper cake base + Alcremie hand-whipped caramel cream + berry garnish (Chapter 177). Remake of Ch26 D- toast version
+- Rating: B
+- Tier: Level 2
+- Effect: **Sweet Dream lv2** — Dream God–blessed; forget worries; dream of wished people/things
+- Notes: First **Pokémon Tavern** guest: ancient **Ninetales** seeking last sight of human Ryoko. Cook still sees dream bubbles. Keep separate from Cream Fruit Cake (D-)
+- First made: Chapter 177 (B); earlier D- Chapter 26
+
+### Explosive Popcorn (B)
+
+- Source: ranch corn fried per TV tutorial (Chapter 178)
+- Rating: B
+- Tier: Level 2
+- Effect: **Explosion Specialization lv1** — strengthens explosion-type moves
+- Notes: Boosted Koraidon **Collision Course** into a lawn crater. Ordinary corn (not mutant)
+- First made: Chapter 178
+
+### Brown Sugar Ginger Tea / Red Sugar Ginger Tea (A)
+
+- Source: back-hill wild ginger + leftover red sugar + red dates simmered (Chapter 199). Emotion-infused batch
+- Rating: A
+- Tier: Level 3
+- Effect: **Warmth lv3** — dispel cold; body and mind warm; move-practice efficiency up; **12 hours**
+- Notes: Second emotion-boosted cook after Lucky Pudding path (not forced). Fed ranch after Cyclizar chill scare. Sip slowly; spice cough then warmth
+- First made: Chapter 199
+
 ### Poisonous Mushroom Soup / Thick Soup (B-)
 
-- Source: toxic wild mushrooms simmered as thick soup (Chapters 200–203)
+- Source: toxic wild **Red Mushroom** and kin simmered as thick soup (Chapter 200 first cook; Chapters 201–203 arc continues)
 - Rating: B-
 - Tier: Level 2 niche
-- Effect: Links the eater’s consciousness to Giratina’s Reversed World while the body stays in the real world. Poisoned state; detox with Pecha Berry Juice or Antidote on a short timer
-- Notes: Culinary Master version is what makes the vision work. Indeedee siblings supervise. Neighbor Toff’s hollow supplies dried stock. Cannot remove Reversed World water by VR-style visits alone
-- First logged: Chapter 200 / 201 arc
+- Effect: Links the eater’s consciousness to Giratina’s Reversed World while the body stays in the real world. Poisoned / Toxic state; detox with Pecha Berry Juice or Antidote within about an hour
+- Notes: Culinary Master version is what makes the vision work. Indeedee siblings supervise first sip (Ch200). Later Neighbor Toff hollow dries stock. Cannot remove Reversed World water by VR-style visits alone. Giratina senses the intrusion
+- First made: Chapter 200
 
 ### Reversing Mask · Heart / Techniques / Body (S)
 
@@ -398,4 +570,162 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Effect: Skill Refinement (**large**); higher rare-move odds than Berry Platter C- / B+
 - Notes: Sister Indeedee learned **Lunar Dance**. D stopped further platters to protect the exclusive. Wants Lucky Pudding / Teddiursa luck before more tests
 - First made: Chapter 210
+
+### Barley Beer (B)
+
+- Source: malt and hops fermented in the ranch cellar (Chapter 211)
+- Rating: B
+- Tier: Level 2
+- Effect: **Intoxication** — tipsy calm; body and mind relax; faster injury recovery. Fighting-types may get odd battle results if drunk
+- Notes: Tavern debut. Zack buy path **3000** LL/L; thirty barrels × ~3 L ≈ **270000**. Also gifted to Giratina. D skipped testing on Koraidon
+- First made: Chapter 211 (cellar ready; brew started about a month earlier)
+
+### Pumpkin Cookies (B+)
+
+- Source: ranch pumpkin baked as cookies (Chapter 216)
+- Rating: B+
+- Tier: Level 2+
+- Effect: **Lucky lv2** — moderate status-move hit-rate up; better strong Metronome odds; **10 minutes**
+- Notes: Harvest-luck snack. Used while teaching Alcremie Metronome
+- First made: Chapter 216
+
+### Pumpkin Cookies (A)
+
+- Source: same pumpkin cookies baked with stronger emotion (Chapter 217)
+- Rating: A
+- Tier: Level 3
+- Effect: **Lucky lv3** — larger status / Metronome luck; **1 hour** (not permanent)
+- Notes: After Alcremie’s Judgment / Hyper Beam scares. Still temporary unlike Lucky Pudding (S)
+- First made: Chapter 217
+
+### Birthday Cake (S)
+
+- Source: rich cream cake base and berries for Cyclizar’s birthday (Chapter 227)
+- Rating: S
+- Tier: S-band permanent
+- Effect: **Birthday gift** — permanently boosts HP Attack Sp. Atk Speed Defense Sp. Def (all six)
+- Notes: Stronger letter than Chapter 95 Birthday Cake (B). Party with wool coat and scarf. Cyclizar shared with Koraidon. Visible overnight growth not obvious
+- First made: Chapter 227 (S batch); earlier B batch Chapter 95
+
+### Green Grass Cake (Ch224 cook / Ch266 restated)
+
+- Source: cooked with Grassy Seed (Chapter 224); greenhouse afternoon tea remake (Chapter 266)
+- Rating: **A** (Ch266 panel; earlier Ch134 also A)
+- Effect: **Flower Trick** — small chance Grass-energy crop mutations
+- Notes: Ch224 Summeries lacked grade; Ch266 confirms A. Produced Moon Dew Rose (Chapter 267)
+- First made: Chapter 134; Ch224 / Ch266 remakes
+
+### Celebration Stew (No Level)
+
+- Source: Festival Plaza giant shared pot; D contributed pumpkins and barley beer (Chapters 237–238)
+- Rating: No Level
+- Tier: none
+- Effect: No special Culinary Master effect; taste of happiness
+- Notes: Thanksgiving feast under Mayor Lewis and the giant Calyrex statue
+- First logged: Chapter 238
+
+### Hot Noodle Soup (B-) / remake (Crown Tundra)
+
+- Source: campfire noodles in a Crown Tundra cave (Chapter 243)
+- Rating: B- first batch; careful second batch reaches Cold Resistance **lv3** / **6 h** (same line as Ch109 B+)
+- Effect: Cold Resistance **lv2** for **2 hours** on the B- batch
+- Notes: Fed to D, Koraidon, Cyclizar before Freezington rescue
+- First Crown Tundra cook: Chapter 243
+
+### Potato Stew (B+)
+
+- Source: potatoes and meat stew at Crown Shrine (Chapter 250)
+- Rating: B+
+- Tier: Level 2
+- Effect: Cold resistance + recovery **lv2**; warm body and stamina; **6 hours**
+- Notes: Appraisal says hot noodle soup can retire for cold. Calyrex / Glastrier / Spectrier are vegetarian and took bread instead
+- First made: Chapter 250
+
+### Vegetable Sandwich (unstamped grade)
+
+- Source: vegetable sandwiches at Ballimere Lake camp (Chapter 252)
+- Rating: no Culinary Master letter stamped
+- Effect: Boosts power of the **next Grass-type move**
+- Notes: Fed to Calyrex. Steak for Koraidon/Cyclizar and curry rice for D same meal; no grades on those
+- First logged: Chapter 252
+
+### Red Tea (C)
+
+- Source: brewed on the Hulbury→Paldea ship for Sinistea/Polteageist (Chapter 261)
+- Rating: C
+- Tier: Level 1
+- Effect: **Refreshing lv1** — bitter wake-up
+- Notes: Sinistea refused. Polteageist drank, swelled, turned gloomy. Tea flavor shifts Polteageist mood; sweet Kitakami red tea later cheers both Ghosts (Chapter 263)
+- First made: Chapter 261
+
+### Reversed Red Tea · Heart (S)
+
+- Source: red tea brewed with leftover Water of the Reversed World (Chapter 268)
+- Rating: S
+- Tier: S-band Reversing the Universe
+- Effect: Inner nature reverse (Heart line)
+- Notes: Lake offering opens kindly Giratina visit. Effect wears off mid-planting; Giratina fakes still-reversed kindness
+- First made: Chapter 268
+
+### Unfinished Rose Jam
+
+- Source: Moon Dew Rose / greenhouse flower jam jars (Chapter 268)
+- Rating: unfinished
+- Effect: needs **30 days** ferment
+- Notes: Three jars cooling. Moon Dew Rose also enables Moon Stone dish effect when used in cooking
+- First logged: Chapter 268
+
+### Pecha Berry Wine (B)
+
+- Source: Pecha Berry cellar ferment; ready **298-11-25** (Chapter 279)
+- Rating: B
+- Tier: Level 2
+- Effect: **Detoxification** — clear poison + some poison resist (non-stack; slight immune chance)
+- Notes: Do not overindulge. Barrel moved to Pokémon Tavern (Chapter 280). Salac/Liechi wines hypothesized later
+- First made: Chapter 279
+
+### Cheri Berry Wine (B)
+
+- Source: Cheri Berry cellar ferment; ready **298-11-25** (Chapter 279)
+- Rating: B
+- Tier: Level 2
+- Effect: **Paralysis Resistance** — clear paralysis + some resist (non-stack)
+- Notes: Do not overindulge. Machamp tasted at tavern (spicy then warming). Barrel on tavern menu (Chapter 280)
+- First made: Chapter 279
+
+### Sitrus Berry Wine (B)
+
+- Source: Sitrus Berry cellar ferment; ready **298-11-25** (Chapter 279)
+- Rating: B
+- Tier: Level 2
+- Effect: **Stamina restoration** only
+- Notes: Do not overindulge. Barrel moved to Pokémon Tavern (Chapter 280)
+- First made: Chapter 279
+
+### Leaf Cake (Incomplete Edition) (S-)
+
+- Source: Unripened Tree of Beginning Leaf + eggs + MooMoo Fresh Milk + cream (Chapter 282)
+- Rating: S-
+- Tier: S-band
+- Effect: **Breath of Nature** — Grass moves +20% (Grass only; no stack); slight crop-growth shorten when Grass Energy cultivates; **Master of the World Tree** (D only)
+- Notes: Fed to Gogoat ×3 Dolliv Calyrex. Incomplete until World Tree matures
+- First made: Chapter 282
+
+### Leaf Cake (Incomplete) (S)
+
+- Source: Leaf Cake remake with **Friendship Berry** (Chapter 288)
+- Rating: S
+- Tier: S-band
+- Effect: **Breath of Nature** — Grass moves +25%; crop shorten **significant**; Master of the World Tree unchanged
+- Notes: Rank up via Friendship Berry (+1). World Tree may finish under four years
+- First made: Chapter 288
+
+### Green Grass Cake (A+)
+
+- Source: Green Grass Cake + **Friendship Berry** (Chapter 289)
+- Rating: A+
+- Tier: Level 3
+- Effect: **Flower Trick** — small chance crops nurtured by Grass Energy get slight variations (was extremely small at A)
+- Notes: Feeds Dolliv Gogoat Calyrex. Black Truffle stack idea open
+- First made: Chapter 289
 

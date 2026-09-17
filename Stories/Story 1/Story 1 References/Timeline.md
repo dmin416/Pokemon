@@ -100,33 +100,69 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 - **Ch109–110:** Generator installed; mushroom trays reclaimed; Hot Noodle Soup (B+) Cold Resist lv3; Glaseado Mountain; Avalugg migrates with Bergmite; meet Everett (Alola); Glaceon hunt cliffhanger.
 
-- **298-03-15 (~Ch116–118):** Planting day.
+- **Ch111–115:** Koraidon one-shots Incineroar; Glaseado cave; Froslass fight; **Glaceon** joins with ice rock + **Ice Stone**; cave door **3000**; Teddiursa/Mew postcard + pearl; Glaceon befriends Alcremie.
 
-- **298-03-25 (Ch120, 122):** Spring horse race. Summer in 6 days.
+- **298-03-15 (Ch116–118):** Calendar / hop frames. Generator Pawmi under **1%** → Dragonite **48%** → **100%**; milk payout **58600**; ranch switches to generator power. Rain night; one Nacli lights up.
 
-- **298-04-01 (Ch129):** Summer begins.
+- **Ch119:** **Naclstack** first evolution; Terastal news (Sada/Turo).
 
-- **298-04-16 (Ch149–150):** Calendar.
+- **298-03-25 (Ch120–122):** Spring horse race. Hippowdon wins. D and Allen each lose **10000**. Calyrex wooden shrine; Galar Calyrex feels faith.
 
-- **298-05-06 (Ch162):** Calendar.
+- **Ch123–128:** Zapdos feather → **Lightning Steamed Bun (S+)**; **Pawmi → Pawmo** (flies); red cloak **1500**; meat **19600**; Everett buys ten goat-milk bottles; wants Tinkaton.
 
-- **298-05-07 (Ch170):** Crop schedule. Fireworks set for **May 31**.
+- **298-04-01 (Ch129–130):** Summer begins. Cyclizar **Dragon Claw** plowing; summer sow; **Cloud Milkshake (B+)** for Glaceon.
 
-- **298-05-19 (Ch176):** Calendar.
+- **Ch131–140:** Grass Trial plan; lawnmower **7000**; **Green Grass Cake (A)** Flower Trick; **Smoliv → Dolliv**; Carter returns; Berry orchard (~20 seedlings); **Courage Egg Fried Rice (B+)**; Bell box + Berry Fertilizer; Cyclizar learns **Dragon Pulse**; Carter Delibird beats Crocalor and advertises the trial.
 
-- **298-05-31 (Ch179–180):** Summer fireworks festival.
+- **Ch141–148:** **Braised Chicken with Mushrooms (A)**; Elo milk route; Indeedee babies booked (≤2 months); Calyrex missionary statues; giant watermelon festival; Bell’s Eevee hatches; faith spreads.
 
-- **298-06-28 (Ch181, 184):** Calendar.
+- **298-04-16 (Ch149–150):** Calendar. Sada/Turo/Arven call. Three more **Naclstack** (four stacks + one Nacli). **Diglett** hired; Rock Salt Fried Soil; cabin expand goal by month end.
 
-- **298-06-29 (Ch184):** Calendar.
+- **Ch151–160:** Grass Trial fee **2000**; Cetitan challengers wipe; Heroic Expedition / giant Dragonite; Pidgeot letter; **Dudunsparce** Salt House cellar; Diglett flees then work continues; Geeta + Tulip sea crisis; giant settled as Dragon Island guardian; D declines Champion path; Nacli move underground.
 
-- **198 (Ch185):** Calendar marked **Nov 2** for later trip. Winter = Oct–Dec.
+- **Ch161:** Firefly night gift while D naps sick; Koraidon Cyclizar bed share.
 
-- **298-07-04 (Ch185):** Wine barrels done.
+- **298-05-06 (Ch162):** Calendar. Watermelon + sunflower harvest. **Translation Nuts (B+)**. Expand sunflower plan.
 
-- **298-07-05 (~Ch186):** Next day.
+- **Ch163–164:** Zack melon/milk haul; Calyrex faith still paired with hard work. **Ice-cold Watermelon Juice (B)**; **Watermelon Jelly (C+)** Watermelon Knight. Last **Nacli → Naclstack** (all five). Diglett rehired; **Diglett's Home** sign; southeast sunflower plow + Rain Dance.
 
-- **298-07-25 (Ch198):** Autumn begins.
+- **Ch165–166:** **Glowing Pineapple** + **Size-Shifting Pumpkin**. **Sweet and Sour Pineapple Pork (B+)** / **Pineapple Sticky Rice (B+)** Flash. **Pumpkin Pancake (A)** Size Adjustment. Ranch size-play; Koraidon Pikachu-size.
+
+- **Ch167–169:** Island trip; tiny hitchhikers; giant Dragonite shrinks on pancake (~3 m); friends with D; Pawmo told to run for **Pawmot**; ranch Dragonite ~30 m Dynamax-like (three boosted moves). Allen: fishing **May 20** Lake Verity; fireworks letter **May 31**.
+
+- **298-05-07 (Ch170):** Calendar. Lewis fishing call. Stowaway **Dratini ×3** (one shiny) + **Dragonair ×2** stay at ranch lake a few days. House-expand savings toward **~2 million** after mid-month crops. Fireworks set for **May 31**.
+
+- **Ch171–172:** Mischief guests; camping tent; **Pokémon Tavern** idea; Swellow / Polaroid to Teddiursa–Mew; Heroic Expedition hears tavern news (dying Ninetales memory).
+
+- **Ch173–174:** Psyduck melon raid then failed harvest hire (headache meds). Full crop harvest; hops/malt for beer. **Sada + Arven** picnic (**+10000**); Damp-lab tip; Arven age 9.
+
+- **Ch175:** Cash **2153400**. Robin cottage plan; build **1.8M** / ~**2M** with furniture; Cream Workshop; cellar; start next day (1–2 months).
+
+- **298-05-19 (Ch176):** Calendar. Build in progress. Fishing-day **Ninetales** visitor (illusion kimono girl).
+
+- **Ch177–178:** Skip fishing (Lewis call). **Cream Fruit Cake (B)** Sweet Dream lv2 for Ninetales. Magikarp Uncle wins contest (28 Magikarp). Diglett expands hops field. **Explosive Popcorn (B)** → Collision Course crater.
+
+- **298-05-31 (Ch179–180):** Summer fireworks festival. Zorua mask **−2000**. Grass Trial fame at Academy. Fireworks with full ranch.
+
+- **298-06-28 (Ch181–183):** New house handed over. Furniture + **30** oak barrels (**20%** off) + tavern bar. Ranch gifts incl. Miracle Seeds. Soft tavern open; Thanksgiving date flagged (autumn last day).
+
+- **298-06-29 (Ch184):** Mutant Miracle Seedling panel (**100000** years). Machamp first paying tavern guests (wood dolls).
+
+- **Ch185:** Calyrex grows **World Tree Seedling** (timer **99996** yrs). Calendar mark **Nov 2** Galar. Real brewing starts; barrels filled **298-07-04**. Wingull photo drop.
+
+- **Ch186:** Mewtwo Strikes Back flashback via Teddiursa/Mew; photo on tavern wall. Guests: Machamp; fire captain **Quaquaval**.
+
+- **298-07-05 (Ch187–190):** New pumpkin/sunflower sow. **Mr. Sato** delivers **Indeedee** siblings; they join as family helpers (cook/butler). World Tree timer keeps dropping via Gogoat.
+
+- **Ch191–192:** Indeedee tavern bar debut. Squawkabilly cleared. **Pawmo → Pawmot**; custom cape plan. Wild Dragonite retrieval starts.
+
+- **Ch193–195:** Foodie then fierce Dragonites; moon/tide **evolution ceremony**; **Phione** migration filmed; shiny Dratini → **Shiny Dragonair**. **Dragonite Express** milk-run prototype (two wild + ranch).
+
+- **Ch196–197:** Delivery bulletin phone **5376898**; Phone Rotom not invented yet. Secret flower garden + pebble path (Robin paid). Glass greenhouse ordered (glass mid-month). Calyrex faith + Dragonair weather talk.
+
+- **298-07-25 (Ch198):** Autumn begins. Cyclizar fever / Joy. Greenhouse build starts opposite Berry Garden.
+
+- **Ch199–200:** **Brown Sugar Ginger Tea (A)** Warmth lv3. First **Poisonous Mushroom Thick Soup (B-)** → Reversed World glimpse; Giratina senses stranger.
 
 - **298 early August (Ch205):** Month marker.
 
@@ -154,15 +190,19 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 - **298-10-31 (Ch262):** Back to Porto Marinada evening.
 
-- **298-11-06 (Ch271):** Calendar.
+- **298-11-06 (Ch271):** Tea-garden Sky Island + Tea Tree done. Alice films *Man and Dragon*.
 
-- **298-11-10 (Ch272):** Calendar.
+- **298-11-10 (Ch272):** *Man and Dragon* airs. Nemona / Arven / Lono notice.
 
-- **298-11-14 (Ch276):** First heavy snow.
+- **298-11-14 (Ch276):** First heavy snow. Ice maze. Calyrex hears back-mountain silence.
 
-- **298-11-25 (Ch279):** Calendar.
+- **298-11-25 (Ch279):** Arven leaves with Sada. Pecha / Cheri / Sitrus Berry Wine (B) ready. Continuous snow ~half month.
 
-- **298 late Dec / NYE (Ch281–283):** First New Year in the Pokémon world.
+- **298 late Nov (Ch273–280):** Pawmot hammer (Mjolnir); Nemona visit; Teddiursa/Mew return + leeks/Big Root; Thunder/Storm Trials planned; Gimmighoul in tavern.
+
+- **298 late Dec (Ch281–282):** Second World Tree nurture (**95995** years; ~1.8 m); Tree of Beginning Leaf; Leaf Cake (S-).
+
+- **298-12-31 / 299-01-01 (Ch282–283):** New Year's Eve feast; letters (Lewis Robin Elif); Giratina Poffins. Volume 4 ends.
 
 
 
@@ -174,11 +214,17 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 
 
-- **299 early spring (Ch284):** Year turns.
+- **299 early spring (Ch284–287):** Life Sheep Milk (Ultra Perfect); back-mountain rebuild + Calyrex miracle (Geeta Joy Jenny); Friendship Berry; refugees → forest neighbors.
 
-- **299-01-22 (~Ch295):** News: five months since forest fire.
+- **299 spring (Ch288–290):** Leaf Cake (S); Green Grass Cake (A+); Elo seeds **−4200**; Diglett → Dugtrio; Teddiursa/Mew ship to Johto; Life Sheep Milk market test (price open).
 
-- **299-02-06 (Ch297):** Calendar. Wine-party invite again.
+- **299 early spring (Ch291–294):** Life Sheep Milk **30000**/bottle; ≈**+1M LL** banked; Rika Abundant Shrine + cemetery; World Tree Third Nurture **91220** yrs / ~3 m+; longevity training; TV news **Jan 22** +5 months.
+
+- **299 (Ch295–296):** Calyrex faith surge; Slugma-TV idea; Pawmot parents notice; retail switch to MooMoo.
+
+- **299-02-06 (Ch297):** Elif sakura wine-party letter; Sada Flutter Mane invite.
+
+- **299-02 (~Ch298–300):** Area Zero: Flutter Mane reunites with Koraidon; Turo offers Miraidon No.1; Koraidon beats Miraidon (recalled).
 
 - **299-02-09 (Ch303):** Calendar.
 
@@ -498,13 +544,15 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 ## Open / undated
 
-- Summeries Ch61–100 still title-only; Status/Inventory/Farm/Recipes/Effects/Timeline now locked through **Ch110** from English chapters
-- Exact cash after generator (**−30000** Ch109) unclear; AC spend cleared half-month savings (Ch103)
-- Miltank #2–3 buy chapters / costs not stamped (three present by Ch94)
-- Combee trio total paid not written (list **2500** each)
-- Glaceon hunt / ice cave in progress (Ch110 cliffhanger with Everett)
-- Spring Horse Race **298-03-25**: watch and bet only (no Horse-type yet)
-- Tropius and other deferred catches: confirm before writing
-- Pokéblocks: waiting on a Breeder (Allen still hunting as of Ch205)
-- Full **Sea God** effect: needs a full Lugia powder ratio (Storm Bun was 1/6)
-- Autumn horse race: invite received; D has no horse yet (Ch205)
+- Status/Inventory/Farm live snapshot: **Ch300** (Area Zero aftermath; Flutter Mane friend; Miraidon fight). Summeries filled through Ch300; parts of Ch61-100 still title-only
+- Money: Elo **−4200**; Life Sheep Milk **30000**/bottle; Ch291 ≈**+1M LL** banked. Retail humans often switched to MooMoo
+- World Tree ~3 m+ / **91220** years; Abundant Shrine + cemetery live; Calyrex faith beyond peak
+- Thunder/Storm Trials ready; shrine pilgrims starting
+- Flutter Mane: friend confirmed; ranch invite; not caught yet. Miraidon No.1: Koraidon won fight Ch300; bond offer likely refused next
+- Abundant Festival planned with **Lewis**; shrine complex still building
+- Alder/Volcarona Life Sheep Milk rescue goal; Leon Paldea visit pending
+- Pawmot parents tavern notice; Slugma heating idea; Sakura Blossom Wine Party upcoming
+- Teddiursa/Mew still Johto; Gimmighoul hiding; Geeta League job still declined
+- Full **Sea God**: needs full Lugia powder ratio
+- Pokeblocks: waiting on a Breeder
+- Kitakami visit interest (Elo apple trees)

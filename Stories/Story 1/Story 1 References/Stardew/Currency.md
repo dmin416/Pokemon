@@ -33,6 +33,14 @@ Use Stardew ×4 for Stardew tables in this folder (including **forage** in `Fora
 | Eggs | Retail **250 LL** per 10 (Chapter 28). Zack wholesale a bit less. |
 | Ordinary cave mushrooms | Stardew Common Mushroom ×4: **160–320 LL** by grade |
 | Pokémon House / TV / fridge / AC×4 / generator | Robin **50000** (Ch68–72) · TV **9000** · fridge **53000** (Ch68) · AC×4 **120000** (Ch103) · generator **30000** (Ch109) |
+| Glaceon cave door (Robin) | **3000 LL** (Chapter 114) |
+| Spring Derby tickets | **50 LL** each; cap 200 = **10000 LL** (Chapter 120–121) |
+| Lawnmower | **7000 LL** (Chapter 133) |
+| Grass Trial fee | **2000 LL** per challenger (Chapter 151) |
+| Calyrex statue (Robin shop) | **2000 LL** each (Chapter 153) |
+| Cabin expand / new house (Robin) | Materials + build **1800000 LL** (Ch175); ~**2000000** with furniture. Wallet stamp that day **2153400**. Handed over Ch181. Furniture + **30** oak barrels **20%** off Ch182 (total unstamped) |
+| Sada picnic space | **10000 LL** (Chapter 174) |
+| Zorua festival mask | **2000 LL** (Chapter 179) |
 | Small Mushroom | Stardew Morel ×4: **600 LL** normal · **1200 LL** top (Ch. 31) |
 | Big mushroom | Stardew Purple Mushroom ×4: **1000 LL** normal · **2000 LL** top (Ch. 31 quote) |
 | Fragrant mushroom | Perfume override **15000 LL** (Ch. 31; not Stardew forage) |
@@ -40,6 +48,17 @@ Use Stardew ×4 for Stardew tables in this folder (including **forage** in `Fora
 | Space Backpack | About **20000 LL** with flower seeds (Chapter 56) |
 | Market berries | **20 LL** each (Chapter 210) |
 | Wine-party Boiled Pork Slices / Steamed Egg | Stall **800** / **300 LL** (Chapter 57) |
+| Barley Beer | Zack **3000 LL**/L; ~thirty barrels × 3 L ≈ **270000 LL** (Chapter 213) |
+| Wooloo fleece (Thunder Ranch) | **2000 LL**/lb; six pounds **12000 LL** (Chapter 214) |
+| Meowth Pay Day tavern tip | **300 LL** coin (Chapter 211) |
+| Ranch savings ledger | **680000 LL** (Chapter 237) |
+| Zack goods (Thanksgiving eve stretch) | **+48000 LL** (Chapter 239) |
+| Hulbury cruise (Levincia → Hulbury) | **−3200 LL** (Chapter 242; 7:25 PM; three days) |
+| Corviknight taxi (overheard guest fare) | **1500 LL** (Chapter 257; not D's purchase) |
+| Rising Stars sponsorship rewards | Free Corviknight feathers + genuine Sinistea/Polteageist (Chapters 257–260; no LL stamped) |
+| Ancient gold coin (Gimmighoul) | Not League currency. Tavern wine pay / Gimmighoul loot (Chapter 280). No LL face value. 999 needed for Gholdengo |
+| Elo spring seeds (Ch289) | **4200 LL** (garlic potato strawberry radish cucumber cabbage turnip) |
+| Life Sheep Milk (Ultra Perfect Gogoat milk) | **30000 LL**/bottle (Ch291). Day's milk + rock salt ≈ **+1000000 LL** banked. Retail humans often switch to MooMoo (too potent) |
 
 Story sell grades: **normal · silver · gold · top** (not “iridium”). Multipliers vs normal when quality applies: silver ×1.25 · gold ×1.5 · top ×2.
 

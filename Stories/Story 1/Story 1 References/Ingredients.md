@@ -84,6 +84,55 @@ Early “January” notes = **League 298** ([`Dates.md`](Dates.md) / [`Timeline.
 
 - Used in Honey Gummies with honey (Chapter 101)
 
+#### Zapdos Feather / Zapdos Feather Powder
+
+- Teddiursa Pickup gift via Fearow letter (Chapter 123–124). Robin grinder → powder: legendary Electric ingredient
+- Cooked into **Lightning Steamed Bun (S+)** (Chapter 125)
+
+#### Ice Stone + ice rock
+
+- Glaceon gift of a small patterned **Ice Stone** plus movable lake **ice rock** from Glaseado's Grasp (Chapter 113). Ice rock stored then set in ranch cave (Chapter 114). Ice Stone held for Eevee set with Water Stone
+
+#### Yache Berry / Cheri Berry (Cloud Milkshake)
+
+- Yache for sky-blue shake base; Cheri topper (Chapter 130)
+
+#### Mountain mushrooms / wild ginger / apricots
+
+- Back-hill forage (Chapter 140–141). Mushrooms in Braised Chicken (Chapter 142)
+
+#### Zapapico special soil
+
+- Used in Rock Salt Fried Soil for Nacli (Chapter 150). Linked to Larvitar / Tyranitar territory
+
+#### Sunflower seeds / Translation Nuts stock
+
+- Sunflora Field harvest roasted with caramel cream and Purifying Salt → **Translation Nuts (B+)** (Chapter 162)
+- Extra seed bags bought in town for expanded planting after current crops clear (Chapter 163–164). Diglett plows southeast sunflower strip
+
+#### Glowing Pineapple
+
+- Mutant pineapple under Gogoat Grass Energy (Chapter 165). Dishes carry **Flash**
+
+#### Size-Shifting Pumpkin
+
+- Mutant pumpkin that grows and shrinks on the vine (Chapter 165). Dishes carry **Size Adjustment**. Weight shifts with size. Cutting while large locks a normal cooking size
+
+#### Miracle Seeds / World Tree Seedling
+
+- Three **Miracle Seeds** bought as Gogoat gifts (Chapter 182). Held-item boost for Grass moves; Gogoat plant them anyway
+- Mutate under Grass Energy / Grassy Seed into **Mutant Seedling** then **World Tree Seedling** (Chapters 184–185). Base mature time **100000** years; Calyrex prayer cuts four years; Gogoat care keeps shaving days
+- Not a Culinary Master dish ingredient yet
+
+#### Corn (Explosive Popcorn)
+
+- Ordinary ranch corn fried per TV tutorial → **Explosive Popcorn (B)** (Chapter 178). Mutant glow/size effects need special crops; plain corn only stamina/energy if cooked otherwise
+
+#### Three-yellow chicken
+
+- Town buy for braise; ranch hens kept for eggs (Chapter 141)
+
+
 #### Caramel Rock Salt Cream
 
 - Alcremie cream + Nacli rock salt (Chapter 43). Dessert ingredient. Xue Mei Niang stuffing (Chapter 49)
@@ -124,6 +173,12 @@ Early “January” notes = **League 298** ([`Dates.md`](Dates.md) / [`Timeline.
 #### Galarian leek
 
 - Gift from Yousuke (Chapter 37). Used in steamed fish (Chapter 39)
+
+#### Leeks / Big Root (Farfetch'd gift)
+
+- Farfetch'd gift via Teddiursa and Mew (Chapters 275–277)
+- Rare stem plant: cooking; Farfetch'd weapon; bottom large root usable as held item (**Big Root**)
+- D wants to plant leeks to lure Farfetch'd; none native to Paldea
 
 #### Early-spring / pasture grass (dumpling filling)
 
@@ -246,7 +301,7 @@ Stardew Valley forage pool → `Stardew/Forage.md`.
 - Tender lush grass from the ranch; Koraidon and Cyclizar gathered it (Chapter 22)
 - Steamed five minutes as Steamed Green Grass (D-)
 - Leftover dumped; unused short-term
-- Culinary Master Green Grass Cake (crop-quality mutation) still cannot be made (cookware)
+- Culinary Master Green Grass Cake: **A** Flower Trick (Ch134 / Ch266). Ch224 remake also on page
 
 #### Story so far
 
@@ -255,9 +310,15 @@ Stardew Valley forage pool → `Stardew/Forage.md`.
 
 #### Poisonous mushrooms (Reversed World soup)
 
-- Toxic wild mushrooms; Culinary Master soup grades **B-** and links vision to Giratina’s Reversed World (Chapters 200–203)
-- Neighbor **Toff** points to a hollow trunk; D dries and stores stock for later visits
-- Detox path: Pecha Berry / Pecha Berry Juice / Antidote
+- First forage: back-hill toxic **Red Mushroom** specials (Chapter 199–200). Panel: Toxic state; cooking may yield unexpected effects
+- Culinary Master **Poisonous Mushroom Thick Soup (B-)** first cooked Chapter 200; links vision to Giratina’s Reversed World
+- Neighbor **Toff** later points to a hollow trunk; D dries and stores stock for later visits
+- Detox path: Pecha Berry / Pecha Berry Juice / Antidote (about one hour)
+
+#### Wild ginger / red sugar (Brown Sugar Ginger Tea)
+
+- Back-hill spicy wild ginger dug Chapter 199. Leftover Alcremie red sugar + red dates
+- Cooks to **Brown Sugar Ginger Tea (A)** Warmth lv3 / 12 h
 
 #### Water of the Reversed World
 
@@ -278,4 +339,117 @@ Stardew Valley forage pool → `Stardew/Forage.md`.
 - Best for Pokéblocks; D cannot make them yet (Allen still hunting a Breeder)
 - Raised Berry Platter line to **Super Berry Platter (A-)** (Chapter 210)
 - Ordinary market berries **20** League each (Chapter 210)
+
+#### Barley / hops beer cellar
+
+- Cellar **Barley Beer (B)** ready Chapter 211 (brew marked about a month earlier)
+- Zack: **3000** LL per liter; thirty oak barrels × ~3 L ≈ **270000** (Chapter 213)
+
+#### Wooloo fleece
+
+- Thunder Ranch rancher **Ray**: **2000** LL/lb; six pounds **12000** (Chapter 214)
+- Mrs. Dantes wove Cyclizar’s coat and scarf (gift; ready ~Aug 19–20)
+
+#### Grassy Seed
+
+- Mowed and iced in Glaceon’s cellar for winter (Chapter 222)
+- Fed to Gogoat to hold mountain Grassy Terrain (Chapter 221). Cooked with Green Grass Cake (Chapter 224)
+
+#### Pumpkins
+
+- Field pumpkins for cookies (Chapters 215–217) and as Cyclizar’s “come home” cue (Chapter 228)
+- Not ripe when D returned from Area Zero (Chapter 235). Two big pumpkins to Festival Plaza Thanksgiving (Chapters 237–238)
+
+#### Tera Orb
+
+- Black **Tera Orb** gift from Sada (Chapter 234). One-use then recharge at Pokémon Centers worldwide or by touching Area Zero crystals
+- Confirmed: Koraidon Fighting Tera; Pawmot Electric Tera; Dragonite Flying Tera (Chapter 235)
+
+#### Poisonous mushrooms (stock)
+
+- Hollow stock used for Reversed World soup through Ch212–213. **Gone** after back-mountain fire; Giratina lake gateway still takes food offerings (pumpkin cookies Chapter 239)
+- Earlier mutant **Size-Shifting Pumpkin** → Pumpkin Pancake (A) Size Adjustment (Chapters 165–169)
+
+#### White Radish / Iceroot / Shaderoot
+
+- Calyrex-accelerated Snowy Valley crop: **White Radish** rare ingredient favored by the Ice horse (Chapter 246). Glastrier ate the whole field
+- Ordinary carrot seeds from Riley's wife mutate only in Crown Tundra soil (Chapter 245)
+- **Iceroot**: deep snow fields. **Shaderoot**: graveside / Ancient Tomb. Ranch growth outside tundra still open (soil study Ch250)
+- Freezington shop nearly emptied of carrot seeds for shrine stay (Chapter 249). ~500 carrots promised to Glastrier
+
+#### Reins of Unity
+
+- Crafted twice: Glastrier mane + Radiant Flower (Chapters 246–247); Spectrier mane + Radiant Flower (Chapter 249)
+- Grateful song required (*flowers rolling round…*). Chief's draft unfinished; D finished fine work
+- Calyrex merges with each steed; Reins on Glastrier + Koraidon do **not** fuse
+
+#### White Radish / Iceroot / Shaderoot (confirmed method)
+
+- Ice-heavy soil or Glastrier Ice energy → White Radish / Iceroot (Snowy Valley Ch246 / Ch251)
+- Ghost energy (graveside or Calyrex+Spectrier flood) → Shaderoot (Ch251–252)
+- Control plot weaker without matching energy. Ranch special fields planned using the two horses
+- D refuses tasting Shaderoot Ghost flesh
+
+#### Corviknight feathers
+
+- Large bag of naturally shed feathers from Corviknight Flying Taxi HQ (Chapter 260)
+- Rising Stars sponsorship reward from boss **Mike**
+- For Tinkatink Final Hammer (Corviknight steel; ≥100 kg path) and Pawmot hammers
+
+#### Sinistea / Polteageist (genuine)
+
+- Antique broken-eye Sinistea cup + matching Polteageist teapot (Chapter 260)
+- Authentic stamp under microscope. Do not drink Sinistea; Polteageist tea drinkable if trusted (ghost chill if forced)
+- Caught calmly Chapter 261. Polteageist mood follows tea: bitter Red Tea → gloomy; sweet red tea → cheerful. Uses **Tea Party** when happy; shares tea voluntarily (Chapter 266)
+
+#### Dye Berry
+
+- Mutated berry that changes Pokémon fur/body color (Chapter 264). Cookable
+- Slakoth ate one → light purple. One left on the tree after that. **Pawmot** dyed **pink** (Chapter 266); second berry reverts. Shiny-color stigma risk if misread
+
+#### Moon Dew Rose / Sunflower (Flower Trick)
+
+- **Moon Dew Rose:** greenhouse mutation; dishes can gain **Moon Stone** effect (Chapter 267). Rose jam fermenting 30 days
+- Reversed World **Sunflower:** periodic sunlight; fruit dishes gain **Sun Stone** effect; lights Flower Island (Chapter 270)
+
+#### Sweet Apple / Destruction Mushroom (Reversed World)
+
+- **Sweet Apple:** Calyrex scrubbed bad traits; happiness taste; Eternal apple trees on Apple Hills (Chapter 269)
+- **Destruction Mushroom:** antimatter cook ingredient under waterfall; explodes in real world; cook only in Reversed World
+
+#### World Tree Seedling
+
+- Panel: **99995.5** years to mature (Chapter 265). Calyrex −2000 → **97995**; **1 month** recovery; ~4 years projected with monthly boosts
+
+#### Tea Tree (Reversed World)
+
+- Calyrex-influenced tree on tea-garden Sky Island (Chapter 271)
+- Leaves make green tea; not for raw eating
+- Giratina bit leaves (bitter) and blacklisted that island
+
+#### Ancient gold coin (Gimmighoul)
+
+- Not a League coin. Found in Robin's warehouse; Machamp paid tavern wine with it (Chapter 280)
+- Roaming **Gimmighoul** takes it; needs **999** ancient Paldea coins to evolve into **Gholdengo**
+- No stamped LL face value
+
+#### Unripened Tree of Beginning Leaf
+
+- Mythological item; Nature Power; coveted by Grass-types; effects unknown until cooked (Chapter 281)
+- World Tree drops leaves to Gogoat and D after Second Nurture
+- Cooked into Leaf Cake (Chapters 282 / 288)
+
+#### Friendship Berry
+
+- Special Berry filled with Pokémon gratitude; symbolizes friendship (Chapter 287)
+- Cooking: dish rank **+1** (ineffective at level cap)
+- Used: Leaf Cake S-→S (Ch288); Green Grass Cake A→A+ (Ch289). Wine plan open
+
+#### Gogoat's Milk / Life Sheep Milk (Ultra Perfect)
+
+- Nature Power milk after Gogoat eat World Tree leaves (Chapter 284)
+- Nutrients dozens of times ordinary; severe injuries recover on drink; top cheese/butter
+- Market name **Life Sheep Milk** after Wattrel heal test (Chapter 290)
+- Price **30000 LL**/bottle (Chapter 291); day's haul + rock salt ≈ **1M LL** banked
+- Too strong for many human daily drinkers (nosebleeds) — retail often switched to MooMoo (Ch296). Pokémon nutrition / longevity feed OK. Human: sip + exercise
 
