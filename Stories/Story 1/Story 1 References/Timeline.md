@@ -266,9 +266,11 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 - **~299-04-01 (Ch345–350):** Banquet (four days after arrival). **Beginner Gluttony (C+)**. Clay manor: Elites / Lance / Oak / Giovanni / Nikar+Nemona. Nemona spars; Phone Rotom proposal to Nikar. D beats Lance (Pawmot / Ogerpon / Flutter Mane loss / Mjolnir / Dragonite Rain Thunder).
 
-- **299-04-05 (Ch354):** Calendar.
+- **Post-banquet (Ch351–353):** Nikar R&D handoff; Oak / Flutter Mane–Misdreavus; skip Lacunosa; sail home. Alder Unova TV bond speech (N watches?).
 
-- **299 mid-April (~Ch357):** Heat note.
+- **299-04-05 (Ch354–355):** Levincia gifts + Berry blender; Iono lunch; home. Grusha visit miss. Working Dragonites leave **Dragonite Egg**.
+
+- **299 mid-April (Ch356–360):** License + pickup **−120000**. Sunnytown berry sale → Bug Contest; **Snorlax** caught (Gluttony bait). Apple Garden ×30; Snorlax Park. Koraidon paradox resolve. Heroic **Alto Mare** Latias/Latios (thief cliff).
 
 - **299 early May (Ch367):** Month marker.
 
@@ -576,7 +578,7 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 ## Open / undated
 
-- Status/Inventory/Farm live snapshot: **Ch450** (Paradise; Appletun; Mewtwo colony; Steven tip; Skiddo Sacred Sword). Summeries filled through Ch450
+- Status/Inventory/Farm live snapshot: **Ch360** (home; Snorlax Park; Apple Garden ×30; Dragonite Egg; pickup −120k; Alto Mare Heroic cliff). Summeries filled through Ch360
 - Money: Sweet Apple **1000–2000**; guild/Miltank/Alcremie/apple orders unstamped
 - Live: Guild self-running; World Tree **19850** / **Paradise**; Appletun Ripen; Spectrier Horse King; Dondozo×3; Miltank×3 Alcremie×2
 - Leon Darkest Day / Weald alert; Heroic → Jirachi; Stranger 1 ↔ Steven; Driptrip contingency

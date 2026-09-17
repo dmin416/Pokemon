@@ -387,6 +387,7 @@ Stardew Valley forage pool → `Stardew/Forage.md`.
 - Sturdy recipe: Aspear + Lapapa + Pinap (Chapter 344; Yu Hui)
 - Beginner Gluttony: Pecha ×2 Oran ×1 Bluk ×1 Tamato ×2 Nanab 1/3 (Chapter 345)
 - Poipole Delicacy: lottery mix (recipe recorded; exact berries unstamped)
+- Ch358: remade Beginner Gluttony on-site (Pecha×2 Oran Bluk Tamato×2 Nanab) to catch Snorlax
 
 #### Reins of Unity
 

@@ -84,6 +84,9 @@ Use Stardew ×4 for Stardew tables in this folder (including **forage** in `Fora
 | Ranch land across river | **~1.1M LL**/acre ag subsidy; **7 acres = 7.7M LL** (Chapter 333). Perpetual deed |
 | Allen horse-race tickets | **10000 LL** (Allen's bet on D; Chapter 338) |
 | Unova cruise / Clay banquet | Unstamped (Chapters 342–350) |
+| White pickup truck | **120000 LL** (Chapter 356) |
+| Sunnytown berry warehouse sale | Deposit + balance unstamped (Chapters 356–357) |
+| Apple saplings ×30 / Snorlax Park build | Unstamped (Chapters 357–359) |
 
 Story sell grades: **normal · silver · gold · top** (not “iridium”). Multipliers vs normal when quality applies: silver ×1.25 · gold ×1.5 · top ×2.
 

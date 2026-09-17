@@ -843,7 +843,7 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Rating: C+
 - Tier: Level 1
 - Effect: **Gluttony** — one piece fills a Munchlax-class appetite (and below)
-- Notes: Machines capped ~5 berries; handcraft for advanced recipes. Full Gluttony / Snorlax-tier needs dozens of berries (mentioned; not made)
+- Notes: Machines capped ~5 berries; handcraft for advanced recipes. Full Gluttony / Snorlax-tier needs dozens of berries (mentioned; not made). Remade on-site Ch358 to bait / catch Sunnytown **Snorlax** (six pieces)
 - First made: Chapter 345
 
 ### Dragon Scale Fragrance (S+)

@@ -97,9 +97,9 @@ Story calendar uses **League years** (聯盟歷). Main arrival year = **League 2
 | 299-03-25 | 338–341 | Horse race; Spectrier win; carrot Pokeblocks; lobster cook / Unova depart next day |
 | 299-03-26–27 | 342–343 | Cruise to Unova |
 | 299-03-28 | 344 | Arrive Driftveil; Breeder Pokeblocks |
-| ~299-04-01 | 345–350 | Clay banquet; vs Lance win; Rotom proposal to Nikar |
-| 299-04-05 | 354 | Calendar |
-| 299 mid-April | ~357 | Heat / season note |
+| ~299-04-01 | 345–353 | Clay banquet; vs Lance; depart Unova |
+| 299-04-05 | 354–355 | Levincia gifts; home; Dragonite Egg |
+| 299 mid-April | 356–360 | Pickup; Sunnytown berries / Snorlax; Apple Garden; Alto Mare Heroic |
 | 299 early May | 367 | Month marker |
 | 299-06-29 | 378 | Day before summer fireworks |
 | 299-07-20 (planned) | 377, 385 | Ruins trip with Raifort |
@@ -297,6 +297,7 @@ Story calendar uses **League years** (聯盟歷). Main arrival year = **League 2
 - **Ch321–330:** Ogerpon truth/catch; Teal Mask + Tera shards; Pecharunt zombie crisis; Calyrex Kitakami faith. **299-03-08** home. **Dolliv → Arboliva** (~4 m). Robin Slugma pipes ordered (quote pending). Iono Thunder Trial; **10** goat milk sold (exact unstamped). Farfetch'd Berry Platters → Sword Dance; overeat Joy.
 - **Ch331–340:** Garganacl ×5 (Everstone cleared). Slugma heating paid. Land **7 acres −7.7M LL**. Alder/Volcarona heal. Spectrier horse-race champion (**299-03-25**). **Iceroot / Shaderoot Carrot Pokeblock (B)**. Unova banquet / Breeder path set.
 - **Ch341–350:** **Steamed Lobster (A+)** Guardian of the Sea (Cyclizar); **Garlic Steamed Lobster (B+)**. Depart **299-03-26**; Driftveil **299-03-28**. Yu Hui: Sturdy / Nutritious / Poipole Delicacy / Beginner Gluttony. Clay banquet ~**299-04-01**; Nemona; Phone Rotom → Nikar; beat Lance (Dragonite). Cruise/banquet LL unstamped.
+- **Ch351–360:** Nikar R&D; Oak; home **299-04-05**. Gifts + Berry blender. **Dragonite Egg**. Pickup **−120000 LL**. Sunnytown berry sale (unstamped) → catch **Snorlax**. Apple Garden ×30; Snorlax Park. Koraidon paradox resolve. Heroic Alto Mare Latias/Latios cliff.
 
 
 - **Mid League 300:** After 300-06-30 fireworks, jumps to 300-11-03 (Jul–Oct largely undated).
