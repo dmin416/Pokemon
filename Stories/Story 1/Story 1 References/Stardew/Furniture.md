@@ -10,7 +10,10 @@ Robin’s Carpenter’s Shop stock (Stardew Valley). Permanent stock every day; 
 
 **Story 1 (Chapter 32–38):** wooden board path with oil-cloth torches. Grass left uncut (lawn).
 
-**Story 1 (through Chapter 300):** countryside cottage; Pokémon Tavern (wines; Gimmighoul; Pawmot-parents notice); Cream Workshop; Glaceon ice cellar; Berry Garden; glass greenhouse; World Tree ~3 m+ / 91220 years; two horse stables; Snow/Ghost fields; flower-field pergola + tea table; Combee hive outdoors. Back mountain: **Abundant Shrine** + Pokémon cemetery; **Abundant Festival** planned. Thunder/Storm Trial ready. D at Area Zero Ch298–300 (Miraidon fight); Indeedee house-sit. Early League 299 (~Feb).
+**Story 1 (through Chapter 450):** countryside cottage; Pokémon Tavern; Cream Workshop; Glass Greenhouse; Slugma heat; Snorlax Park; gardens; Carrot House; guest room. Horse stable **destroyed** (Spectrier Horse King). Trials + Ancient Hidden. World Tree **Paradise** **19850**: **Explorer Guild complete** (self-running); Land of Dragons + **Dondozo×3**; Chicken House + **Miltank×3** / **Alcremie×2**; **Appletun** orchard; Mewtwo colony + Skiddo. Live **[D Ranch]** shop + Dragonite Delivery (Paldea only).
+
+
+
 
 Wood/stone buy prices rise in Year 2 (letter Spring 1, Year 2). Sell value of wood/stone to Robin or the Shipping Bin is unchanged in Year 2+.
 

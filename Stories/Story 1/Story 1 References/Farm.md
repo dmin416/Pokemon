@@ -1,42 +1,38 @@
 # Farm
 
-**D Ranch** (named Chapter 13). Near Porto Marinada, Paldea. Snapshot **League 299** ~Feb / Chapter **300** (D away at Area Zero). Date basis: [`Dates.md`](Dates.md); beats: [`Timeline.md`](Timeline.md); live: [`Status.md`](Status.md).
+**D Ranch** near Porto Marinada. Snapshot **League 299** mid-April / Chapter **360**. Dates: [`Dates.md`](Dates.md); Timeline: [`Timeline.md`](Timeline.md); live: [`Status.md`](Status.md).
 
 ## House cluster
 
-- Cabin / residence; guest room
-- Shipping box; storeroom + generator
-- Salt House; sheep/goat pen; Pokémon House; Chicken House
-- Glass Greenhouse (Calyrex; faith surge)
-- Pokémon Tavern (wines; Gimmighoul; Pawmot-parents notice)
-- Cream Workshop; Glaceon ice cellar (Mew Secret Power nook)
-- Berry Garden (Slakoth)
-- Two horse stables; Snow Field; Ghost Field
-- World Tree (~**3 m+**; **91220** years)
-- Grass / Thunder / Storm Trial arenas (Thunder+Storm ready)
-- Flower field pergola + tea table; Combee hive outdoors
-- Planned: greenhouse; Slugma heating pipes / duct remodel
-- Dragonair lake / Giratina gateway
+- Residence; Cream Workshop; Tavern; Glass Greenhouse
+- Chicken House; Salt House; sheep/goat pens; Pokémon House
+- Slugma heat; kitchen **Berry blender** (Levincia buy Ch354)
+- Farfetch'd dummies; Indeedee room **crib** + Dragonite Egg
+- White **pickup** parked by house
+
+## Across the river (new)
+
+- **7 acres** deeded; stone bridge + fence (wild damage patched Ch355)
+- **Apple Garden**: **30** saplings planted (Elo; Ch357)
+- **Snorlax Park**: slide; seesaw; sandpit; Calyrex-grown ~**8 m** swing tree; Snorlax belly trampoline (Ch359)
+- Mapped unbuilt: Wooloo ranch grassland; Tropius / Sawsbuck plots; leftover kids' park option
 
 ## Back mountain
 
-- Restored forest; **Abundant Shrine** (Calyrex statue); stairs/large shrine planned; annual **Abundant Festival** (League + Lewis)
-- Pokémon cemetery for fire dead
-- Pilgrims / Naranja students arriving
+- Abundant Shrine / cemetery (faith tourism rising; noted next decade)
 
-## Reversed World
+## World Tree / Reversed World
 
-- Sky islands as before; Giratina resident
+- Prior nurture path (~7–8 m / **87600** Ch311–312); not restamped this decade
+- Giratina contact prior
 
 ## Current work
 
-- Indeedee managing while D at Area Zero
-- Life Sheep Milk sales (Zack 30k/bottle); retail humans often on MooMoo
-- Longevity training + nutrition
-- Thunder/Storm Trials awaiting challengers
-- Sakura Blossom Wine Party upcoming
-- Flutter Mane / Miraidon path open
+- Gluttony Pokeblocks for Snorlax; apple trees grow toward next year
+- Wooloo purchase next; Tropius / Sawsbuck wild hunt planned (Casseroya)
+- Farfetch'd platter spam ongoing
+- Zack milk/veg pickup resumed
 
 ## Watering / growth
 
-- Dragonite Express; Calyrex (faith-boosted); Leaf Cake S on Grass tenders; monthly World Tree nurtures
+- Leaf Cake / Green Grass Cake tenders prior; Calyrex faith after Kitakami + shrine visitors

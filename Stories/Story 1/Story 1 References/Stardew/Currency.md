@@ -58,7 +58,32 @@ Use Stardew ×4 for Stardew tables in this folder (including **forage** in `Fora
 | Rising Stars sponsorship rewards | Free Corviknight feathers + genuine Sinistea/Polteageist (Chapters 257–260; no LL stamped) |
 | Ancient gold coin (Gimmighoul) | Not League currency. Tavern wine pay / Gimmighoul loot (Chapter 280). No LL face value. 999 needed for Gholdengo |
 | Elo spring seeds (Ch289) | **4200 LL** (garlic potato strawberry radish cucumber cabbage turnip) |
-| Life Sheep Milk (Ultra Perfect Gogoat milk) | **30000 LL**/bottle (Ch291). Day's milk + rock salt ≈ **+1000000 LL** banked. Retail humans often switch to MooMoo (too potent) |
+| Life Sheep Milk (Ultra Perfect Gogoat milk) | **30000 LL**/bottle (Ch291). Day's milk + rock salt ≈ **+1000000 LL** banked. Retail humans often switch to MooMoo (too potent). Listed on [D Ranch] shop Ch410–417 |
+| Magikarp stall (Abundant Festival) | **3000 LL** each (Ch404 quote; not D's purchase) |
+| Online banking (Ch410) | D self-describes as **millionaire**; no new face LL stamp |
+| MooMoo Milk ([D Ranch] shop) | **600 LL**/bottle listed (Chapter 417; Aobara order) |
+| Dragonite Delivery fee | **1000 LL** (Chapter 417; Mesagoza drop) |
+| World Tree guild build (Golden Wood top) | Continuous shop income covers; exact LL unstamped (Chapter 428) |
+| Elo berry seedlings (World Tree) | Paid Chapter 429; amount unstamped |
+| Robin Carrot House | Paid Chapter 425–430 stretch; amount unstamped |
+| Fish fry batch (Land of Dragons) | Paid Chapter 435 via Zack; amount unstamped |
+| Elo berry seedlings (Dragonite Island garden) | Paid Chapter 435; amount unstamped |
+| Giratina fan donations | Personal balance **~1.6M LL** (Chapter 440; not ranch) |
+| Horse King golden crown | Gholdengo coins to town smith; forged & crowned **Spectrier** Chapter 440 |
+| Explorer Guild final payment | Large sum to Robin Chapter 443; amount unstamped |
+| Cascarrafa apple bulk (Cliff) | Order Chapter 441; LL unstamped |
+| Sweet Apple (Appletun evo) | **1000–2000 LL** online; Pelipper ~2 days (Chapter 447) |
+| World Tree Miltank×3 + Alcremie×2 | Bought Chapter 445; amount unstamped |
+| Poké Balls ×50 (Heroic Expedition) | Shop rate ten for **2000** → ≈**10000 LL** (Chapter 312; satchel + meds extra unstamped) |
+| Empty Paldea kingdom treasure chest | **15000 LL** bargained from 20000 (Chapter 314; Gimmighoul Chest Form) |
+| Ancient Paldea gold coins | ~**50000 LL** each; two bought Chapter 314. **999** for Gholdengo |
+| Porto seafood stock-up | Several thousand LL (Chapter 313; exact unstamped) |
+| Iono goat milk (×10) | Exact LL unstamped (Chapter 329). "A lot"; Top Quality path ~**800 LL**/bottle if stamped later |
+| Robin Slugma whole-house heating pipes | Paid Chapter 332 (amount unstamped; whole house + kitchen stove link) |
+| Everstone (market) | **~3000 LL** each (Chapter 332 Joy quote). Five recovered; framed not sold |
+| Ranch land across river | **~1.1M LL**/acre ag subsidy; **7 acres = 7.7M LL** (Chapter 333). Perpetual deed |
+| Allen horse-race tickets | **10000 LL** (Allen's bet on D; Chapter 338) |
+| Unova cruise / Clay banquet | Unstamped (Chapters 342–350) |
 
 Story sell grades: **normal · silver · gold · top** (not “iridium”). Multipliers vs normal when quality applies: silver ×1.25 · gold ×1.5 · top ×2.
 

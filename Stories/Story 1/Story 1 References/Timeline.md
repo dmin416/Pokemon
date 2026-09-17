@@ -226,23 +226,45 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 - **299-02 (~Ch298–300):** Area Zero: Flutter Mane reunites with Koraidon; Turo offers Miraidon No.1; Koraidon beats Miraidon (recalled).
 
-- **299-02-09 (Ch303):** Calendar.
+- **299-02 (Ch301–302):** Refuse Miraidon; Flutter Mane to ranch; Teddiursa/Mew invite **Zapdos** at Kanto power plant.
 
-- **299-02-11 (Ch311):** Calendar.
+- **299-02-09 (Ch303–304):** Calendar. Pawmot beats Flutter Mane spar; Flutter Mane **self-captures**. Gogoat ally Grassy Terrain regen shown.
 
-- **299-02-26 / 29 (Ch315, 317):** Kitakami ag trip; depart Feb 29.
+- **299-02 (Ch305–309):** **Good Potato** → **Potato Stew (S)** Golden Right Hand; **Leon** reaches ranch; clears Grass Trial 3v3 (Charizard); Life Sheep Milk heal; stage-reward rewrite planned.
 
-- **299-03-08 (Ch327):** Return to Paldea.
+- **299-02 (~Ch310):** Pecha/Cheri/**Aspear** Berry Wines to Leon; Alder contact asked; Geeta Gym Leader visit plan; **Zapdos** lands with Teddiursa/Mew (World Tree too small).
 
-- **299 late March (Ch334):** Month end.
+- **299-02-11 (Ch311–312):** Fourth Nurture World Tree **91220→87600** / ~7–8 m young stage. Zapdos joins Heroic Expedition (not nesting yet). Satchel + 50 balls + 50 Life Sheep Milk + meds; team departs next morning.
 
-- **299-03-23 (Ch336):** Alder banquet ~Apr 1–2.
+- **299-02-19 (Ch313):** Coffee (B-) Sleeplessness; Flutter Mane day-shift. Seafood stock-up.
 
-- **299-03-24 (Ch337):** Day before horse race.
+- **299-02 (~Ch314):** Antique chest **−15000** + coins **~−100000** for Gimmighoul. Lewis Kitakami ag invite (leave in 3 days).
 
-- **299-03-25 (Ch338–341):** Horse race day.
+- **299-02-26 (Ch315):** Calendar. Seafood Stew (C+). Competing Dragonite gift fish; ranch Dragonite jealous flight to Hoenn.
 
-- **299-03-28 (Ch344):** Arrive Unova by ship.
+- **299-02 (~Ch316–317):** Dragonite vs **Kyogre** (lost; Life Sheep Milk heal). *"I don't want the big fish."* **299-02-29** depart Cascarrafa → Kitakami (Koraidon Pawmot Cyclizar Flutter Mane Dragonite).
+
+- **299-03 (~Ch318–320):** Mossui rice/apple tour; Infernal Pass; **Ogerpon** cave (Berry pile); Helian battle; **Slugma** caught with Pawmot. Terastal wild Slugma noted.
+
+- **299-03 (~Ch321–326):** Ogerpon truth (Yukito); catch; Teal Mask repair (Crystal Light Pool); Loyal Three revive; **Pecharunt** zombie town; **Calyrex** descends / faith harvest; Ogerpon spares Pecharunt; leave with four masks. Pecharunt doll left Imprisoned in Kitakami.
+
+- **299-03-08 (Ch327–330):** Return Paldea. Lewis meet. **Dolliv → Arboliva** (~4 m). Robin Slugma pipes ordered. Zapdos delivers **Farfetch'd**. **Iono** Thunder Trial (Electrode loss); buys 10 goat milk. Farfetch'd Berry Platter spam → Sword Dance only; overeat → Joy.
+
+- **299-03 (~Ch331–333):** Farfetch'd dummies; Everstone blocks Naclstack → vomit → **Garganacl ×5**; Slugma heating paid. Land **7 acres / −7.7M LL**; bank thin. Lucky Pudding + Explosion scare.
+
+- **299 late March (Ch334):** Allen race reminder; **Alder** arrives.
+
+- **299-03-23 (Ch335–336):** Volcarona Life Sheep Milk + Life Dew heal; Unova banquet ~Apr 1–2; Alder stays. Rookie Pichu Grass Trial; six-badge soft gate.
+
+- **299-03-24 (Ch337):** Bridge/fence done; Spectrier wins race lot vs Glastrier.
+
+- **299-03-25 (Ch338–340):** Horse race; Spectrier champion (trophy crown). **Iceroot / Shaderoot Carrot Pokeblock (B)**. Alder offers Unova Breeder for energy cubes.
+
+- **299-03-26 (Ch341–343):** Lobster cook; depart cruise next day from plan. Farfetch'd **63** platters; travel eight. Ship talk: Zekrom/Reshiram; Ogerpon Ursaluna memory; refuse Snivy/Flutter Mane trade.
+
+- **299-03-28 (Ch344):** Arrive Driftveil by ship. Yu Hui Breeder lessons: **Sturdy (C)** / **Nutritious (D-)** / **Poipole Delicacy (B+)**.
+
+- **~299-04-01 (Ch345–350):** Banquet (four days after arrival). **Beginner Gluttony (C+)**. Clay manor: Elites / Lance / Oak / Giovanni / Nikar+Nemona. Nemona spars; Phone Rotom proposal to Nikar. D beats Lance (Pawmot / Ogerpon / Flutter Mane loss / Mjolnir / Dragonite Rain Thunder).
 
 - **299-04-05 (Ch354):** Calendar.
 
@@ -268,55 +290,65 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 - **299-08-22 (Ch397):** Calendar.
 
-- **299-09-20 (Ch401):** Calendar.
+- **299-09-20 (Ch401):** Scar Dragonite Outrage scale → **Dragon Scale Fragrance (S+)**; Dragon Power.
 
-- **299-09-30 (Ch404):** Harvest / Thanksgiving.
+- **299-09-30 (Ch404):** Abundant Festival / Harvest end of volume.
 
-- **299 November (Ch406):** Early snow.
+- **299 November (Ch405–406):** Early cold; Tropius joins; Sada/Arven Flutter Mane visit; World Tree winter pasture.
 
-- **299 NYE → 300 (Ch408–411):** Year turn.
+- **299 late fall–winter (Ch407–408):** Heroic Expedition + Zapdos return; **Divine Steamed Bun (SS)**; Fried Bananas (C); Rotom Phone launch year-end.
 
+- **299 NYE → soft 300 prep (Ch409–410):** Rotom phones / Calyrex online; [D Ranch] shop + Dragonite Delivery soft open (ops spring); Pawmot parents tip. Year turn continues Ch411+.
 
+- **299 NYE night → League 300 (Ch411):** Pawmot parents reunion; NYE feast; League **299** ends.
 
----
+- **Early 300 spring (Ch412):** Heroic Expedition out again; 3DS; Pawmot parents = Chicken House managers; pink Shiny **Dratini** hatches. **300-02-15** [D Ranch] shop opens (three days zero orders). Giratina online fight → Reversed World chase.
 
+- **Ch413–414:** Eterna City ambush (Ishihara); sky duel draw; D apologizes; Giratina viral (“Daddy is Giratina!”); Cynthia / Cyrus / Oak notice.
 
+- **Ch415–416:** Giratina fans tens of thousands; Calyrex Cultural Ambassador account; Lono first real shop orders; Tropius stays; Apple Garden ripe (no Applin); Rayquaza visit; Heroic in **Hoenn**.
 
-## League 300
+- **Ch417:** **Apple Pie (C)**; **Caramelized Apples (C+)** Silk Thread toughness lv1. First stranger order (Aobara / Mesagoza); Hidden Boss campus fame; Commission **2 Jirachi** (Hoopa still open).
 
+- **300-02-24 (Ch418–419):** Oak flies to Paldea. Giratina fans **100k+**; Calyrex faith surge; World Tree Mature Stage **48054→38198**; interior open; Explorer Guild plan (~4 months to full grow).
 
+- **300-02-25 (Ch420):** Oak arrives Mesagoza → ranch; meets Calyrex; Darkest Day cliff.
 
-- **300-02-15 (Ch412):** Ranch shop opens.
+- **Ch421:** Oak logs Calyrex in Pokédex + paper; Galar opinion erupts; Rose ignores; Geeta talent gloat.
 
-- **300-02-24 (Ch418):** Oak flies to Paldea.
+- **300-02-27 (Ch422–423):** Oak ecology study; giant carrot; Metronome Trial (Alcremie **Judgment**); Giratina lake scare; **Cynthia** visit (Reversed World lore).
 
-- **300-02-25 (Ch420):** Oak arrives.
+- **300-03-01 (Ch424):** Cynthia → Alph/Midina/Arche Valley tips; Oak leaves after 6 days; Ash video hello.
 
-- **300-02-27 (Ch422):** Oak studies ranch.
+- **Early March (Ch425–427):** Robin World Tree guild commission; Heroic Tasks 3–7; Treecko Forest revive; **Leafeon / Sylveon / Espeon**; Treecko ×3 inbound.
 
-- **300-03-01 (Ch424):** Calendar.
+- **Ch428–429:** **Honey Candy (C)**; **World Tree Candy (A+)**; Treecko settle + Berry Forest; Robin build starts.
 
-- **300-03-07 (Ch430):** Fishing contest.
+- **300-03-07 (Ch430–431):** Carrot House; Casseroya fishing vs Sato Ken; D **52** vs Sato **42**; champion medal; **Milotic** + Tatsugiri ×3 + Slowpoke join World Tree (Chewtle released).
 
-- **300-03-10 (Ch433):** 6:25 AM stamp.
+- **Ch432–433:** Dragonite Delivery / Life Sheep viral; cross-region refused. **300-03-10 6:25:** Giratina/Calyrex escort brief; couriers invited to World Tree.
 
-- **300-03-15 (Ch435):** Calendar.
+- **Ch434–435:** Full Dragonite Island → World Tree **Land of Dragons**; nurture **38198→27198**; fry + Berry Garden. **300-03-15:** Geeta Champion trainees; King's Rock bargain.
 
-- **300-03-16 (Ch436):** Calendar.
+- **300-03-16 (Ch436):** Yang/Nanako; Hidden Trials unlocked; Yang 2nd Grass pass; Koraidon Ancient fail; Larry on King's Rock.
 
-- **300-03-21 (Ch437):** Meets Larry again.
+- **300-03-21 (Ch437–438):** Larry delivers King's Rock; **Slowking**; Wishiwashi school to Land of Dragons; Cyclizar blues.
 
-- **300 late March (Ch439):** Horse race soon (D skips).
+- **Late March (Ch439–440):** **Blessing Soup Noodles (A)** Wish for Cyclizar; Cyclizar↔Koraidon bond; skip town race; stable destroyed; Horse King duel → **Spectrier crowned**; Giratina **~5.55M** / **~1.6M LL**.
 
-- **300-04-01 (Ch441):** Warming.
+- **300-04-01 (Ch441):** Summer; Lono overnight / Thunder demo; **Applin (Ripen)**; Cliff apple order.
 
-- **300-04-20 (Ch445):** Calendar.
+- **Ch442–444:** Mewtwo + clones settle Paradise; Heroic → Jirachi; **Explorer Guild completed**; Mewtwo joins Legendary chat.
 
-- **300-04-24 (Ch446):** Calendar.
+- **300-04-20 (Ch445):** Chicken House; **Miltank×3 Alcremie×2**; **Dondozo×3**; fields planted; Geeta vacation declined.
 
-- **300-04-25 (Ch447):** Calendar.
+- **300-04-20–24 (Ch446):** Nurture World Tree **27198→19850**; named **Paradise**; Leon arrives **300-04-24**.
 
-- **300-04-28 (Ch451):** Calendar (Leon voyage stretch).
+- **300-04-24–25 (Ch447):** Leon loses Ancient Trial; Calyrex Darkest Day / Eternatus vision; **Appletun** (Sweet Apple **1000–2000 LL**); Magma/Aqua forum post.
+
+- **Ch448–450 (~300-04-28):** Steven DMs; **Stranger 1** tip-line; **Driptrip Dragon Service**; Gogoat teach Skiddo **Grass Sacred Sword**.
+
+- **300-04-28 (Ch451):** Calendar (later stretch).
 
 - **300-05-02 (Ch455):** Calendar.
 
@@ -544,15 +576,7 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 ## Open / undated
 
-- Status/Inventory/Farm live snapshot: **Ch300** (Area Zero aftermath; Flutter Mane friend; Miraidon fight). Summeries filled through Ch300; parts of Ch61-100 still title-only
-- Money: Elo **−4200**; Life Sheep Milk **30000**/bottle; Ch291 ≈**+1M LL** banked. Retail humans often switched to MooMoo
-- World Tree ~3 m+ / **91220** years; Abundant Shrine + cemetery live; Calyrex faith beyond peak
-- Thunder/Storm Trials ready; shrine pilgrims starting
-- Flutter Mane: friend confirmed; ranch invite; not caught yet. Miraidon No.1: Koraidon won fight Ch300; bond offer likely refused next
-- Abundant Festival planned with **Lewis**; shrine complex still building
-- Alder/Volcarona Life Sheep Milk rescue goal; Leon Paldea visit pending
-- Pawmot parents tavern notice; Slugma heating idea; Sakura Blossom Wine Party upcoming
-- Teddiursa/Mew still Johto; Gimmighoul hiding; Geeta League job still declined
-- Full **Sea God**: needs full Lugia powder ratio
-- Pokeblocks: waiting on a Breeder
-- Kitakami visit interest (Elo apple trees)
+- Status/Inventory/Farm live snapshot: **Ch450** (Paradise; Appletun; Mewtwo colony; Steven tip; Skiddo Sacred Sword). Summeries filled through Ch450
+- Money: Sweet Apple **1000–2000**; guild/Miltank/Alcremie/apple orders unstamped
+- Live: Guild self-running; World Tree **19850** / **Paradise**; Appletun Ripen; Spectrier Horse King; Dondozo×3; Miltank×3 Alcremie×2
+- Leon Darkest Day / Weald alert; Heroic → Jirachi; Stranger 1 ↔ Steven; Driptrip contingency

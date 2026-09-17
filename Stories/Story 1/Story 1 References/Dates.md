@@ -86,15 +86,18 @@ Story calendar uses **League years** (聯盟歷). Main arrival year = **League 2
 | 299 early spring | 284 | Year turns |
 | 299-01-22 | ~295 | News: five months since forest fire |
 | 299-02-06 | 297 | Calendar; wine party invite again |
-| 299-02-09 | 303 | Calendar |
-| 299-02-11 | 311 | Calendar |
+| 299-02-09 | 303–304 | Calendar; Flutter Mane spar + catch stretch |
+| 299-02-11 | 311–312 | Calendar; Fourth Nurture; Zapdos joins expedition |
+| 299-02-19 | 313 | Calendar; Coffee / Flutter Mane day-shift |
 | 299-02-26 / 29 | 315, 317 | Kitakami ag trip; depart Feb 29 |
-| 299-03-08 | 327 | Return to Paldea |
-| 299 late March | 334 | Month end |
-| 299-03-23 | 336 | Alder banquet ~Apr 1–2 |
-| 299-03-24 | 337 | Day before horse race |
-| 299-03-25 | 338–341 | Horse race day |
-| 299-03-28 | 344 | Arrive Unova by ship |
+| 299-03-08 | 327 | Return to Paldea; Arboliva evolve stretch |
+| 299 late March | 334 | Alder arrives; race reminder |
+| 299-03-23 | 335–336 | Volcarona heal; banquet ~Apr 1–2; Pichu trial |
+| 299-03-24 | 337 | Bridge/fence done; Spectrier race pick |
+| 299-03-25 | 338–341 | Horse race; Spectrier win; carrot Pokeblocks; lobster cook / Unova depart next day |
+| 299-03-26–27 | 342–343 | Cruise to Unova |
+| 299-03-28 | 344 | Arrive Driftveil; Breeder Pokeblocks |
+| ~299-04-01 | 345–350 | Clay banquet; vs Lance win; Rotom proposal to Nikar |
 | 299-04-05 | 354 | Calendar |
 | 299 mid-April | ~357 | Heat / season note |
 | 299 early May | 367 | Month marker |
@@ -131,10 +134,11 @@ Story calendar uses **League years** (聯盟歷). Main arrival year = **League 2
 | 300-03-21 | 437 | Meets Larry again |
 | 300 late March | 439 | Horse race soon (D skips) |
 | 300-04-01 | 441 | Warming |
-| 300-04-20 | 445 | Calendar |
-| 300-04-24 | 446 | Calendar |
-| 300-04-25 | 447 | Calendar |
-| 300-04-28 | 451 | Calendar (Leon voyage stretch) |
+| 300-04-20 | 445 | Chicken House; Miltank×3 Alcremie×2; Dondozo×3 |
+| 300-04-20 | 446 | World Tree nurture → **19850**; Paradise named (same stretch) |
+| 300-04-24 | 446–447 | Leon arrives; Ancient Trial |
+| 300-04-25 | 447 | Appletun evo; Magma/Aqua forum post |
+| 300-04-28 | 449–450 | Stranger 1 / Steven; Role Model Day / Skiddo |
 | 300-05-02 | 455 | Calendar |
 | 300-05-03 | 457 | Calendar |
 | 300-05-07 | 460 | Calendar |
@@ -282,6 +286,17 @@ Story calendar uses **League years** (聯盟歷). Main arrival year = **League 2
 - **Ch271–280:** **298-11-06** Alice films (Ch271); **298-11-10** *Man and Dragon* airs (Ch272); **298-11-14** first snow (Ch276); **298-11-25** Arven leaves + berry wines ready (Ch279). Pawmot hammer; Teddiursa/Mew return; Gimmighoul. No new LL stamps; ancient gold coin unstamped.
 - **Ch281–290:** late Dec Second Nurture / Leaf Cake S-; NYE→**299** New Year; early spring Life Sheep Milk + Calyrex mountain miracle + Friendship Berry; Leaf Cake S / Green Grass Cake A+; Elo **−4200**; Diglett→Dugtrio; Teddiursa/Mew to Johto. Life Sheep Milk price not stamped through Ch290.
 - **Ch291–300:** Life Sheep Milk **30000 LL**/bottle; ≈**+1M** banked (Ch291). Rika Abundant Shrine + cemetery; World Tree **91220** / ~3 m+; TV faith surge; **299-02-06** Elif letter + Sada Flutter Mane call; Area Zero reunion Ch298–300 (Flutter Mane uncatched; Miraidon offer). Retail humans often switch to MooMoo.
+- **Ch401–410:** **299-09-20** Dragon Scale Fragrance S+; **299-09-30** Abundant Festival; Nov Tropius; Divine Steamed Bun SS; Fried Bananas C; year-end Rotom Phone; [D Ranch] + Dragonite Delivery soft open (ops spring). Millionaire online banking (unstamped exact). Magikarp stall **3000 LL** quote.
+- **Ch411–420:** **299 NYE→300** Pawmot reunion; **300-02-15** shop open; pink Dratini; Giratina viral / Eterna duel; Lono + Aobara orders; Apple Pie C / Caramelized Apples C+; World Tree **38198**; **300-02-24** Oak flies; **300-02-25** Oak arrives. Shop: MooMoo **600**; Life Sheep **30000**; Delivery **1000**.
+- **Ch421–430:** Calyrex Pokédex/paper (Galar outrage); **300-02-27** Oak study + Metronome/Judgment + Cynthia; **300-03-01** Oak leaves; Robin World Tree guild; Leafeon/Sylveon/Espeon; Honey Candy C / World Tree Candy A+; Treecko ×3 + Arboliva/Tropius settle; **300-03-07** fishing / Tatsugiri cliff. Build spends unstamped.
+- **Ch431–440:** Fishing champ **52** + medal; Milotic/Tatsugiri×3/Slowpoke; Delivery viral / no cross-region; **300-03-10** Giratina escort; Dragon Island → Land of Dragons; World Tree **27198**; **300-03-15/16** Geeta trainees / Yang Grass #2 / Hidden Trials; **300-03-21** King's Rock → Slowking + Wishiwashi school; Cyclizar bond + **Blessing Soup Noodles (A)**; Horse King → **Spectrier crowned**; Giratina **~5.55M** / **~1.6M LL**.
+- **Ch441–450:** **300-04-01** Lono + Applin; Mewtwo colony; Explorer Guild complete; **300-04-20** Chicken House / Miltank×3 Alcremie×2 / Dondozo×3; World Tree **19850** + named **Paradise**; **300-04-24/25** Leon Ancient Trial + Darkest Day + **Appletun** (Sweet Apple **1000–2000 LL**); Steven Magma/Aqua tip; Driptrip Dragon Service; Gogoat↔Skiddo **Grass Sacred Sword**. Guild/stock LL mostly unstamped.
+
+- **Ch301–310:** Miraidon refused; Flutter Mane home + **caught** (Ch304); **Good Potato** / **Potato Stew (S)** Golden Right Hand (Ch305); Leon Grass Trial pass (Ch307–309); Berry Wines + Alder ask; Geeta Gym Leader plan; **Zapdos** arrives with Teddiursa/Mew (Ch310). **299-02-09** stamped Ch303; no new LL stamp (Leon milk buy unstamped).
+- **Ch311–320:** Fourth Nurture World Tree **87600** / ~7–8 m; Zapdos joins expedition with satchel/balls/milk. Coffee (B-) + Flutter Mane day-shift (**299-02-19**). Antique chest **−15000** + coins **~−100000**. Seafood Stew (C+). Dragonite vs Kyogre then home. Kitakami from **299-02-29**; Ogerpon cave; **Slugma** caught (Ch320). Seafood several thousand LL.
+- **Ch321–330:** Ogerpon truth/catch; Teal Mask + Tera shards; Pecharunt zombie crisis; Calyrex Kitakami faith. **299-03-08** home. **Dolliv → Arboliva** (~4 m). Robin Slugma pipes ordered (quote pending). Iono Thunder Trial; **10** goat milk sold (exact unstamped). Farfetch'd Berry Platters → Sword Dance; overeat Joy.
+- **Ch331–340:** Garganacl ×5 (Everstone cleared). Slugma heating paid. Land **7 acres −7.7M LL**. Alder/Volcarona heal. Spectrier horse-race champion (**299-03-25**). **Iceroot / Shaderoot Carrot Pokeblock (B)**. Unova banquet / Breeder path set.
+- **Ch341–350:** **Steamed Lobster (A+)** Guardian of the Sea (Cyclizar); **Garlic Steamed Lobster (B+)**. Depart **299-03-26**; Driftveil **299-03-28**. Yu Hui: Sturdy / Nutritious / Poipole Delicacy / Beginner Gluttony. Clay banquet ~**299-04-01**; Nemona; Phone Rotom → Nikar; beat Lance (Dragonite). Cruise/banquet LL unstamped.
 
 
 - **Mid League 300:** After 300-06-30 fireworks, jumps to 300-11-03 (Jul–Oct largely undated).

@@ -109,6 +109,15 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Notes: Fed to Dragonite after Extreme Speed platter (Chapter 51). It forgot Dragon Tail. D stopped further gambles until Dragon Tail was relearned
 - First made: Chapter 51
 
+### Berry Platter (B)
+
+- Source: mixed berries cut and plated; no truffle (Chapter 330)
+- Rating: B
+- Tier: Level 2 Skill Refinement
+- Effect: Skill Refinement — a move randomly changes; chance to learn a powerful rare move
+- Notes: Keep separate from C- and B+. Farfetch'd: first → Sleep; then eight more wiped Cut / Iaido Slash / Aerial Ace / Fury Cutter / Sleep / Sand Attack; last → **Sword Dance** only. Overate (~40 berries) → Joy vomit. Still a double-edged sword
+- First logged at B: Chapter 330
+
 ### Smashed Cucumber (D)
 
 - Source: smashed cucumber from first harvest
@@ -728,4 +737,184 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Effect: **Flower Trick** — small chance crops nurtured by Grass Energy get slight variations (was extremely small at A)
 - Notes: Feeds Dolliv Gogoat Calyrex. Black Truffle stack idea open
 - First made: Chapter 289
+
+### Potato Stew (S)
+
+- Source: **Good Potato** (Grass Energy mutant) + meat high-heat stew (Chapter 305)
+- Rating: S
+- Tier: S-band
+- Effect: **Golden Right Hand** — human only; after eating place right hand on a frenzied/angry Pokémon's forehead and say *"Good Pokemon, bad guys got chased away!"* to calm them
+- Notes: Keep separate from Crown Tundra **Potato Stew (B+)**. No effect on calm Giratina; does not rewrite Paradox hunting nature. Failed on Flutter Mane night-hunt (not the right frenzy state)
+- First made: Chapter 305
+
+### Aspear Berry Wine (B)
+
+- Source: Aspear Berry cellar stock; gifted as Grass Trial fruit-wine reward (Chapter 310)
+- Rating: B
+- Tier: Level 2
+- Effect: Warms the body; **freeze resistance** (less likely to be frozen)
+- Notes: Given with Pecha / Cheri wines to Leon for Dragapult Charizard Haxorus. Same cellar family as Ch279 berry wines
+- First logged: Chapter 310
+
+### Coffee (B-)
+
+- Source: Calyrex-forced coffee tree → ferment / roast / grind / brew (Chapter 313)
+- Rating: B-
+- Tier: Level 2
+- Effect: **Sleeplessness lv2** — cannot fall asleep; **6 hours**
+- Notes: Used to day-shift Flutter Mane. Bitter alone; milk + heavy sugar still barely tolerated. Focus-at-work review text
+- First made: Chapter 313
+
+### Seafood Stew (C+)
+
+- Source: market seafood steamed with garlic dips (Chapter 315)
+- Rating: C+
+- Tier: Level 1
+- Effect: **Small Fish and Seafood lv1** — moderately raises Water-type friendliness (Water only)
+- Notes: Dragonites loved it; Koraidon/Cyclizar preferred meat. Psyduck share planned. Working Dragonites later brought wild catch gifts
+- First made: Chapter 315
+
+### Iceroot Carrot Pokeblock (B)
+
+- Source: Iceroot Carrot puree + white sugar; square molds; hard-candy texture (Chapter 340)
+- Rating: B
+- Tier: Level 2
+- Effect: **Cold, cold, cold** — chance to learn Ice moves; restore Ice energy (Ice-types only). Extra: Ice-type favorability up
+- Notes: Made to bribe sulky Glastrier after Spectrier race crown. Better Ice snack line than cream ice cream. Large batches easy
+- First made: Chapter 340
+
+### Shaderoot Carrot Pokeblock (B)
+
+- Source: Shaderoot Carrot + white sugar; purple cubes (Chapter 340)
+- Rating: B
+- Tier: Level 2
+- Effect: **Dark, dark, dark** — chance to learn Ghost moves; restore Ghost energy (Ghost-types only)
+- Notes: Parallel cook to Iceroot version. Saved for Spectrier next day so Glastrier wouldn't get jealous. Alder mistook for energy cubes; offers Unova Breeder lessons
+- First made: Chapter 340
+
+### Steamed Lobster (A+)
+
+- Source: deep-sea lobster steamed; emotion-in-cooking while thinking of Cyclizar (Chapter 341)
+- Rating: A+
+- Tier: A+ / exclusive
+- Effect: **Guardian of the Sea** — Cyclizar exclusive; once; auto-triggers on a life-threatening hit and fully blocks that attack
+- Notes: Appraisal notes emotion + cuisine blend. D hopes Cyclizar never needs it
+- First made: Chapter 341
+
+### Garlic Steamed Lobster (B+)
+
+- Source: second lobster garlic-steamed (Chapter 341)
+- Rating: B+
+- Tier: Level 2 niche
+- Effect: lobster-species (Corphish / Crawdaunt / Clawitzer etc.) slight Atk + Def **30 min**
+- Notes: No lobster Pokémon on ranch; unused so far. Squid gift set aside (not enough to share)
+- First made: Chapter 341
+
+### Sturdy Pokeblock (C)
+
+- Source: machine blend Aspear ×1 + Lapapa ×1 + Pinap ×1 (Yu Hui recipe; Chapter 344)
+- Rating: C
+- Tier: Level 1
+- Effect: **Strong Polishing lv1** — long-term body strengthening / muscle build
+- Notes: Sour; humans and Koraidon both react to sourness. First successful machine Pokeblock. Coordinator / Contest staple note
+- First made: Chapter 344
+
+### Nutritious Pokeblock (D-)
+
+- Source: failed freestyle berry mixes after Sturdy practice (Chapter 344)
+- Rating: D-
+- Tier: D-band
+- Effect: minimal nutrition only
+- Notes: Low berry compatibility. Many machine failures / one processor smoke-out before lottery success
+- First made: Chapter 344
+
+### Poipole Delicacy (B+)
+
+- Source: random berry lottery on Breeder Association machine (Chapter 344)
+- Rating: B+
+- Tier: Level 2 niche
+- Effect: **Poipole Special Attack** (favorite flavor) — wild bait chance to attract **Poipole only**; foul enough to faint other eaters
+- Notes: Koraidon fled smell; Cyclizar fainted tasting (Ch345); D vomited. Recipe written down; Ultra Wormhole / Alola niche
+- First made: Chapter 344
+
+### Beginner Gluttony Pokeblock (C+)
+
+- Source: handcraft Pecha ×2 + Oran ×1 + Bluk ×1 + Tamato ×2 + Nanab 1/3; stew / sift / compress / mold (Yu Hui; Chapter 345)
+- Rating: C+
+- Tier: Level 1
+- Effect: **Gluttony** — one piece fills a Munchlax-class appetite (and below)
+- Notes: Machines capped ~5 berries; handcraft for advanced recipes. Full Gluttony / Snorlax-tier needs dozens of berries (mentioned; not made)
+- First made: Chapter 345
+
+### Dragon Scale Fragrance (S+)
+
+- Source: Dragonite **Outrage scale** (trust gift) + black tea; Calyrex Psychic crush to powder (Chapter 401)
+- Rating: S+
+- Tier: S+ band
+- Effect: **Dragon Power** — humans only; Dragon affinity; spend power to accelerate Dragon growth
+- Notes: Drunk by D; used on scar Dragonite and ranch Dragons. Dragon-clan rarity parallel
+- First made: Chapter 401
+
+### Divine Steamed Bun (SS)
+
+- Source: Ho-oh **Rainbow Feather** powder steamed into small buns (Chapters 407–408)
+- Rating: SS
+- Tier: Legendary SS
+- Effect: **Holy Ash** (dying full HP / healthy stamina+endurance); **Sacred Fire** (Fire-types → Sacred Fire; others Fire moves +20% permanent); **Divine Blessing** luck ↑ (Mew Teddiursa Zapdos only)
+- Notes: 20+ small buns. Flareon Sacred Fire breakthrough; Eevee brothers physique fix. Fed ranch + Heroic trio
+- First made: Chapter 407
+
+### Fried Bananas (C)
+
+- Source: **Tropius' Bananas** + egg wash + breadcrumbs fried (Chapter 408)
+- Rating: C
+- Tier: Level 1
+- Effect: **Fruit ripening** — Tropius-only; greatly accelerates neck-fruit growth
+- Notes: Tropius gifted bananas via Harvest. Shared with ranch after feeding Tropius
+- First made: Chapter 408
+
+### Apple Pie (C)
+
+- Source: ranch **Apple Garden** apples + pie pastry (Chapter 417)
+- Rating: C
+- Tier: Level 1
+- Effect: Sweet taste; friendship / comfort (no named combat buff printed)
+- Notes: Cooked while Apple Garden is ripe; Applin not found yet
+- First made: Chapter 417
+
+### Caramelized Apples (C+)
+
+- Source: ranch apples caramelized (Chapter 417)
+- Rating: C+
+- Tier: Level 1
+- Effect: **Silk Thread toughness lv1** — Bug silk harder to break
+- Notes: Tested on Butterfree silk
+- First made: Chapter 417
+
+### Honey Candy (C)
+
+- Source: sugar + corn syrup + water + Combee golden Honey; molded (Chapter 428; Rare Candy attempt)
+- Rating: C
+- Tier: Level 1
+- Effect: **Bear Attraction lv1** — attracts Bear-types in wild; raises Bear friendliness when fed
+- Notes: Not Rare Candy. Fed to sweet-tooth ranch Pokémon
+- First made: Chapter 428
+
+### World Tree Candy (A+)
+
+- Source: Tree of Beginning leaf juice mixed into candy syrup (Chapter 428)
+- Rating: A+
+- Tier: Level 3
+- Effect: **Nature Power lv3** — Grass-types only; once; Grass Energy control ↑ for plant care
+- Notes: Fed Leafeon Ogerpon Gogoat Calyrex Tropius Arboliva; ×3 reserved then given to Treecko welcome
+- First made: Chapter 428
+
+### Blessing Soup Noodles (A)
+
+- Source: hot noodle soup cooked with deep feeling while comforting Cyclizar (Chapter 439)
+- Rating: A
+- Tier: Level 3
+- Effect: **Wish** — legend that the eater can fulfill a wish
+- Notes: Variant of familiar hot noodle soup; appraisal changed when emotion infused. Fed to Cyclizar
+- First made: Chapter 439
 

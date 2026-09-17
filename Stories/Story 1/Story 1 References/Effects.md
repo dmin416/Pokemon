@@ -51,6 +51,7 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 | Hot Soup Noodles | C | Cold Resistance **lv1**, 35 min. Ch. 5 |
 | Berry Milk | C | Bovine-only: slight milk quality up (tastier / more nutritious). Ch. 8 |
 | Berry Platter | C- | Skill Refinement (move RNG). Caterpie → Electroweb. Ch. 16. Cyclizar → Dragon Tail. Ch. 49. Dragonite → Extreme Speed then forgot Dragon Tail on B+ remake. Ch. 51 |
+| Berry Platter | B | Skill Refinement (no truffle). Farfetch'd → Sleep then wipe → **Sword Dance**. Ch. 330 |
 | Berry Platter | B+ | Skill Refinement with higher rare-move odds (Black Truffle powder). Ch. 51 |
 | Caramel-flavored Berry Milk | *(unrated)* | Reminds Pokémon of sweet joyful events; restores energy. Ch. 30 |
 | January 15 dinner (League 298-01-15) | *(unrated)* | Creamy mushroom soup, meat buns, peppered patties, boiled eggs, fruit milks. Ch. 32 |
@@ -60,6 +61,7 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 | Tomato and Scrambled Eggs | C | Appetite Increase. Ch. 54 |
 | Grass Juice | C | Restorative potion **lv1** (Grass Energy / Grass PP). Ch. 134 |
 | Watermelon Jelly | C+ | **Watermelon Knight** (helmet draw + foe Atk/Def down). Ch. 163 |
+| Seafood Stew | C+ | **Small Fish and Seafood lv1** (Water friendliness). Ch. 315 |
 
 ### B — Level 2
 
@@ -76,6 +78,7 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 | Hot Noodle Soup | B+ | Cold Resistance **lv3**, **6 h**. Ch. 109. Careful remake also used in Crown Tundra cave (Ch. 243) |
 | Hot Noodle Soup | B- | Cold Resistance **lv2**, **2 h**. Crown Tundra cave first batch Ch. 243 |
 | Potato Stew | B+ | Cold resistance + recovery **lv2**; warm body + stamina; **6 h**. Can retire hot noodle soup for cold. Ch. 250 |
+| Potato Stew | S | **Golden Right Hand** (human; calm frenzied Pokémon). Separate from B+. Ch. 305 |
 | Cloud Milkshake | B+ | Slight Ice-move comprehension + Ice fondness. Ch. 130 |
 | Courage Egg Fried Rice | B+ | Gather your courage (willpower can refuse). Ch. 138 |
 | Translation Nuts | B+ | **Language communication (minor)**: one nut = one translated word; stacks. Ch. 162 |
@@ -90,6 +93,12 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 | Pecha Berry Wine | B | Detoxification: clear poison + some poison resist (non-stack; slight immune chance). Do not overindulge. Ch. 279 |
 | Cheri Berry Wine | B | Paralysis Resistance: clear paralysis + some resist (non-stack). Do not overindulge. Ch. 279 |
 | Sitrus Berry Wine | B | Stamina restoration only. Do not overindulge. Ch. 279 |
+| Aspear Berry Wine | B | Freeze resistance / warms body. Grass Trial reward to Leon. Ch. 310 |
+| Coffee | B- | **Sleeplessness lv2**, **6 h**. Flutter Mane schedule. Ch. 313 |
+| Iceroot Carrot Pokeblock | B | **Cold, cold, cold**: Ice move chance + Ice energy restore (Ice only); Ice favorability. Ch. 340 |
+| Shaderoot Carrot Pokeblock | B | **Dark, dark, dark**: Ghost move chance + Ghost energy restore (Ghost only). Ch. 340 |
+| Garlic Steamed Lobster | B+ | Lobster-species slight Atk + Def **30 min**. Ch. 341 |
+| Poipole Delicacy | B+ | **Poipole Special Attack**: Poipole-only bait / favorite flavor; faints others. Ch. 344 |
 
 ### A — Level 3
 
@@ -107,6 +116,9 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 | Brown Sugar Ginger Tea / Red Sugar Ginger Tea | A | **Warmth lv3**: dispel cold; practice efficiency up; **12 h**. Ch. 199 |
 | Super Berry Platter | A- | Skill Refinement (**large**); higher rare-move odds than Berry Platter C- / B+. Sister Indeedee → **Lunar Dance**. Ch. 210 |
 | Pumpkin Cookies | A | **Lucky lv3**: larger status / Metronome luck; **1 hour** (not permanent like Lucky Pudding S). Ch. 217 |
+| World Tree Candy | A+ | **Nature Power lv3** (Grass only; once): Grass Energy control ↑ for plant care. Ch. 428 |
+| Blessing Soup Noodles | A | **Wish**: legend that eater can fulfill a wish (emotion-infused hot noodle variant). Ch. 439 |
+| Steamed Lobster | A+ | **Guardian of the Sea** (Cyclizar exclusive; once; full block of a lethal hit). Ch. 341 |
 
 ### S — Permanent / equal power
 
@@ -125,6 +137,25 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 | Reversed Red Tea · Heart | S | **Reversing the Universe** (inner nature reverse). Used to enter Giratina's realm kindly. Ch. 268 |
 | Leaf Cake (Incomplete Edition) | S- | **Breath of Nature**: Grass moves +20%; slight crop shorten. Master of the World Tree (D). Ch. 282 |
 | Leaf Cake (Incomplete) | S | **Breath of Nature**: Grass moves +25%; significant crop shorten. Friendship Berry upgrade. Ch. 288 |
+| Potato Stew | S | **Golden Right Hand**: calm frenzied/angry Pokémon with forehead touch + set phrase. Human eater. Ch. 305 |
+| Dragon Scale Fragrance | S+ | **Dragon Power** (humans only): Dragon affinity + spend power to accelerate Dragon growth. Ch. 401 |
+| Divine Steamed Bun | SS | **Holy Ash** + **Sacred Fire** + **Divine Blessing** (Mew/Teddiursa/Zapdos luck only). Ch. 407 |
+
+### C — Level 1 (addenda)
+
+| Dish | Grade | Effects |
+|------|-------|---------|
+| Sturdy Pokeblock | C | **Strong Polishing lv1**: gradual body strengthening / muscle. Ch. 344 |
+| Beginner Gluttony Pokeblock | C+ | **Gluttony**: fills Munchlax-class hunger in one piece. Ch. 345 |
+| Fried Bananas | C | **Fruit ripening** (Tropius-only): greatly accelerates neck-fruit growth. Ch. 408 |
+| Apple Pie | C | Sweet taste; friendship / comfort (no named combat buff). Ch. 417 |
+| Caramelized Apples | C+ | **Silk Thread toughness lv1** (Bug silk harder to break). Ch. 417 |
+
+### D and below (addenda)
+
+| Dish | Grade | Effects |
+|------|-------|---------|
+| Nutritious Pokeblock | D- | Minimal nutrition; poor berry compatibility. Ch. 344 |
 
 ---
 
@@ -490,6 +521,63 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 - Warm body and stamina recovery; lasts **6 hours**
 - Crown Shrine lunch (Ch. 250). Calyrex and horses took bread instead (vegetarian)
 
+### Golden Right Hand (Potato Stew S)
+
+- Tier: S-band
+- After eating: place right hand on a frenzied/angry Pokémon's forehead and say *"Good Pokemon, bad guys got chased away!"* to calm them
+- Human eater. No effect while target is calm (Giratina test). Does not rewrite Paradox hunting nature. Flutter Mane night hunt not calmed (Ch. 305–306)
+- Ingredient: **Good Potato** mutant (Ch. 305)
+
+### Freeze Resistance (Aspear Berry Wine)
+
+- Tier: B-band
+- Warms the body; less susceptible to freeze. Gifted to Leon's team (Ch. 310)
+
+### Sleeplessness lv2 (Coffee B-)
+
+- Tier: B- band
+- After drinking: cannot fall asleep for **6 hours**. Focus aid. Used on Flutter Mane (Ch. 313). Bitter; milk/sugar optional
+
+### Small Fish and Seafood lv1 (Seafood Stew C+)
+
+- Tier: C+ / Level 1
+- Moderately increases Water-type friendliness; Water-types only (Ch. 315)
+
+### Cold, cold, cold (Iceroot Carrot Pokeblock B)
+
+- Tier: B-band
+- Ice-types only: chance to learn Ice moves; restore Ice energy. Extra Ice favorability. Ch. 340
+
+### Dark, dark, dark (Shaderoot Carrot Pokeblock B)
+
+- Tier: B-band
+- Ghost-types only: chance to learn Ghost moves; restore Ghost energy. Ch. 340
+
+### Guardian of the Sea (Steamed Lobster A+)
+
+- Tier: A+ exclusive
+- Cyclizar only; once. Auto-triggers on a life-threatening crisis and fully blocks that attack. Ch. 341
+
+### Lobster Atk/Def slight (Garlic Steamed Lobster B+)
+
+- Tier: B+ niche
+- Lobster-species Pokémon only; slight Attack + Defense **30 min**. Ch. 341
+
+### Strong Polishing lv1 (Sturdy Pokeblock C)
+
+- Tier: Level 1
+- Long-term body strengthening / gradual muscle build after eating. Ch. 344
+
+### Poipole Special Attack (Poipole Delicacy B+)
+
+- Tier: B+ niche
+- Poipole favorite flavor; wild placement can attract Poipole only; other species may faint from taste/smell. Ch. 344
+
+### Gluttony (Beginner Gluttony Pokeblock C+)
+
+- Tier: C+ / Level 1
+- One piece fills Munchlax-class appetite and below. Ch. 345
+
 ### Next Grass-type move power up
 
 - Unstamped vegetable sandwich (Ch. 252)
@@ -541,3 +629,40 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 ### Life Sheep Milk / Gogoat's Milk (Ultra Perfect)
 
 - Not a Culinary Master dish grade. Nature Power milk; nutrients dozens of times ordinary; heals severe / near-death injuries (>> MooMoo). Top cheese/butter path. **30000 LL**/bottle (Ch. 291). Longevity nutrition on ranch (Butterfree wings etc. Ch. 294). Humans: excess → nosebleeds; sip + exercise. Ch. 284 / Ch. 290–296
+
+### Dragon Power (Dragon Scale Fragrance)
+
+- Tier: S+
+- Humans only. Greatly raises Dragon affinity / easier Dragon capture; expend power to accelerate Dragon-type growth. From Outrage-scale black tea. Ch. 401–402
+
+### Holy Ash / Sacred Fire / Divine Blessing (Divine Steamed Bun SS)
+
+- Holy Ash: dying → full HP; healthy → large stamina/endurance up
+- Sacred Fire: Fire-types' flames become Sacred Fire; non-Fire get permanent +20% Fire move power
+- Divine Blessing: luck ↑ — Mew Teddiursa Zapdos only
+- Ch. 407–408
+
+### Fruit ripening (Fried Bananas)
+
+- Tier: C
+- Tropius-only: greatly accelerates neck-fruit growth. Ch. 408
+
+### Silk Thread toughness lv1 (Caramelized Apples)
+
+- Tier: Level 1 (C+)
+- Bug silk harder to break (Butterfree silk test). Ch. 417
+
+### Bear Attraction lv1 (Honey Candy)
+
+- Tier: Level 1 (C)
+- Wild: attracts Bear-type Pokémon; fed: Bear friendliness ↑. Ch. 428
+
+### Nature Power lv3 (World Tree Candy)
+
+- Tier: Level 3 (A+)
+- Grass-types only; **once**: greatly improves Grass Energy control for cultivating plants. Ch. 428
+
+### Wish (Blessing Soup Noodles)
+
+- Tier: Level 3 (A)
+- Emotion-infused hot noodle soup; legend says eating can fulfill a wish. Confirmed appraisal Ch. 439 (Cyclizar)

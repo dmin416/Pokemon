@@ -376,6 +376,17 @@ Stardew Valley forage pool → `Stardew/Forage.md`.
 - Ordinary carrot seeds from Riley's wife mutate only in Crown Tundra soil (Chapter 245)
 - **Iceroot**: deep snow fields. **Shaderoot**: graveside / Ancient Tomb. Ranch growth outside tundra still open (soil study Ch250)
 - Freezington shop nearly emptied of carrot seeds for shrine stay (Chapter 249). ~500 carrots promised to Glastrier
+- Ch340: **Iceroot Carrot Pokeblock (B)** / **Shaderoot Carrot Pokeblock (B)** from ranch Calyrex-forced beds
+
+#### Deep-sea lobster / squid gifts
+
+- Working Dragonite gift haul: live lobsters + squid (Chapter 341). Cooked **Steamed Lobster (A+)** / **Garlic Steamed Lobster (B+)**. Squid amount too small to share
+
+#### Pokeblock berries (Unova Breeder)
+
+- Sturdy recipe: Aspear + Lapapa + Pinap (Chapter 344; Yu Hui)
+- Beginner Gluttony: Pecha ×2 Oran ×1 Bluk ×1 Tamato ×2 Nanab 1/3 (Chapter 345)
+- Poipole Delicacy: lottery mix (recipe recorded; exact berries unstamped)
 
 #### Reins of Unity
 
@@ -429,9 +440,9 @@ Stardew Valley forage pool → `Stardew/Forage.md`.
 
 #### Ancient gold coin (Gimmighoul)
 
-- Not a League coin. Found in Robin's warehouse; Machamp paid tavern wine with it (Chapter 280)
-- Roaming **Gimmighoul** takes it; needs **999** ancient Paldea coins to evolve into **Gholdengo**
-- No stamped LL face value
+- Not a League coin. First: Robin's warehouse; Machamp paid tavern wine (Chapter 280). No stamped LL then
+- Antique shops ~**50000 LL** each (Chapter 314). Two bought with empty kingdom **treasure chest** (**15000 LL** bargained from 20k). Placed under tavern bar
+- Chest enables Roaming → Chest Form storage. Needs **999** coins for **Gholdengo**. Antique dealer wants to see one if raised
 
 #### Unripened Tree of Beginning Leaf
 
@@ -445,6 +456,39 @@ Stardew Valley forage pool → `Stardew/Forage.md`.
 - Cooking: dish rank **+1** (ineffective at level cap)
 - Used: Leaf Cake S-→S (Ch288); Green Grass Cake A→A+ (Ch289). Wine plan open
 
+#### Everstone (raw vein / processed)
+
+- Raw unpolished vein in Salt House cave; Naclstack ×5 each bit a piece (Chapter 332)
+- Blocks evolution until vomited at Joy. Recovered stones ~**3000 LL** market each; D framed them as black mark (not sold)
+- Wild veins mined commercially into portable Everstones
+
+#### Good Potato
+
+- Crop mutated after Gogoat Grass Energy nurture / Leaf Cake beds (Chapter 305)
+- Dishes made from it carry **Golden Right Hand**
+- Cooked into **Potato Stew (S)** (keep separate from Crown Tundra Potato Stew B+)
+
+#### Coffee Fruit / Coffee beans
+
+- Fruit usable for coffee. Calyrex force-grew a ~1.5 m coffee tree from seed in a pot (Chapter 313)
+- Tree kept in Glass Greenhouse. Week of ferment/shell/wash/dry/roast/grind before brew → **Coffee (B-)**
+
+#### Market seafood (Porto Marinada)
+
+- Shrimp crabs squid oysters clams mussels etc. Fresh coastal catch (Chapter 313–315)
+- Several thousand LL spent Ch313. Cooked as **Seafood Stew (C+)**. Working Dragonites later gifted salmon / bluefin tuna / lobsters / squid / crabs / seaweed (Ch315); Giratina took the lake stash
+- Ch341: another lobster + squid gift haul → Steamed / Garlic Steamed Lobster
+
+#### Kitakami Apple
+
+- High-quality apple specialty of Kitakami; worldwide export (Chapter 321)
+- No Culinary Master dish stamped from it this decade
+
+#### Crystal Light Pool shards (Tera)
+
+- Crystal blocks under Ghost Mountain peak lake; Paldea-like Tera Energy (Chapter 324)
+- Used to repair Ogerpon's **Teal Mask**. Explains wild Terastal at Infernal Pass
+
 #### Gogoat's Milk / Life Sheep Milk (Ultra Perfect)
 
 - Nature Power milk after Gogoat eat World Tree leaves (Chapter 284)
@@ -452,4 +496,49 @@ Stardew Valley forage pool → `Stardew/Forage.md`.
 - Market name **Life Sheep Milk** after Wattrel heal test (Chapter 290)
 - Price **30000 LL**/bottle (Chapter 291); day's haul + rock salt ≈ **1M LL** banked
 - Too strong for many human daily drinkers (nosebleeds) — retail often switched to MooMoo (Ch296). Pokémon nutrition / longevity feed OK. Human: sip + exercise
+- Ch312: **50 bottles** packed into Zapdos expedition satchel for wild rescues
+
+#### Dragonite Outrage scale
+
+- Trust/gratitude gift from scar elder Dragonite (Chapter 401)
+- Cooked into **Dragon Scale Fragrance (S+)** → **Dragon Power**
+
+#### Rainbow Feather (Ho-oh)
+
+- Gift via Teddiursa/Mew from Ho-oh path (Chapter 407)
+- Powdered into **Divine Steamed Bun (SS)**. Consumed
+
+#### Tropius' Bananas
+
+- Fresh neck fruit from ranch Tropius; Harvest can proc extra (Chapter 408)
+- Cooked into **Fried Bananas (C)**
+
+#### Ranch Apple Garden apples
+
+- Spring ripe fruit under Gogoat care (Chapter 416–417). No Applin in garden yet
+- Cooked into **Apple Pie (C)** and **Caramelized Apples (C+)**
+
+#### Combee golden Honey (candy)
+
+- Ranch honey used in candy syrup (Chapter 428)
+- Cooked into **Honey Candy (C)**
+
+#### Tree of Beginning leaf (candy)
+
+- Large leaf from World Tree / Beginning path; mashed for juice (Chapter 428)
+- Cooked into **World Tree Candy (A+)**. Half leaf also fed to Gogoat raw
+
+#### Giant Carrot
+
+- Gogoat Grass Energy mutation; ~1 m diameter / 2 m+ above soil (Chapter 422–425)
+- Flesh for paste/pancakes (unstamped grade); shell → Robin Carrot House
+
+#### King's Rock
+
+- Geeta/Larry procurement for Slowpoke → Slowking (Chapter 435–437). Consumed on evolution Ch437
+
+#### Applin / Appletun (Ripen)
+
+- Apple Garden find Chapter 441 as **Applin**; Dragon Power friendship
+- **300-04-25:** Sweet Apple (**1000–2000 LL**) → **Appletun (Ripen)** → World Tree orchard
 
