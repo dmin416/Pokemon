@@ -147,6 +147,10 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 |------|-------|---------|
 | Sturdy Pokeblock | C | **Strong Polishing lv1**: gradual body strengthening / muscle. Ch. 344 |
 | Beginner Gluttony Pokeblock | C+ | **Gluttony**: fills Munchlax-class hunger in one piece. Ch. 345 |
+| Mung Bean Soup | C | **Refreshing and cooling**: cool burst; heatstroke prevention. Ch. 376 |
+| Mushroom Juice | C | **Mushroom Hunter**: Pickup users better at finding mushrooms. Ch. 397 |
+| Spicy Meat Soup | C+ | **Sprint Lv1**: less stamina drain in running battles; 15 min. Ch. 397 |
+| Paldea Seafood Rice | B | **Sea's Blessing**: rare-fish luck (humans) / ocean training boost (Pokémon); 3 hr. Ch. 397 |
 | Fried Bananas | C | **Fruit ripening** (Tropius-only): greatly accelerates neck-fruit growth. Ch. 408 |
 | Apple Pie | C | Sweet taste; friendship / comfort (no named combat buff). Ch. 417 |
 | Caramelized Apples | C+ | **Silk Thread toughness lv1** (Bug silk harder to break). Ch. 417 |
@@ -156,6 +160,9 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 | Dish | Grade | Effects |
 |------|-------|---------|
 | Nutritious Pokeblock | D- | Minimal nutrition; poor berry compatibility. Ch. 344 |
+| Snorlax Snack | *(ungraded)* | One fills Snorlax; others forbidden. Ch. 367 |
+| Grass Pokeblock | *(ungraded)* | Attract Grass-types outdoors. Ch. 367 |
+| Bug Snacks | *(ungraded)* | Attract Bug-types outdoors. Ch. 367 |
 
 ---
 
@@ -578,6 +585,41 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 - Tier: C+ / Level 1
 - One piece fills Munchlax-class appetite and below. Ch. 345
 
+### Snorlax Snack (fullness)
+
+- Ungraded special
+- One piece fills Snorlax; ordinary Pokémon forbidden. Ch. 367
+
+### Grass attract (Grass Pokeblock)
+
+- Ungraded bait
+- Outdoor placement attracts Grass-types. Ch. 367
+
+### Bug attract (Bug Snacks)
+
+- Ungraded bait
+- Outdoor placement attracts Bug-types. Ch. 367
+
+### Refreshing and cooling (Mung Bean Soup C)
+
+- Tier: Level 1 / C-band
+- Cool burst; helps prevent heatstroke. Humans and Pokémon. Ch. 376
+
+### Mushroom Hunter (Mushroom Juice C)
+
+- Tier: Level 1 / C-band
+- Pickup ability only: better at finding mushrooms; high chance bring mushrooms back. Ch. 397
+
+### Sprint Lv1 (Spicy Meat Soup C+)
+
+- Tier: Level 1 / C+-band
+- Reduced stamina consumption during running battles; **15 minutes**. Ch. 397
+
+### Sea's Blessing (Paldea Seafood Rice B)
+
+- Tier: Level 2 / B-band
+- Humans: greatly increases rare-fish catch chance while fishing. Pokémon: greatly enhances ocean training. **3 hours**. Ch. 397–398
+
 ### Next Grass-type move power up
 
 - Unstamped vegetable sandwich (Ch. 252)
@@ -666,3 +708,7 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 
 - Tier: Level 3 (A)
 - Emotion-infused hot noodle soup; legend says eating can fulfill a wish. Confirmed appraisal Ch. 439 (Cyclizar)
+
+### Anti-slumber (Leaf Green Ball / Leaf of Awakening)
+
+- Cuisine from Leaf of Awakening keeps named Pokémon awake (Jirachi millennial sleep). No letter grade printed. **Confirmed Ch461** (Jirachi woke). Leaf of Life → Forina Ch463–464

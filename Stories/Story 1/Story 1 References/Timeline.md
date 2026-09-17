@@ -272,19 +272,37 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 - **299 mid-April (Ch356–360):** License + pickup **−120000**. Sunnytown berry sale → Bug Contest; **Snorlax** caught (Gluttony bait). Apple Garden ×30; Snorlax Park. Koraidon paradox resolve. Heroic **Alto Mare** Latias/Latios (thief cliff).
 
-- **299 early May (Ch367):** Month marker.
+- **299 mid–late April (Ch361–365):** World Tree nurture → **80010** / **>30 m**. Giratina Arceus-revenge pact (~2 yr). Pawmot **King of Hammers** / **Gigaton Hammer**. Heroic foil thieves; Latias ranch visit. World Tree moved to **Reversed World**; **Sunflower** crop.
+
+- **299 early May (Ch366–370):** Wooloo×6 + Eevee (Sylveon path). **Snorlax Snack** / Grass / Bug Pokeblocks. Dye Berry on pink Dragonair. Rayquaza meet + **Sky Scale**. Scallion Garden; Farfetch'd stays; Dragonair join training. Rayquaza summon cliff.
+
+- **299 May–Jun (Ch371–375):** Rayquaza picnic; Minior catch/return. Ancient coins **28** then Raifort **142** (**−4970000**); Gimmighoul **173**. Computer / Winged King forum. Ruinous reverse plan parked.
+
+- **299-06-23 (Ch376):** Hot summer. Coins **230/1000**. Raifort ruins **Jul 20**. **Mung Bean Soup (C)**. Super Scallions.
+
+- **299-06-28–29 (Ch377–380):** Shiny **Umbreon** evo; Farfetch'd Super Scallion; Grusha + Iono trials (Thunder / Grass fails). Fireworks **Jun 30** upcoming.
 
 - **299-06-29 (Ch378):** Day before summer fireworks.
 
-- **299-07-15 (Ch385):** Five days to ruins (Raifort trip planned **Jul 20**).
+- **299 mid-July (Ch381–384):** Geeta wish → **≥1000** coins (Larry tasked); talent keep-in-Paldea. Autumn hills forage; **Hassel** delivers **7 Eevee Eggs** (~half month hatch). Coffee (B-) to Geeta.
 
-- **299 mid-July (Ch383):** Autumn arrives.
+- **299-07-15 (Ch385–386):** Elif Cherry Garden; heal/catch path for **Scyther** (Anna). Cherries + Cherry Wine thanks. Five days to ruins (booked **Jul 20**; leave **Jul 25**).
 
-- **299-07-23 (Ch387):** Two days before ruins.
+- **299-07-23 (Ch387):** Cyclizar kite training; two days before ruins.
 
-- **299-07-25 (Ch387):** Depart Cascarrafa.
+- **299-07-25 (Ch387–389):** Cascarrafa → Asado Desert ruins with Raifort. Fossils; vault **+766** coins → **996/1000**; Ruin parchment; greed test pass.
 
-- **299-08-10 (Ch390):** Calendar.
+- **299-08-10 (Ch390):** Larry delivers; last **4** coins → **Gholdengo** born.
+
+- **299-08-10+ (Ch391–393):** Larry vs Gholdengo (Staraptor KO). Coin-gift rule. Ogerpon/Dragonite/Gholdengo town gift run → free **Gracidea** bouquet. Melmetal Galar promise.
+
+- **299-08-15 (Ch394):** **7 Eevee** hatch start. Antique shop Gholdengo visit.
+
+- **~299-08-20 (Ch395):** Cyclizar 2nd birthday. Eevee mature; **Flareon / Jolteon / Vaporeon** stone mishap.
+
+- **299-08-22 (Ch396–397):** Eevee classroom; Everstones. World Tree **64054**. Reversed World Gracidea sea. **Mushroom Juice (C)**; **Spicy Meat Soup (C+)**; **Paldea Seafood Rice (B)**.
+
+- **~299-08-23 (Ch398–400):** Beach training; **Dragonite No.5**; Fishing Master myth. Scar Dragonite +2 challenge Koraidon → KO / join pending.
 
 - **299-08-15 (Ch394):** Calendar.
 
@@ -350,21 +368,31 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 - **Ch448–450 (~300-04-28):** Steven DMs; **Stranger 1** tip-line; **Driptrip Dragon Service**; Gogoat teach Skiddo **Grass Sacred Sword**.
 
-- **300-04-28 (Ch451):** Calendar (later stretch).
+- **300-04-28 (Ch451):** Lono day-visit; Giratina Forum rivalry w/ Mewtwo.
 
-- **300-05-02 (Ch455):** Calendar.
+- **Ch452:** Teddiursa Pickup **Red/Blue Orbs** → returned to Steven; Wing King = D revealed.
 
-- **300-05-03 (Ch457):** Calendar.
+- **Ch453–455:** Sprigatito runaway → Kodong reconcile; **Miracle Seeds**; **Cyclizar Mask** (**300-05-02**).
 
-- **300-05-07 (Ch460):** Calendar.
+- **Ch456:** **Breeding Tree House**; **+12 Dragonite** (Delivery **>30**); Poffins **~500 LL**/box.
 
-- **300-05-12 (Ch464):** Calendar.
+- **300-05-03 (Ch457):** Nurture World Tree **19850→9854**; legendary pulse; Arceus watching; 3DS **~18000**.
 
-- **300-05-18 (Ch468):** Calendar; World Tree ~13 days out.
+- **~300-05-04 (Ch458–459):** Game day; Millennial Comet / Jirachi clock; Absol joins; Leaf of Awakening + Leaf of Life.
 
-- **300-05-22 (Ch468):** Steven flies to Paldea, 9 AM.
+- **300-05-07 (Ch460–462):** Leaf Green Ball ready → **used** (Jirachi wake); Lewis mother Cyclizar healed; Vigoroth crisis; Ash party; Calyrex vs Pikachu; Comet day 2 wishes.
 
-- **300-06-07 (Ch470):** Calendar.
+- **~300-05-08 (Ch463):** Leaf of Life → Absol/Forina; Vigoroth → Ash; Ash party leave.
+
+- **300-05-12 (Ch464):** Softie (Zygarde Cell); photo printer/camera/album; Leaf delivered Forina; Jirachi joins Heroic; Hoenn gods cliff.
+
+- **Ch465–467:** Groudon/Kyogre wake; **Motorcycle Mask** + Giratina; Rayquaza ends crisis; Lono afternoon.
+
+- **300-05-18 (Ch468):** World Tree ~13 days to mature.
+
+- **300-05-22 (Ch468–469):** Steven visit 9 AM; Ampharosite; Orbs keep; Life Sheep gift; **Hoenn Delivery** open; Alder endorse.
+
+- **300-06-07 (Ch470):** World Tree **Ascension** night; planetary green pulse; gods stir east.
 
 - **300-06-30 (Ch475–476):** Fireworks day.
 
@@ -578,7 +606,7 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 ## Open / undated
 
-- Status/Inventory/Farm live snapshot: **Ch360** (home; Snorlax Park; Apple Garden ×30; Dragonite Egg; pickup −120k; Alto Mare Heroic cliff). Summeries filled through Ch360
-- Money: Sweet Apple **1000–2000**; guild/Miltank/Alcremie/apple orders unstamped
-- Live: Guild self-running; World Tree **19850** / **Paradise**; Appletun Ripen; Spectrier Horse King; Dondozo×3; Miltank×3 Alcremie×2
-- Leon Darkest Day / Weald alert; Heroic → Jirachi; Stranger 1 ↔ Steven; Driptrip contingency
+- Status/Inventory/Farm live snapshot: **Ch400** (Gholdengo tavern; Eevee Paradise mid; Dragonite No.5; Scar+2 join pending; World Tree **64054**; Seafood Rice B). Summeries filled through Ch400
+- Money: no new LL spend Ch391–400; Gholdengo coin flow capped (not banked)
+- Live: Gracidea RW sea; Everstone Eevee×4; Delivery Dragonite×5+; Melmetal/Shaymin goals
+- Next: Ch401+ Dragon Scale Fragrance / Scar Trainer oath; Harvest Festival path

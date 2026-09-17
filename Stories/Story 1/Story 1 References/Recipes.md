@@ -45,7 +45,7 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Rating: C
 - Tier: Level 1 (niche)
 - Effect: Exclusive to bovine Pokémon; slightly improves milk quality (tastier, more nutritious)
-- Notes: Test drink after the steaks; confirms juicing berries still triggers cooking appraisal.
+- Notes: Test drink after the steaks; confirms juicing berries still triggers cooking appraisal. Remade on-site for injured Scyther (Oran + MooMoo; Chapter 385)
 - First made: Chapter 8
 
 ### Sandwich (D)
@@ -452,7 +452,7 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Rating: A
 - Tier: Level 3
 - Effect: **Oily and Slippery lv3**. Fur becomes slick and shiny, less shedding; health rises to maximum. Furred Pokémon only in practice
-- Notes: Perfect autumn dish for Pawmo and Glaceon. Ranch hens kept for eggs. Glaceon cools scalding meat for the others
+- Notes: Perfect autumn dish for Pawmo and Glaceon. Ranch hens kept for eggs. Glaceon cools scalding meat for the others. Remade mid-Jul with back-hill mushrooms (Chapter 383–384; dry rest for winter)
 - First made: Chapter 142
 
 ### Rock Salt Fried Soil
@@ -762,7 +762,7 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Rating: B-
 - Tier: Level 2
 - Effect: **Sleeplessness lv2** — cannot fall asleep; **6 hours**
-- Notes: Used to day-shift Flutter Mane. Bitter alone; milk + heavy sugar still barely tolerated. Focus-at-work review text
+- Notes: Used to day-shift Flutter Mane. Bitter alone; milk + heavy sugar still barely tolerated. Focus-at-work review text. Gifted to Geeta HQ via Allen (Chapter 384)
 - First made: Chapter 313
 
 ### Seafood Stew (C+)
@@ -846,6 +846,82 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Notes: Machines capped ~5 berries; handcraft for advanced recipes. Full Gluttony / Snorlax-tier needs dozens of berries (mentioned; not made). Remade on-site Ch358 to bait / catch Sunnytown **Snorlax** (six pieces)
 - First made: Chapter 345
 
+### Snorlax Snack (ungraded)
+
+- Source: handcraft upgrade of Beginner Gluttony; Rabuta / Wiki swaps + dozens of high-energy berries compressed (Chapter 367)
+- Rating: ungraded special
+- Effect: one piece fills **Snorlax** hunger; ordinary Pokémon strictly forbidden
+- Notes: Early black failures; indigo success on fifth try. Recipe logged in Pokeblock notebook
+- First made: Chapter 367
+
+### Grass Pokeblock (ungraded)
+
+- Source: freestyle berry research (Chapter 367)
+- Rating: ungraded basic
+- Effect: attract Grass-types outdoors (guaranteed line)
+- Notes: Shared with Gogoat / Arboliva etc.; praised
+- First made: Chapter 367
+
+### Bug Snacks (ungraded)
+
+- Source: freestyle berry research (Chapter 367)
+- Rating: ungraded basic
+- Effect: attract Bug-types outdoors (favored / sure attract)
+- Notes: Shared with Butterfree / Combee etc.; praised
+- First made: Chapter 367
+
+### Mung Bean Soup (C)
+
+- Source: town-bought mung beans simmered; Slugma stove heat (Chapter 376)
+- Rating: C
+- Tier: Level 1
+- Effect: **Refreshing and cooling** — cool burst; heatstroke prevention (humans and Pokémon)
+- Notes: Hot-summer lunch drink. No ranch mung beans planted
+- First made: Chapter 376
+
+### Mushroom Juice (C)
+
+- Source: mushrooms prepared like juice into rich soup; village specialty (Chapter 397; *300 Recipes*)
+- Rating: C
+- Tier: Level 1
+- Effect: **Mushroom Hunter** — Pickup ability Pokémon better at finding mushrooms (high chance bring mushrooms back)
+- Notes: Only ranch Pickup is Teddiursa (away). Sparks Felyne-style Pickup team idea
+- First made: Chapter 397
+
+### Spicy Meat Soup (C+)
+
+- Source: meat broth with beef soup base, chicken essence, soy, ginger simmer (Chapter 397)
+- Rating: C+
+- Tier: Level 1
+- Effect: **Sprint Lv1** — reduced stamina cost in running battles; **15 minutes**
+- Notes: Useful combat stamina line
+- First made: Chapter 397
+
+### Wine-braised fully ripe Paldea tomato (ungraded)
+
+- Source: small tomatoes braised in white wine (Chapter 397)
+- Rating: not printed
+- Effect: Appetizing (restores desire to eat)
+- Notes: Keep for picky/no-appetite Pokémon
+- First logged: Chapter 397
+
+### Vodka-steamed Kalos eggplant (ungraded)
+
+- Source: vodka-steamed eggplant (Chapter 397)
+- Rating: not printed
+- Effect: Body warm (hot-soup-noodle-like)
+- Notes: Tried from *300 Recipes* with home stock
+- First logged: Chapter 397
+
+### Paldea Seafood Rice (B)
+
+- Source: prawns + mussels + rice absorbing seafood broth (Chapter 397–398)
+- Rating: B
+- Tier: Level 2
+- Effect: **Sea's Blessing** — humans: greatly raises rare-fish catch chance while fishing; Pokémon: greatly enhances ocean training; **3 hours**
+- Notes: Dragonair sea training; D beach fishing luck; one Dragonair → Dragonite No.5
+- First made: Chapter 397
+
 ### Dragon Scale Fragrance (S+)
 
 - Source: Dragonite **Outrage scale** (trust gift) + black tea; Calyrex Psychic crush to powder (Chapter 401)
@@ -917,4 +993,12 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Effect: **Wish** — legend that the eater can fulfill a wish
 - Notes: Variant of familiar hot noodle soup; appraisal changed when emotion infused. Fed to Cyclizar
 - First made: Chapter 439
+
+### Leaf Green Ball (ungraded panel)
+
+- Source: **Leaf of Awakening** (World Tree / Arceus-gifted) cooked into a green ball (Chapter 459–460)
+- Rating: not printed as Culinary Master letter on page
+- Effect: keeps specific Pokémon awake / ends Jirachi’s millennial sleep when fed
+- Notes: Paired with **Leaf of Life** (place nurture; Forina). **Used Ch461** — woke Jirachi (anti-slumber confirmed). Leaf of Life delivered Forina Ch463–464
+- First made: Chapter 460 (ready **300-05-07**)
 

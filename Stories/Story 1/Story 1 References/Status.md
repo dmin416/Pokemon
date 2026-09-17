@@ -1,45 +1,50 @@
 # Status
 
-Snapshot after **Chapter 360** (League **299** mid-April; Alto Mare Heroic cliff). Date basis: [`Dates.md`](Dates.md) / [`Timeline.md`](Timeline.md). Beats: [`../Summeries/Story 1 351-400.md`](../Summeries/Story%201%20351-400.md) Ch351–360.
+Snapshot after **Chapter 400** (League **~299-08-23**; Scar Dragonite KO / join pending). Date basis: [`Dates.md`](Dates.md) / [`Timeline.md`](Timeline.md). Beats: [`../Summeries/Story 1 351-400.md`](../Summeries/Story%201%20351-400.md) Ch391–400.
 
 ## D
 
-- Location: **D Ranch** (home from Unova); Snorlax Park live
+- Location: **D Ranch**
 - Body: third occupant
-- Mood: Rotom Phone with Nikar R&D; beat Lance glow fading into ranch life; Koraidon paradox worry noticed; Snorlax caught; Apple Garden started
-- Cooking recent: remade **Beginner Gluttony Pokeblock (C+)** for Snorlax; Berry blender installed; prior Unova Pokeblocks / lobster dishes
-- Goals: Wooloo ranch next; Tropius / Sawsbuck hunt later; incubate Dragonite Egg (5–10 months); fall Bug Contest invite; Rotom Phone rewards; visit Oak / Pallet someday for Calyrex faith
+- Mood: Gholdengo settled as tavern lucky cat; Eevee Paradise underway; Scar trio challenge won via Koraidon
+- Cooking recent: **Mushroom Juice (C)**; **Spicy Meat Soup (C+)**; wine tomato / vodka eggplant; **Paldea Seafood Rice (B)**; chicken soup on hatch day
+- Goals: guide unevolved Eevee (Everstone; Leafeon / Espeon / Sylveon / Partner); spring Gracidea / Shaymin; Melmetal Galar trip someday; onboard Scar Delivery dragons; next-summer fishing contest
+- Access: Winged King; Raifort Ruin shrines later; antique shop Gholdengo visit done
 
 ## Money
 
-- Bank thin after land **−7.7M** then **pickup −120000 LL** (Ch356)
-- Still enough for **30** apple saplings + park wood/slide/sand (amounts unstamped)
-- Sunnytown berry sale: deposit + balance (unstamped)
-- Levincia gifts / Berry blender / crib / Elm books / license fee unstamped
-- Life Sheep Milk **30000**/bottle prior; Zack milk runs resume
+- Prior drains: land **−7.7M**; pickup **−120000**; Raifort **−4970000**. No new LL spend stamp Ch391–400
+- Gholdengo Make It Rain: ~100 coins day-1 (~**5000 LL**/coin estimate → ~**500k** flow risk); D caps gifts to liked friends only — **not banked** as ranch LL
+- Gracidea bouquet free (florist refused coins)
+- Berry Garden sale haul unstamped
+- Life Sheep Milk **30000**/bottle prior (used on Scar)
 
 ## Ranch
 
-- League **299** early–mid April
-- Across river: bridge/fence; **Apple Garden** (30 saplings); **Snorlax Park** (slide seesaw sandpit ~8 m swing tree); Wooloo / Tropius plots mapped unbuilt
-- **Dragonite Egg** in Indeedee crib upstairs
-- Farfetch'd still Berry Platter Skill Refinement (fattening)
-- White pickup + driver's license; Berry blender in kitchen
-- Grusha visited while D was away (will return)
+- League **299** mid–late August
+- **Gholdengo** tavern lucky cat; coin-gift rule live
+- **Gracidea** bouquet indoors; Reversed World Sky Island Gracidea sea planted
+- World Tree Mature **64054** yrs (~16 mo @ ~4k/mo nurture)
+- Apple Garden / Snorlax Park / Super Scallions prior
+- Dragonite Delivery: Nos **1–5** (+ Scar +2 underlings joining after Ch400 battle)
+- **4 Dragonair** remaining (water moves gained)
 
 ## Pokémon — live (high-signal)
 
-- **Snorlax** (caught Sunnytown; park center / taste-tester plan)
-- **Dragonite Egg** (working Dragonite couple; Indeedee hatching)
-- Travel roster home; Flutter Mane (Misdreavus almost-parent moment); Cyclizar still has **Guardian of the Sea**
-- **Koraidon**: resolved to warn about Time Machine later; teaching past Cyclizar idea
-- Heroic: Teddiursa + Mew + Zapdos in **Alto Mare** with Latias/Latios (thief cliff)
-- Ranch: Farfetch'd Garganacl×5 Calyrex horses Arboliva etc.
+- **Gholdengo** (Make It Rain; tavern)
+- Eevee line: Glaceon; Umbreon; **Flareon / Jolteon / Vaporeon**; 4 unevolved on **Everstone** (Leafeon / Espeon / Sylveon / Partner targets)
+- **Dragonite No.5** (sea evo); Delivery roster growing
+- **Scar** Dragonite (+2) — Koraidon win; Life Sheep Milk; work/boss deal (Trainer title refused)
+- Cyclizar 2nd birthday done; kite training prior
+- Koraidon; Calyrex; Melmetal find promise; hills Tinkaton etc. prior
+- Fossil / Sky Scale / Dragonite Egg still incubating
 
 ## Contacts
 
-- **Nikar** / Nemona (Rotom + ranch shop daydream); **Alder** (TV bond speech); Lance Oak Clay; **Iono** (Levincia lunch IOU); Yu Hui; Sunnytown berry girl (fall contest letter); Grusha pending; Lewis Robin Elo Zack
+- **Larry** (lost; commemorative coin; Flying Elite insight); **Raifort** (Gholdengo news; Ruin shrines); antique shop owner
+- Florist (Gracidea); Jenny / Growlithe fire patrol; beach anglers (Fishing Master myth)
+- Geeta / Hassel prior; Elif / Anna prior
 
 ## Livestock
 
-- Hens; Snorlax as park fixture (not livestock)
+- Hens; Wooloo; Gogoat nurture

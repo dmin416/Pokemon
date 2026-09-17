@@ -99,7 +99,7 @@ Early “January” notes = **League 298** ([`Dates.md`](Dates.md) / [`Timeline.
 
 #### Mountain mushrooms / wild ginger / apricots
 
-- Back-hill forage (Chapter 140–141). Mushrooms in Braised Chicken (Chapter 142)
+- Back-hill forage (Chapter 140–141). Mushrooms in Braised Chicken (Chapter 142). Mid-Jul forage again with Greedent allies; stew remake + dry for winter (Ch383–384)
 
 #### Zapapico special soil
 
@@ -388,6 +388,40 @@ Stardew Valley forage pool → `Stardew/Forage.md`.
 - Beginner Gluttony: Pecha ×2 Oran ×1 Bluk ×1 Tamato ×2 Nanab 1/3 (Chapter 345)
 - Poipole Delicacy: lottery mix (recipe recorded; exact berries unstamped)
 - Ch358: remade Beginner Gluttony on-site (Pecha×2 Oran Bluk Tamato×2 Nanab) to catch Snorlax
+- Ch367: Snorlax Snack uses Rabuta / Wiki + dozens of high-energy berries (exact counts unstamped); Grass / Bug bait blocks from freestyle mixes
+
+#### Dye Berry
+
+- Special berry that changes Pokémon color (direct eat or cook). Prior: Pawmot shiny path. Ch367: ×2 harvest; one fed to pink shiny Dragonair (→ normal); one reserved for Eevee / Sylveon path
+
+#### Sunflower (special crop)
+
+- Mutated sunflower under Gogoat / Lucky Pudding luck on Reversed World island (Chapter 365). Periodically produces sunlight / warmth. Fruit dishes carry **Sun Stone** effect
+
+#### Scallion seeds / Scallion Garden
+
+- Elo buy for Farfetch'd weapons + cooking (Chapter 369–370). Ex-spinach plot; Gogoat nurture
+
+#### Rayquaza Sky Scale
+
+- Black shed scale; summon token (Chapter 368–369). Kept by Dragonite; D refuses cooking (friendship risk)
+- Ch371–372: used to call Rayquaza to ranch picnic; Ch373: Rayquaza told not to gift Minior
+
+#### Minior (Yellow Core)
+
+- Rayquaza "star" gift (Chapter 372). Caught briefly; returned to ozone (Chapter 373)
+
+#### Ancient Paldea gold coins
+
+- Gimmighoul evolution fuel (1000 needed). Antique ×28 → 31 (Ch373). Raifort ×142 → 173 (Ch375). Forum → **230** by **299-06-23** (Ch376). Vault **+766** → **996** (Ch389). Larry last **4** → **1000**; **Gholdengo** (Ch390 **299-08-10**). Geeta/Larry haul free (not LL)
+
+#### Mung beans
+
+- Town buy; **Mung Bean Soup (C)** (Chapter 376)
+
+#### Super Scallions
+
+- Scallion Garden mutants under Gogoat Grass Energy; ~**2 m**; high durability; Farfetch'd weapon / soup (Chapter 376–377). Mature ~1 day after stamp
 
 #### Reins of Unity
 
@@ -443,7 +477,29 @@ Stardew Valley forage pool → `Stardew/Forage.md`.
 
 - Not a League coin. First: Robin's warehouse; Machamp paid tavern wine (Chapter 280). No stamped LL then
 - Antique shops ~**50000 LL** each (Chapter 314). Two bought with empty kingdom **treasure chest** (**15000 LL** bargained from 20k). Placed under tavern bar
-- Chest enables Roaming → Chest Form storage. Needs **999** coins for **Gholdengo**. Antique dealer wants to see one if raised
+- Chest enables Roaming → Chest Form storage. Needed **1000** coins for **Gholdengo** (done Ch390). Antique dealer wants to see one if raised
+
+#### Asado gem-fossil
+
+- Intact gem-like **fossil** from Asado underground (Ch388–389); revive parked (no Paldea lab)
+
+#### Cherry Wine / cherries (Elif)
+
+- Bottles + bag of cherries thanks after Scyther (Ch386)
+
+#### Eevee Eggs (Geeta / Hassel)
+
+- **7 Eevee Eggs** delivered Ch384; hatch **299-08-15** (Ch394). Infant ~1 week → mature ~Cyclizar birthday (Ch395)
+- Evolved early: **Flareon / Jolteon / Vaporeon** (Fire / Thunder / Water Stones from vault; Ch395)
+- Remaining four on **Everstone**: targets Leafeon / Espeon / Sylveon / Partner (Ch396–397)
+
+#### Gracidea flower
+
+- Bouquet gift from Ogerpon shopping run (Ch393); Sinnoh gratitude / Shaymin Sky Forme. Spring ranch plant plan; Reversed World Sky Island sea planted Ch397
+
+#### Cookbook (300 Recipes)
+
+- Town buy Ch397; source of Mushroom Juice / Spicy Meat Soup / Paldea Seafood Rice etc.
 
 #### Unripened Tree of Beginning Leaf
 
@@ -542,4 +598,14 @@ Stardew Valley forage pool → `Stardew/Forage.md`.
 
 - Apple Garden find Chapter 441 as **Applin**; Dragon Power friendship
 - **300-04-25:** Sweet Apple (**1000–2000 LL**) → **Appletun (Ripen)** → World Tree orchard
+
+#### Miracle Seeds (Breeding Tree House)
+
+- Gift from Sprigatito (gratitude) Chapter 455 — distinct from Ch182 Gogoat Miracle Seeds
+- Calyrex-grown → **Breeding Tree House** (Chapter 456). Consumed
+
+#### Leaf of Awakening / Leaf of Life
+
+- World Tree drops Chapter 459 (Arceus interest off-page)
+- Awakening → cooked **Leaf Green Ball** → **used Ch461** (Jirachi wake). Life leaf → Absol / Forina Ch463–464
 

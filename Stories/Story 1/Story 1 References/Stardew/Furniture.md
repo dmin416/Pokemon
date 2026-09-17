@@ -10,7 +10,7 @@ Robin’s Carpenter’s Shop stock (Stardew Valley). Permanent stock every day; 
 
 **Story 1 (Chapter 32–38):** wooden board path with oil-cloth torches. Grass left uncut (lawn).
 
-**Story 1 (through Chapter 450):** countryside cottage; Pokémon Tavern; Cream Workshop; Glass Greenhouse; Slugma heat; Snorlax Park; gardens; Carrot House; guest room. Horse stable **destroyed** (Spectrier Horse King). Trials + Ancient Hidden. World Tree **Paradise** **19850**: **Explorer Guild complete** (self-running); Land of Dragons + **Dondozo×3**; Chicken House + **Miltank×3** / **Alcremie×2**; **Appletun** orchard; Mewtwo colony + Skiddo. Live **[D Ranch]** shop + Dragonite Delivery (Paldea only).
+**Story 1 (through Chapter 470):** countryside cottage; Pokémon Tavern; Cream Workshop; Glass Greenhouse; Carrot House; guest room; **Breeding Tree House**. Horse stable destroyed. Sunny Day Doll. 3DS fleet (~11). Photo printer / camera / album. Trials + Ancient. Softie sill. World Tree **Paradise Ascended** (sky + cloaked **300-06-07**): Guild self-running; Mewtwo colony; Appletun; Land of Dragons. Live **[D Ranch]** shop + Dragonite Delivery (**Paldea + Hoenn**; **>30**).
 
 
 

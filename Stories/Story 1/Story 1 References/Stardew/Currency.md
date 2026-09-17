@@ -56,7 +56,7 @@ Use Stardew ×4 for Stardew tables in this folder (including **forage** in `Fora
 | Hulbury cruise (Levincia → Hulbury) | **−3200 LL** (Chapter 242; 7:25 PM; three days) |
 | Corviknight taxi (overheard guest fare) | **1500 LL** (Chapter 257; not D's purchase) |
 | Rising Stars sponsorship rewards | Free Corviknight feathers + genuine Sinistea/Polteageist (Chapters 257–260; no LL stamped) |
-| Ancient gold coin (Gimmighoul) | Not League currency. Tavern wine pay / Gimmighoul loot (Chapter 280). No LL face value. 999 needed for Gholdengo |
+| Ancient gold coin (Gimmighoul) | Not League currency. Tavern wine pay / Gimmighoul loot (Chapter 280). No LL face value. **1000** for Gholdengo (done Ch390) |
 | Elo spring seeds (Ch289) | **4200 LL** (garlic potato strawberry radish cucumber cabbage turnip) |
 | Life Sheep Milk (Ultra Perfect Gogoat milk) | **30000 LL**/bottle (Ch291). Day's milk + rock salt ≈ **+1000000 LL** banked. Retail humans often switch to MooMoo (too potent). Listed on [D Ranch] shop Ch410–417 |
 | Magikarp stall (Abundant Festival) | **3000 LL** each (Ch404 quote; not D's purchase) |
@@ -74,9 +74,13 @@ Use Stardew ×4 for Stardew tables in this folder (including **forage** in `Fora
 | Cascarrafa apple bulk (Cliff) | Order Chapter 441; LL unstamped |
 | Sweet Apple (Appletun evo) | **1000–2000 LL** online; Pelipper ~2 days (Chapter 447) |
 | World Tree Miltank×3 + Alcremie×2 | Bought Chapter 445; amount unstamped |
+| Commercial Poffins (Delivery feed) | **~500 LL**/big box; Bulbasaur Seed Dessert Shop Cascarrafa (Chapter 456) |
+| Nintendo 3DS | **~18000 LL** first unit (Chapter 457); +10 bulk unstamped (Chapter 458) |
+| Joseph Stone cash gift | **2 suitcases** (Chapter 468–469); amount unstamped |
+| Photo printer / camera / album | Bought Chapter 464; amounts unstamped |
 | Poké Balls ×50 (Heroic Expedition) | Shop rate ten for **2000** → ≈**10000 LL** (Chapter 312; satchel + meds extra unstamped) |
 | Empty Paldea kingdom treasure chest | **15000 LL** bargained from 20000 (Chapter 314; Gimmighoul Chest Form) |
-| Ancient Paldea gold coins | ~**50000 LL** each; two bought Chapter 314. **999** for Gholdengo |
+| Ancient Paldea gold coins | ~**50000 LL** each; two bought Chapter 314. **1000** for Gholdengo (done Ch390) |
 | Porto seafood stock-up | Several thousand LL (Chapter 313; exact unstamped) |
 | Iono goat milk (×10) | Exact LL unstamped (Chapter 329). "A lot"; Top Quality path ~**800 LL**/bottle if stamped later |
 | Robin Slugma whole-house heating pipes | Paid Chapter 332 (amount unstamped; whole house + kitchen stove link) |
@@ -87,6 +91,15 @@ Use Stardew ×4 for Stardew tables in this folder (including **forage** in `Fora
 | White pickup truck | **120000 LL** (Chapter 356) |
 | Sunnytown berry warehouse sale | Deposit + balance unstamped (Chapters 356–357) |
 | Apple saplings ×30 / Snorlax Park build | Unstamped (Chapters 357–359) |
+| Wooloo ×6 + Eevee adoption | Unstamped (Chapter 366) |
+| Wool shear stock | Sale path; amount unstamped (Chapter 367) |
+| Scallion seeds | Unstamped (Chapter 369) |
+| Antique shop ancient coins ×28 | Unstamped (Chapter 373) |
+| Home computer | Unstamped (Chapter 373) |
+| Raifort ancient coins ×142 | **4970000 LL** after 30% off (50k each; Chapter 375) |
+| Asado vault / Geeta–Larry ancient coins | Not League LL. Vault **+766** (Ch389); Larry bag (≥100; last 4 used Ch390). Market face still **50k**/coin if bought |
+| Gholdengo Make It Rain coin (ordinary) | D estimates ~**5000 LL** each (~2 nuggets @10k). Day-1 ~100 coins ≈ **500k** flow risk; gift-capped; not ranch ledger (Ch391) |
+| Forum coin buys (to 230 total) | Partly unstamped (Chapters 376+) |
 
 Story sell grades: **normal · silver · gold · top** (not “iridium”). Multipliers vs normal when quality applies: silver ×1.25 · gold ×1.5 · top ×2.
 

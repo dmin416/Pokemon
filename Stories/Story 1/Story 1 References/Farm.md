@@ -1,38 +1,34 @@
 # Farm
 
-**D Ranch** near Porto Marinada. Snapshot **League 299** mid-April / Chapter **360**. Dates: [`Dates.md`](Dates.md); Timeline: [`Timeline.md`](Timeline.md); live: [`Status.md`](Status.md).
+**D Ranch** near Porto Marinada. Snapshot **League ~299-08-23** / Chapter **400**. Dates: [`Dates.md`](Dates.md); Timeline: [`Timeline.md`](Timeline.md); live: [`Status.md`](Status.md).
 
 ## House cluster
 
-- Residence; Cream Workshop; Tavern; Glass Greenhouse
-- Chicken House; Salt House; sheep/goat pens; Pokémon House
-- Slugma heat; kitchen **Berry blender** (Levincia buy Ch354)
-- Farfetch'd dummies; Indeedee room **crib** + Dragonite Egg
-- White **pickup** parked by house
+- Residence; Cream Workshop; Tavern (**Gholdengo** lucky cat); Glass Greenhouse
+- Incubation: **Dragonite Egg** still; Eevee eggs done
+- Trials live; more Gym Leaders expected
+- Treasure Vault (evo stones; Heroic gifts) — Eevee accessed
 
-## Across the river (new)
+## Apple / orchard / berries / scallions
 
-- **7 acres** deeded; stone bridge + fence (wild damage patched Ch355)
-- **Apple Garden**: **30** saplings planted (Elo; Ch357)
-- **Snorlax Park**: slide; seesaw; sandpit; Calyrex-grown ~**8 m** swing tree; Snorlax belly trampoline (Ch359)
-- Mapped unbuilt: Wooloo ranch grassland; Tropius / Sawsbuck plots; leftover kids' park option
+- Apple Garden ripening path prior; Berry Garden harvest + pickup sales
+- Snorlax Park; Wooloo; Scallion / Super Scallions
+- Gracidea bouquet indoors; spring field plan (ranch) + Reversed World sea live
 
-## Back mountain
+## World Tree / Paradise
 
-- Abundant Shrine / cemetery (faith tourism rising; noted next decade)
-
-## World Tree / Reversed World
-
-- Prior nurture path (~7–8 m / **87600** Ch311–312); not restamped this decade
-- Giratina contact prior
+- Reversed World Mature **64054** yrs remaining; monthly Calyrex nurture ~**4000** yrs
+- Gracidea Sky Island (Giratina naps in petals)
+- Explorer Guild / Ascension not yet
 
 ## Current work
 
-- Gluttony Pokeblocks for Snorlax; apple trees grow toward next year
-- Wooloo purchase next; Tropius / Sawsbuck wild hunt planned (Casseroya)
-- Farfetch'd platter spam ongoing
-- Zack milk/veg pickup resumed
+- Eevee Paradise training (Everstone; future evo paths)
+- Dragonite Delivery expand (No.5 + Scar trio)
+- Sea training + **Paldea Seafood Rice (B)**
+- Melmetal / Shaymin long goals; Ruin shrines with Raifort later
+- Autumn fire patrol awareness (Jenny)
 
 ## Watering / growth
 
-- Leaf Cake / Green Grass Cake tenders prior; Calyrex faith after Kitakami + shrine visitors
+- Gogoat / Dragonite / Calyrex nurture; Psyduck harvest help

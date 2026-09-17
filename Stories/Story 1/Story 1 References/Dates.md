@@ -99,18 +99,23 @@ Story calendar uses **League years** (聯盟歷). Main arrival year = **League 2
 | 299-03-28 | 344 | Arrive Driftveil; Breeder Pokeblocks |
 | ~299-04-01 | 345–353 | Clay banquet; vs Lance; depart Unova |
 | 299-04-05 | 354–355 | Levincia gifts; home; Dragonite Egg |
-| 299 mid-April | 356–360 | Pickup; Sunnytown berries / Snorlax; Apple Garden; Alto Mare Heroic |
-| 299 early May | 367 | Month marker |
+| 299 mid-April | 356–365 | Pickup; Snorlax; Apple Garden; World Tree 80010 → Reversed World; Pawmot King; Latias |
+| 299 early May | 366–370 | Wooloo + Eevee; Snorlax Snack; Rayquaza scale; Scallion Garden |
+| 299 May–Jun | 371–375 | Rayquaza picnic; coins −4.97M; forum Winged King |
+| 299-06-23 | 376 | Hot summer; coins 230; Mung Bean Soup; Super Scallions; Jul 20 ruins plan |
+| 299-06-28–29 | 377–380 | Shiny Umbreon; Farfetch'd weapon; Grusha + Iono trials |
 | 299-06-29 | 378 | Day before summer fireworks |
-| 299-07-20 (planned) | 377, 385 | Ruins trip with Raifort |
-| 299 mid-July | 383 | Autumn arrives |
-| 299-07-15 | 385 | Five days to ruins |
-| 299-07-23 | 387 | Two days before ruins |
-| 299-07-25 | 387 | Depart for Cascarrafa |
-| 299-08-10 | 390 | Calendar |
-| 299-08-15 | 394 | Calendar |
-| ~299-08-20 | 395 | Cyclizar 2nd birthday (day not restated; birthday is Aug 20) |
-| 299-08-22 | 397 | Calendar |
+| 299 mid-July | 381–384 | Geeta coins wish; Hassel 7 Eevee Eggs; autumn hills; Coffee to Geeta |
+| 299-07-15 | 385–386 | Elif Scyther→Anna; five days to ruins |
+| 299-07-20 (planned) | 376–385 | Ruins with Raifort (leave Jul 25) |
+| 299-07-23 | 387 | Cyclizar kite training; two days before ruins |
+| 299-07-25 | 387–389 | Cascarrafa → Asado vault; +766 coins → 996 |
+| 299-08-10 | 390 | Larry delivers; Gholdengo born |
+| 299-08-10+ | 391–393 | Larry battle; Gracidea gift run |
+| 299-08-15 | 394 | Eevee Eggs hatch |
+| ~299-08-20 | 395 | Cyclizar 2nd birthday; Flareon/Jolteon/Vaporeon |
+| 299-08-22 | 396–397 | Eevee class; World Tree 64054; Gracidea RW; Seafood Rice B |
+| ~299-08-23 | 398–400 | Dragonite No.5; Scar challenge |
 | 299-09-20 | 401 | Calendar |
 | 299-09-30 | 404 | Harvest / Thanksgiving festival |
 | 299 November | 406 | Early snow |
@@ -138,14 +143,16 @@ Story calendar uses **League years** (聯盟歷). Main arrival year = **League 2
 | 300-04-20 | 446 | World Tree nurture → **19850**; Paradise named (same stretch) |
 | 300-04-24 | 446–447 | Leon arrives; Ancient Trial |
 | 300-04-25 | 447 | Appletun evo; Magma/Aqua forum post |
-| 300-04-28 | 449–450 | Stranger 1 / Steven; Role Model Day / Skiddo |
-| 300-05-02 | 455 | Calendar |
-| 300-05-03 | 457 | Calendar |
-| 300-05-07 | 460 | Calendar |
-| 300-05-12 | 464 | Calendar |
-| 300-05-18 | 468 | Calendar; World Tree ~13 days out |
-| 300-05-22 | 468 | Steven flies to Paldea, 9 AM |
-| 300-06-07 | 470 | Calendar |
+| 300-04-28 | 449–451 | Stranger 1 / Role Model Day; Lono day-visit |
+| 300-05-02 | 455 | Mask materials; Cyclizar Mask |
+| 300-05-03 | 457 | World Tree nurture → **9854** |
+| 300-05-04 | 458 | Game day / 3DS (approx) |
+| 300-05-07 | 460–462 | Leaf Green Ball wake; Ash; Calyrex battle; Comet day 2 |
+| 300-05-08 | 463 | Ash leave; Vigoroth catch; Leaf of Life out (approx) |
+| 300-05-12 | 464 | Softie; photos; Leaf → Forina; Hoenn gods cliff |
+| 300-05-18 | 468 | World Tree ~13 days out |
+| 300-05-22 | 468–469 | Steven visit; Ampharosite; Orbs keep; Hoenn Delivery |
+| 300-06-07 | 470 | World Tree Ascension night |
 | 300-06-30 | 475–476 | Fireworks day |
 | *(gap Jul–Oct 200)* | — | Almost no day stamps until November |
 | 300-11-03 | 477 | Winter |
@@ -291,6 +298,8 @@ Story calendar uses **League years** (聯盟歷). Main arrival year = **League 2
 - **Ch421–430:** Calyrex Pokédex/paper (Galar outrage); **300-02-27** Oak study + Metronome/Judgment + Cynthia; **300-03-01** Oak leaves; Robin World Tree guild; Leafeon/Sylveon/Espeon; Honey Candy C / World Tree Candy A+; Treecko ×3 + Arboliva/Tropius settle; **300-03-07** fishing / Tatsugiri cliff. Build spends unstamped.
 - **Ch431–440:** Fishing champ **52** + medal; Milotic/Tatsugiri×3/Slowpoke; Delivery viral / no cross-region; **300-03-10** Giratina escort; Dragon Island → Land of Dragons; World Tree **27198**; **300-03-15/16** Geeta trainees / Yang Grass #2 / Hidden Trials; **300-03-21** King's Rock → Slowking + Wishiwashi school; Cyclizar bond + **Blessing Soup Noodles (A)**; Horse King → **Spectrier crowned**; Giratina **~5.55M** / **~1.6M LL**.
 - **Ch441–450:** **300-04-01** Lono + Applin; Mewtwo colony; Explorer Guild complete; **300-04-20** Chicken House / Miltank×3 Alcremie×2 / Dondozo×3; World Tree **19850** + named **Paradise**; **300-04-24/25** Leon Ancient Trial + Darkest Day + **Appletun** (Sweet Apple **1000–2000 LL**); Steven Magma/Aqua tip; Driptrip Dragon Service; Gogoat↔Skiddo **Grass Sacred Sword**. Guild/stock LL mostly unstamped.
+- **Ch451–460:** **300-04-28** Lono; Orbs Pickup→return; Sprigatito→Kodong; **Cyclizar Mask**; **Breeding Tree House**; Delivery **>30**; Poffins **~500**/box; **300-05-03** World Tree **9854**; 3DS **~18000**; Absol + leaves; **300-05-07** Leaf Green Ball / Lewis Cyclizar heal / Vigoroth / Jirachi + Ash arrive.
+- **Ch461–470:** **300-05-07** Jirachi wake; Ash vs Calyrex; **~300-05-08** Vigoroth→Ash / Leaf of Life→Forina; **300-05-12** Softie + photos; Hoenn gods wake; **Motorcycle Mask** + Rayquaza; **300-05-22** Steven / Ampharosite / Orbs keep / Hoenn Delivery + Alder; **300-06-07** World Tree **Ascended**.
 
 - **Ch301–310:** Miraidon refused; Flutter Mane home + **caught** (Ch304); **Good Potato** / **Potato Stew (S)** Golden Right Hand (Ch305); Leon Grass Trial pass (Ch307–309); Berry Wines + Alder ask; Geeta Gym Leader plan; **Zapdos** arrives with Teddiursa/Mew (Ch310). **299-02-09** stamped Ch303; no new LL stamp (Leon milk buy unstamped).
 - **Ch311–320:** Fourth Nurture World Tree **87600** / ~7–8 m; Zapdos joins expedition with satchel/balls/milk. Coffee (B-) + Flutter Mane day-shift (**299-02-19**). Antique chest **−15000** + coins **~−100000**. Seafood Stew (C+). Dragonite vs Kyogre then home. Kitakami from **299-02-29**; Ogerpon cave; **Slugma** caught (Ch320). Seafood several thousand LL.
@@ -298,6 +307,10 @@ Story calendar uses **League years** (聯盟歷). Main arrival year = **League 2
 - **Ch331–340:** Garganacl ×5 (Everstone cleared). Slugma heating paid. Land **7 acres −7.7M LL**. Alder/Volcarona heal. Spectrier horse-race champion (**299-03-25**). **Iceroot / Shaderoot Carrot Pokeblock (B)**. Unova banquet / Breeder path set.
 - **Ch341–350:** **Steamed Lobster (A+)** Guardian of the Sea (Cyclizar); **Garlic Steamed Lobster (B+)**. Depart **299-03-26**; Driftveil **299-03-28**. Yu Hui: Sturdy / Nutritious / Poipole Delicacy / Beginner Gluttony. Clay banquet ~**299-04-01**; Nemona; Phone Rotom → Nikar; beat Lance (Dragonite). Cruise/banquet LL unstamped.
 - **Ch351–360:** Nikar R&D; Oak; home **299-04-05**. Gifts + Berry blender. **Dragonite Egg**. Pickup **−120000 LL**. Sunnytown berry sale (unstamped) → catch **Snorlax**. Apple Garden ×30; Snorlax Park. Koraidon paradox resolve. Heroic Alto Mare Latias/Latios cliff.
+- **Ch361–370:** World Tree **80010** / moved to Reversed World; **Sunflower**. Pawmot **King of Hammers** / Gigaton Hammer. Wooloo×6 + Eevee (Sylveon) unstamped. **Snorlax Snack** / Grass / Bug Pokeblocks. Rayquaza **Sky Scale**. Scallion Garden; Farfetch'd stays.
+- **Ch371–380:** Rayquaza picnic; Minior. Coins: +28 then Raifort **142 −4970000 LL**; stock **230/1000** by **299-06-23**. **Mung Bean Soup (C)**. Super Scallions. Eevee → shiny **Umbreon**. Grusha + Iono trial fails. Jul 20 ruins booked.
+- **Ch381–390:** Geeta wish coins + **7 Eevee Eggs** (Hassel). Autumn hills; Elif **Scyther**→Anna. **Jul 25** Asado ruins; fossil kept; vault **+766** → **996**; **Aug 10** Larry → **Gholdengo**. No new LL stamp.
+- **Ch391–400:** Larry vs Gholdengo; Gracidea; **Aug 15** Eevee hatch; Flareon/Jolteon/Vaporeon; Everstones; World Tree **64054**; **Paldea Seafood Rice (B)** + Juice/Soup; Dragonite No.5; Scar+2 challenge. No new LL spend.
 
 
 - **Mid League 300:** After 300-06-30 fireworks, jumps to 300-11-03 (Jul–Oct largely undated).
