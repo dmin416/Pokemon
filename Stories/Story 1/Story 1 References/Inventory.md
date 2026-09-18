@@ -1,29 +1,29 @@
 # Inventory
 
-League **~299-08-23** through Chapter **400** ([`Dates.md`](Dates.md) / [`Timeline.md`](Timeline.md)). Live: [`Status.md`](Status.md).
+League **301** spring through Chapter **500** ([`Dates.md`](Dates.md) / [`Timeline.md`](Timeline.md)). Live: [`Status.md`](Status.md).
 
 ## Money
 
-- Prior: land **−7.7M**; pickup **−120000**; Raifort **−4970000**. No new LL spend Ch391–400
-- Gholdengo coins: gift-only rule; ~**5000 LL**/ordinary coin market guess (not ranch ledger). Larry commemorative coin given away
-- Berry sale / groceries unstamped
-- Life Sheep Milk stock (Scar heal)
+- Bamboo seedlings **−25000 LL** (Ch495)
+- Alola villa **−2000000** (Ch483)
+- Zack ranch pickup e-pay (Ch498; amount unstamped)
+- Poffins/Pokeblocks as legend “tuition” unstamped
 
 ## Possessions
 
-- **Gholdengo** (evolved; tavern lucky cat)
-- **Gracidea** bouquet + Reversed World Gracidea field (seeds planted)
-- Cookbook **300 Recipes** (town buy)
-- Evolution stones: Fire / Thunder / Water used by three males; **Everstones** on remaining four Eevee
-- Intact Asado **fossil**; **Sky Scale**; Cherry Wine prior
-- **Dragonite Egg** still incubating
-- Fishing rod + bucket; Magikarp/Feebas released
-- Prior: white pickup; Berry blender; computer / Winged King
+- **Chi-Yu** + **Wo-Chien** Balls (auspicious after tea); Ting-Lu prior
+- **Happiny** (accidental Ball Ch500; stone lost); **Chien-Pao** KO’d uncaptured
+- **Kubfu** (Friend Ball token planned from Apricorn set)
+- Apricorn Ball display (Love Friend Moon Heavy Fast…)
+- Alola deed; Orbs; Ampharosite; Cyclizar Mask; Greavard
+- Kubfu Grateful Bamboo Shoot **consumed** into stir-fry (Ch499)
+- Softie→Z2; photo gear; Leaf Cake SSS / Viridian
+- Transmission Machines still unbought
 
 ## Companions (shorthand)
 
-Full: [`Status.md`](Status.md). Gholdengo; Flareon/Jolteon/Vaporeon + Glaceon/Umbreon + 4 Everstone Eevee; Dragonite×5 (+Scar trio inbound); Dragonair×4; Koraidon; Calyrex
+Full: [`Status.md`](Status.md). Kubfu; 3 Auspicious Ruin; **Happiny** Ball’d; **Chien-Pao** KO pending Ball; Flying Pikachu watched
 
 ## Livestock
 
-- Hens; Wooloo; Gogoat
+- Ranch hens; World Tree Chicken House + Miltank×3

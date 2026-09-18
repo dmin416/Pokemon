@@ -1,34 +1,34 @@
 # Farm
 
-**D Ranch** near Porto Marinada. Snapshot **League ~299-08-23** / Chapter **400**. Dates: [`Dates.md`](Dates.md); Timeline: [`Timeline.md`](Timeline.md); live: [`Status.md`](Status.md).
+**D Ranch** + **Akala Alola** villa. Snapshot **League 301 spring** / Chapter **500**. Dates: [`Dates.md`](Dates.md); Timeline: [`Timeline.md`](Timeline.md); live: [`Status.md`](Status.md).
 
-## House cluster
+## House cluster (Paldea)
 
-- Residence; Cream Workshop; Tavern (**Gholdengo** lucky cat); Glass Greenhouse
-- Incubation: **Dragonite Egg** still; Eevee eggs done
-- Trials live; more Gym Leaders expected
-- Treasure Vault (evo stones; Heroic gifts) — Eevee accessed
+- Residence; Cream Workshop; Tavern; Glass Greenhouse; Carrot House; guest room
+- Breeding Tree House; stable destroyed; Softie/Z2; Greavard
+- Shop + Delivery Paldea+Hoenn; Trials; photo gear
 
-## Apple / orchard / berries / scallions
+## Fields / new
 
-- Apple Garden ripening path prior; Berry Garden harvest + pickup sales
-- Snorlax Park; Wooloo; Scallion / Super Scallions
-- Gracidea bouquet indoors; spring field plan (ranch) + Reversed World sea live
+- Spring crops prior; **Bamboo Forest** (50 Elo seedlings **−25k**; Gogoat force-grow for Kubfu)
+- Ting-Lu soil bless; Wo-Chien plant nurture / revive withered grass
+- Chi-Yu warmth / auspicious flame bless
 
-## World Tree / Paradise
+## Alola
 
-- Reversed World Mature **64054** yrs remaining; monthly Calyrex nurture ~**4000** yrs
-- Gracidea Sky Island (Giratina naps in petals)
-- Explorer Guild / Ascension not yet
+- Akala villa/ranch owned (**−2M**); winter use later; Transmission Machines unbought
+
+## Paradise
+
+- Mythical Ascended; Kubfu dual-teacher with Kyogre sea + Groudon volcano
+- Legend residents; no-fight rule; Z2 toured prior
 
 ## Current work
 
-- Eevee Paradise training (Everstone; future evo paths)
-- Dragonite Delivery expand (No.5 + Scar trio)
-- Sea training + **Paldea Seafood Rice (B)**
-- Melmetal / Shaymin long goals; Ruin shrines with Raifort later
-- Autumn fire patrol awareness (Jenny)
+- Finish **Chien-Pao** Ball (KO’d Icerend Ch500); Happiny round-treasure / hospital path
+- Flying Pikachu interest (South coast)
+- Orbs secure; dating Lono
 
 ## Watering / growth
 
-- Gogoat / Dragonite / Calyrex nurture; Psyduck harvest help
+- Gogoat Legendary + Calyrex + three Auspicious Ruin plant/soil buffs

@@ -378,7 +378,7 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Rating: S+
 - Tier: S-band Legendary Cuisine
 - Effect: **Thunder God**. Electric-types gain thunder control once (massive bolts on command). Warning: do not eat indoors. Hidden line: Electric moves grow stronger even for non-Electric eaters who already know them
-- Notes: Pawmi ate outside → thunderstrike evolution to **Pawmo** plus Thunderbolt / Thunder Punch / Discharge / Electro Ball / Electric Terrain and flight. Dragonite Thunderbolt and Butterfree Electroweb hit harder after leftovers. Electric exclusive for the main Thunder God line
+- Notes: Pawmi ate outside → thunderstrike evolution to **Pawmo** plus Thunderbolt / Thunder Punch / Discharge / Electro Ball / Electric Terrain and flight. Dragonite Thunderbolt and Butterfree Electroweb hit harder after leftovers. Electric exclusive for the main Thunder God line. **Remade Ch484** from shed Zapdos feather (×5); Zapdos ate one → power surge
 - First made: Chapter 125
 
 ### Cloud Milkshake (B+)
@@ -676,6 +676,24 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Notes: Lake offering opens kindly Giratina visit. Effect wears off mid-planting; Giratina fakes still-reversed kindness
 - First made: Chapter 268
 
+### Reversed Red Tea · Techniques (S)
+
+- Source: red tea + Water of the Reversed World (Chapter 490); Giratina water bucket
+- Rating: S
+- Tier: S-band Reversing the Universe
+- Effect: Reverses Legendary ability / aura / authority
+- Notes: Fed **Ting-Lu** → Power of Auspicious (soil). **Chi-Yu** Ch493 → Auspicious Flames (warmth / prayer luck). **Wo-Chien** Ch498 → plant nurture / abundance (“Little Calyrex”). Path for Chien-Pao
+- First made: Chapter 490
+
+### Stir-fried Preserved Meat with Bamboo Shoots (B)
+
+- Source: Kubfu’s Grateful Bamboo Shoot + ranch cured preserved meat; high-heat stir-fry (Chapter 499)
+- Rating: B
+- Tier: Level 2
+- Effect: **Treasure of the Bear** — panda-types only; satisfaction → **Ethereal State** 5 hr (insight ↑↑↑; memory slight ↓)
+- Notes: Kubfu ate (liked meat more than shoots; not true panda). Also steamed preserved-meat rice for ranch
+- First made: Chapter 499
+
 ### Unfinished Rose Jam
 
 - Source: Moon Dew Rose / greenhouse flower jam jars (Chapter 268)
@@ -728,6 +746,15 @@ Grade → effect power: see `Effects.md` (D− = little/none · C = lv1 · B = l
 - Effect: **Breath of Nature** — Grass moves +25%; crop shorten **significant**; Master of the World Tree unchanged
 - Notes: Rank up via Friendship Berry (+1). World Tree may finish under four years
 - First made: Chapter 288
+
+### Leaf Cake (SSS)
+
+- Source: mature **Tree of Beginning** leaves + eggs + **Life Sheep Milk** + Alcremie cream (Chapter 474); Gogoat-delivered leaves
+- Rating: SSS
+- Tier: SSS-band (first SSS)
+- Effect: **Master of Nature** — Gogoat Grass moves **+100%** permanent (other Grass **50%**; no stack); Gogoat crops mature **≤5 sec** via Grass Energy; other Grass significant shorten; Master of World Tree (D); **Power of Viridian** (D; inheritable; heal + affinity)
+- Notes: Gogoat×3 life tier → Legendary. Fed Gogoat then shared leftover to ranch Grass + Arboliva
+- First made: Chapter 474
 
 ### Green Grass Cake (A+)
 

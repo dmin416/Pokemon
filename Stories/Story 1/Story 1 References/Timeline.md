@@ -392,19 +392,33 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 - **300-05-22 (Ch468–469):** Steven visit 9 AM; Ampharosite; Orbs keep; Life Sheep gift; **Hoenn Delivery** open; Alder endorse.
 
-- **300-06-07 (Ch470):** World Tree **Ascension** night; planetary green pulse; gods stir east.
+- **300-06-07 (Ch470–471):** World Tree **Ascension** → **Mythical**; Rayquaza chat join; Kyogre→Unova track.
 
-- **300-06-30 (Ch475–476):** Fireworks day.
+- **Ch472–473 (June):** Ho-oh + Kyogre + Groudon residents; Groudon Disappearance Mystery; Zygarde Core arrives.
 
-- **Gap Jul–Oct 200:** almost no day stamps.
+- **Ch474–475 (June):** **Leaf Cake SSS**; Gogoat Legendary; Farfetch’d Psyblade; Lewis fireworks end-month.
 
-- **300-11-03 (Ch477):** Winter.
+- **300-06-30 (Ch476):** Porto fireworks; Lono confession.
 
-- **300-11-20 (Ch479):** Calendar.
+- **Gap Jul–Oct 300:** quiet (almost no stamps).
 
-- **300-12-15 (Ch484):** Calendar.
+- **300-11-03 (Ch477):** Winter; soft dating; shop closed.
 
-- **300 NYE → 301 (Ch485–486):** Year turn.
+- **Ch478–479:** Haunted forest → **Greavard**; Ash Slaking / Hoenn 2nd.
+
+- **300-11-20 (Ch479–480):** Primal gods wake; Calyrex 1v2; house rules locked.
+
+- **Late 300 winter (Ch481–483):** NYE supply; Raifort Ruin shrines; Alola Akala villa **−2M LL**.
+
+- **300-12-15 (Ch484):** Heroic + Jirachi return; Lightning Steamed Bun remake; Zapdos Thunder God.
+
+- **Pre-NYE (Ch485):** Lono’s father crushed by Gogoat 6-0.
+
+- **300 NYE → 301 (Ch486):** New Year; spring plant; Zapdos solo; Heroic → Sinnoh.
+
+- **301 spring (Ch487–490):** Apricorn Balls; Zygarde 10% Z2; Ting-Lu catch → Auspicious tea; Chi-Yu bamboo stakes start.
+
+- **301 spring (Ch491–500):** Kubfu join; Chi-Yu + Wo-Chien Auspicious; Bamboo Forest **−25k**; Flying Pikachu; Happiny accidental Ball; Chien-Pao KO pending.
 
 
 
@@ -606,7 +620,7 @@ Master spine: `Reference/Timeline/pokemon-master-timeline.md` uses this file’s
 
 ## Open / undated
 
-- Status/Inventory/Farm live snapshot: **Ch400** (Gholdengo tavern; Eevee Paradise mid; Dragonite No.5; Scar+2 join pending; World Tree **64054**; Seafood Rice B). Summeries filled through Ch400
-- Money: no new LL spend Ch391–400; Gholdengo coin flow capped (not banked)
-- Live: Gracidea RW sea; Everstone Eevee×4; Delivery Dragonite×5+; Melmetal/Shaymin goals
-- Next: Ch401+ Dragon Scale Fragrance / Scar Trainer oath; Harvest Festival path
+- Status/Inventory/Farm live snapshot: **Ch500** (Happiny accidental Ball; Chien-Pao KO pending; 3/4 Auspicious; Kubfu; Bamboo Forest). Summeries filled through Ch500
+- Money: bamboo **−25000**; Alola **−2M**; Zack e-pay unstamped
+- Live: Ting-Lu Chi-Yu Wo-Chien auspicious; Kubfu + Kyogre/Groudon teachers; **Chien-Pao** next Ball
+- Flying Pikachu watched; Happiny caught (stone lost); Friend Ball for Kubfu planned

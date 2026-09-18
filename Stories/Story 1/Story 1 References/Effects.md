@@ -135,8 +135,11 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 | Celebration Stew | No Level | No special Culinary Master effect; taste of happiness. Festival Plaza Thanksgiving Ch. 238 |
 | Red Tea | C | **Refreshing lv1** (bitter wake-up). Polteageist mood swings with tea flavor. Ch. 261 |
 | Reversed Red Tea · Heart | S | **Reversing the Universe** (inner nature reverse). Used to enter Giratina's realm kindly. Ch. 268 |
+| Reversed Red Tea · Techniques | S | **Reversing the Universe** (Legendary ability/aura). Ting-Lu / Chi-Yu / Wo-Chien → Auspicious. Ch. 490–498 |
+| Stir-fried Preserved Meat with Bamboo Shoots | B | **Treasure of the Bear** (panda Ethereal State). Ch. 499 |
 | Leaf Cake (Incomplete Edition) | S- | **Breath of Nature**: Grass moves +20%; slight crop shorten. Master of the World Tree (D). Ch. 282 |
 | Leaf Cake (Incomplete) | S | **Breath of Nature**: Grass moves +25%; significant crop shorten. Friendship Berry upgrade. Ch. 288 |
+| Leaf Cake (SSS) | SSS | **Master of Nature** + **Power of Viridian** (D). Gogoat +100% Grass / ≤5 sec crops. Ch. 474 |
 | Potato Stew | S | **Golden Right Hand**: calm frenzied/angry Pokémon with forehead touch + set phrase. Human eater. Ch. 305 |
 | Dragon Scale Fragrance | S+ | **Dragon Power** (humans only): Dragon affinity + spend power to accelerate Dragon growth. Ch. 401 |
 | Divine Steamed Bun | SS | **Holy Ash** + **Sacred Fire** + **Divine Blessing** (Mew/Teddiursa/Zapdos luck only). Ch. 407 |
@@ -640,6 +643,14 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 
 - Same S-band family as Reversing Mask Heart. Brewed with leftover Reversed Water (Ch. 268). Opens kindly Giratina visit; wears off mid-planting
 
+### Reversing the Universe (Reversed Red Tea · Techniques)
+
+- Same family as Reversing Mask Techniques. Ting-Lu → **Power of Auspicious** (soil/quakes) Ch. 490. Chi-Yu → **Auspicious Flames** (warmth; prayer luck) Ch. 493. Wo-Chien → plant nurture / abundance / revive withered grass Ch. 498
+
+### Treasure of the Bear (Stir-fried Preserved Meat with Bamboo Shoots)
+
+- Tier: Level 2 (B). Panda-types only. Ethereal State 5 hr: insight ↑↑↑; memory slight ↓. Ch. 499
+
 ### Detoxification (Pecha Berry Wine)
 
 - Tier: B-band
@@ -658,7 +669,16 @@ Rough Culinary Master appraisal rules for Story 1. Restaurant food gives no buff
 ### Breath of Nature (Leaf Cake)
 
 - Tier: S- / S
-- Grass-types only; no stack. S-: Grass moves +20%; slight crop-growth shorten. S (Friendship Berry): +25%; **significant** shorten. Extra (D only): Master of the World Tree — may enter all World Tree regions later. Ch. 282 / Ch. 288
+- Grass-types only; no stack. S-: Grass moves +20%; slight crop-growth shorten. S (Friendship Berry): +25%; **significant** shorten. Extra (D only): Master of the World Tree — may enter all World Tree regions later. Ch. 282 / Ch. 288. Superseded for mature leaves by **Master of Nature** (Leaf Cake SSS Ch. 474)
+
+### Master of Nature (Leaf Cake SSS)
+
+- Tier: SSS
+- Gogoat: Grass moves **+100%** permanent; crops in range mature **≤5 sec** with Grass Energy. Other Grass: **50%** move boost; significant crop shorten. D: Master of World Tree + **Power of Viridian** (communicate hearts; affinity; heal; inheritable). Ch. 474
+
+### Power of Viridian (D; Leaf Cake SSS)
+
+- Communicate with Pokémon hearts; affinity ↑; harness nature energy to heal injuries. Inheritable (trigger unclear; D single). Used to understand Greedent Ch. 478. Ch. 474
 
 ### Flower Trick (Green Grass Cake A+)
 

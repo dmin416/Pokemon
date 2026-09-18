@@ -505,7 +505,12 @@ Stardew Valley forage pool → `Stardew/Forage.md`.
 
 - Mythological item; Nature Power; coveted by Grass-types; effects unknown until cooked (Chapter 281)
 - World Tree drops leaves to Gogoat and D after Second Nurture
-- Cooked into Leaf Cake (Chapters 282 / 288)
+- Cooked into Leaf Cake Incomplete (Chapters 282 / 288)
+
+#### Mature Tree of Beginning Leaf
+
+- Gogoat-delivered post-Ascension Chapter 474
+- Cooked **Leaf Cake (SSS)** — Master of Nature / Power of Viridian
 
 #### Friendship Berry
 
@@ -608,4 +613,9 @@ Stardew Valley forage pool → `Stardew/Forage.md`.
 
 - World Tree drops Chapter 459 (Arceus interest off-page)
 - Awakening → cooked **Leaf Green Ball** → **used Ch461** (Jirachi wake). Life leaf → Absol / Forina Ch463–464
+
+#### Kubfu's Grateful Bamboo Shoot
+
+- Gift from wild Kubfu (gratitude for waterfall guidance) Chapter 492
+- Special cooking ingredient → **Stir-fried Preserved Meat with Bamboo Shoots (B)** Ch499. Consumed
 

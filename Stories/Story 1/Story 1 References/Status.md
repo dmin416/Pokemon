@@ -1,50 +1,41 @@
 # Status
 
-Snapshot after **Chapter 400** (League **~299-08-23**; Scar Dragonite KO / join pending). Date basis: [`Dates.md`](Dates.md) / [`Timeline.md`](Timeline.md). Beats: [`../Summeries/Story 1 351-400.md`](../Summeries/Story%201%20351-400.md) Ch391–400.
+Snapshot after **Chapter 500** (League **301** spring; Happiny accidental Ball; Chien-Pao KO uncaptured). Date basis: [`Dates.md`](Dates.md) / [`Timeline.md`](Timeline.md). Beats: [`../Summeries/Story 1 451-500.md`](../Summeries/Story%201%20451-500.md) Ch491–500.
 
 ## D
 
-- Location: **D Ranch**
-- Body: third occupant
-- Mood: Gholdengo settled as tavern lucky cat; Eevee Paradise underway; Scar trio challenge won via Koraidon
-- Cooking recent: **Mushroom Juice (C)**; **Spicy Meat Soup (C+)**; wine tomato / vodka eggplant; **Paldea Seafood Rice (B)**; chicken soup on hatch day
-- Goals: guide unevolved Eevee (Everstone; Leafeon / Espeon / Sylveon / Partner); spring Gracidea / Shaymin; Melmetal Galar trip someday; onboard Scar Delivery dragons; next-summer fishing contest
-- Access: Winged King; Raifort Ruin shrines later; antique shop Gholdengo visit done
+- Location: **D Ranch** / Icerend foothills (Chien-Pao hunt); Paradise drop-offs
+- Body: third occupant; Dragon Power; Power of Viridian
+- Mood: dating Lono; Kubfu family feel; Ruin → auspicious project nearly done
+- Cooking recent: **Stir-fried Preserved Meat with Bamboo Shoots (B)**; Reversed Red Tea · Techniques (Chi-Yu + Wo-Chien)
+- Goals: Ball **Chien-Pao** (KO’d Ch500); Happiny round-treasure / hospital doctor path; Tapu/Z later; hide Mask ID
+- Access: Area Zero; Cyclizar Mask; Alola deed; Friend Ball reserved for Kubfu
 
 ## Money
 
-- Prior drains: land **−7.7M**; pickup **−120000**; Raifort **−4970000**. No new LL spend stamp Ch391–400
-- Gholdengo Make It Rain: ~100 coins day-1 (~**5000 LL**/coin estimate → ~**500k** flow risk); D caps gifts to liked friends only — **not banked** as ranch LL
-- Gracidea bouquet free (florist refused coins)
-- Berry Garden sale haul unstamped
-- Life Sheep Milk **30000**/bottle prior (used on Scar)
+- Bamboo seedlings **−25000 LL** (Ch495 / Elo ×50)
+- Alola villa **−2000000** prior; Zack e-pay unstamped; Poffin tuition unstamped
+- Shop spring; Poffins **~500**/box
 
-## Ranch
+## Ranch / Paradise
 
-- League **299** mid–late August
-- **Gholdengo** tavern lucky cat; coin-gift rule live
-- **Gracidea** bouquet indoors; Reversed World Sky Island Gracidea sea planted
-- World Tree Mature **64054** yrs (~16 mo @ ~4k/mo nurture)
-- Apple Garden / Snorlax Park / Super Scallions prior
-- Dragonite Delivery: Nos **1–5** (+ Scar +2 underlings joining after Ch400 battle)
-- **4 Dragonair** remaining (water moves gained)
+- **Bamboo Forest** planting (Elo seedlings + Gogoat grow)
+- Auspicious trio: **Ting-Lu** (soil) + **Chi-Yu** (flames/luck) + **Wo-Chien** (plant nurture / “Little Calyrex”)
+- **Kubfu** resident; trains w/ **Kyogre** + **Groudon** as teachers
+- Paradise Mythical sky; Z2; Greavard; Gogoat Legendary; Delivery Paldea+Hoenn
+- Icerend: shrine clear; **Chien-Pao** KO pending Ball; **Happiny** accidentally caught; Flying Pikachu observed (South coast)
 
 ## Pokémon — live (high-signal)
 
-- **Gholdengo** (Make It Rain; tavern)
-- Eevee line: Glaceon; Umbreon; **Flareon / Jolteon / Vaporeon**; 4 unevolved on **Everstone** (Leafeon / Espeon / Sylveon / Partner targets)
-- **Dragonite No.5** (sea evo); Delivery roster growing
-- **Scar** Dragonite (+2) — Koraidon win; Life Sheep Milk; work/boss deal (Trainer title refused)
-- Cyclizar 2nd birthday done; kite training prior
-- Koraidon; Calyrex; Melmetal find promise; hills Tinkaton etc. prior
-- Fossil / Sky Scale / Dragonite Egg still incubating
+- Kubfu (Cyclizar trial win); Chi-Yu + Wo-Chien auspicious; Ting-Lu
+- Farfetch’d waterfall cutter; Flying Pikachu (wild self-train; not caught)
+- **Happiny** (accidental Ball; stone lost); Mankey→Primeape rage beat; Chien-Pao KO uncaptured
+- Calyrex guard tea; prior roster
 
 ## Contacts
 
-- **Larry** (lost; commemorative coin; Flying Elite insight); **Raifort** (Gholdengo news; Ruin shrines); antique shop owner
-- Florist (Gracidea); Jenny / Growlithe fire patrol; beach anglers (Fishing Master myth)
-- Geeta / Hassel prior; Elif / Anna prior
+- Lono (seed run); Elo / Bell+Espeon; Raifort; Zack; Lewis; Geeta; Steven
 
 ## Livestock
 
-- Hens; Wooloo; Gogoat nurture
+- Ranch hens; World Tree coop; Miltank×3; Wooloo + Greavard

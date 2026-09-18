@@ -153,12 +153,13 @@ Story calendar uses **League years** (聯盟歷). Main arrival year = **League 2
 | 300-05-18 | 468 | World Tree ~13 days out |
 | 300-05-22 | 468–469 | Steven visit; Ampharosite; Orbs keep; Hoenn Delivery |
 | 300-06-07 | 470 | World Tree Ascension night |
-| 300-06-30 | 475–476 | Fireworks day |
-| *(gap Jul–Oct 200)* | — | Almost no day stamps until November |
-| 300-11-03 | 477 | Winter |
-| 300-11-20 | 479 | Calendar |
-| 300-12-15 | 484 | Calendar |
-| 300 NYE → 301 | 485–486 | Year turn |
+| 300-06-30 | 476 | Porto fireworks; Lono confession |
+| *(gap Jul–Oct 300)* | — | Almost no day stamps until November |
+| 300-11-03 | 477 | Winter; soft dating; shop closed |
+| 300-11-20 | 479–480 | Greavard; Primal gods; Calyrex 1v2 |
+| 300 late winter | 481–483 | NYE supply; Raifort; Alola villa **−2M** |
+| 300-12-15 | 484 | Heroic return; Lightning Steamed Bun |
+| 300 NYE → 301 | 485–486 | Father-in-law trial; New Year; spring plant |
 
 ---
 
@@ -166,7 +167,8 @@ Story calendar uses **League years** (聯盟歷). Main arrival year = **League 2
 
 | Date | Ch | Mention |
 |------|----|---------|
-| 301 February | 487 | Month only |
+| 301 February | 487 | Apricorn Balls; Zygarde 10% (month stamp) |
+| 301 spring | 488–500 | Ting-Lu→Wo-Chien Auspicious; Kubfu; Bamboo **−25k**; Icerend cliff |
 | 301 March | 504 | Month only |
 | 301-03-17 | 508 | Calendar |
 | 301-03-20 | 510 | Poké Ball transporter |
@@ -300,6 +302,9 @@ Story calendar uses **League years** (聯盟歷). Main arrival year = **League 2
 - **Ch441–450:** **300-04-01** Lono + Applin; Mewtwo colony; Explorer Guild complete; **300-04-20** Chicken House / Miltank×3 Alcremie×2 / Dondozo×3; World Tree **19850** + named **Paradise**; **300-04-24/25** Leon Ancient Trial + Darkest Day + **Appletun** (Sweet Apple **1000–2000 LL**); Steven Magma/Aqua tip; Driptrip Dragon Service; Gogoat↔Skiddo **Grass Sacred Sword**. Guild/stock LL mostly unstamped.
 - **Ch451–460:** **300-04-28** Lono; Orbs Pickup→return; Sprigatito→Kodong; **Cyclizar Mask**; **Breeding Tree House**; Delivery **>30**; Poffins **~500**/box; **300-05-03** World Tree **9854**; 3DS **~18000**; Absol + leaves; **300-05-07** Leaf Green Ball / Lewis Cyclizar heal / Vigoroth / Jirachi + Ash arrive.
 - **Ch461–470:** **300-05-07** Jirachi wake; Ash vs Calyrex; **~300-05-08** Vigoroth→Ash / Leaf of Life→Forina; **300-05-12** Softie + photos; Hoenn gods wake; **Motorcycle Mask** + Rayquaza; **300-05-22** Steven / Ampharosite / Orbs keep / Hoenn Delivery + Alder; **300-06-07** World Tree **Ascended**.
+- **Ch471–480:** Rayquaza chat; Ho-oh + Kyogre + Groudon Paradise; Zygarde Core; **Leaf Cake SSS** / Power of Viridian / Gogoat Legendary; Farfetch’d Psyblade; **300-06-30** Lono confession; **300-11-03** winter dating; **Greavard**; Ash Slaking Hoenn 2nd; **300-11-20** Calyrex 1v2 / gods obey.
+- **Ch481–490:** NYE supply; Raifort Ruin shrines; Alola Akala **−2M LL**; **300-12-15** Lightning Steamed Bun / Jirachi home; Lono dad Gogoat 6-0; **300→301** NYE + spring crops; Apricorn Balls; **Z2** 10%; **Ting-Lu** catch → Auspicious tea; Chi-Yu bamboo start.
+- **Ch491–500:** Kubfu waterfall → Cyclizar trial join; **Chi-Yu** + **Wo-Chien** Auspicious tea; Bamboo Forest **−25000**; Kyogre/Groudon teachers; Flying Pikachu; Stir-fry (B); Icerend — **Happiny** accidental Ball; **Chien-Pao** KO uncaptured.
 
 - **Ch301–310:** Miraidon refused; Flutter Mane home + **caught** (Ch304); **Good Potato** / **Potato Stew (S)** Golden Right Hand (Ch305); Leon Grass Trial pass (Ch307–309); Berry Wines + Alder ask; Geeta Gym Leader plan; **Zapdos** arrives with Teddiursa/Mew (Ch310). **299-02-09** stamped Ch303; no new LL stamp (Leon milk buy unstamped).
 - **Ch311–320:** Fourth Nurture World Tree **87600** / ~7–8 m; Zapdos joins expedition with satchel/balls/milk. Coffee (B-) + Flutter Mane day-shift (**299-02-19**). Antique chest **−15000** + coins **~−100000**. Seafood Stew (C+). Dragonite vs Kyogre then home. Kitakami from **299-02-29**; Ogerpon cave; **Slugma** caught (Ch320). Seafood several thousand LL.

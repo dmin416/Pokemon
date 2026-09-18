@@ -78,6 +78,10 @@ Use Stardew ×4 for Stardew tables in this folder (including **forage** in `Fora
 | Nintendo 3DS | **~18000 LL** first unit (Chapter 457); +10 bulk unstamped (Chapter 458) |
 | Joseph Stone cash gift | **2 suitcases** (Chapter 468–469); amount unstamped |
 | Photo printer / camera / album | Bought Chapter 464; amounts unstamped |
+| Alola villa / Transmission Machines | Idea only Chapter 478; **not bought** |
+| Alola Akala ranch villa | **−2000000 LL** (Chapter 483); deed held |
+| Bamboo seedlings ×50 (Elo) | **−25000 LL** (Chapter 495) |
+| Apricorn Ball set | Gift Chapter 487; display (unstamped value) |
 | Poké Balls ×50 (Heroic Expedition) | Shop rate ten for **2000** → ≈**10000 LL** (Chapter 312; satchel + meds extra unstamped) |
 | Empty Paldea kingdom treasure chest | **15000 LL** bargained from 20000 (Chapter 314; Gimmighoul Chest Form) |
 | Ancient Paldea gold coins | ~**50000 LL** each; two bought Chapter 314. **1000** for Gholdengo (done Ch390) |

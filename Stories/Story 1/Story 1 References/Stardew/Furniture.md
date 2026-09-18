@@ -10,7 +10,7 @@ Robin’s Carpenter’s Shop stock (Stardew Valley). Permanent stock every day; 
 
 **Story 1 (Chapter 32–38):** wooden board path with oil-cloth torches. Grass left uncut (lawn).
 
-**Story 1 (through Chapter 470):** countryside cottage; Pokémon Tavern; Cream Workshop; Glass Greenhouse; Carrot House; guest room; **Breeding Tree House**. Horse stable destroyed. Sunny Day Doll. 3DS fleet (~11). Photo printer / camera / album. Trials + Ancient. Softie sill. World Tree **Paradise Ascended** (sky + cloaked **300-06-07**): Guild self-running; Mewtwo colony; Appletun; Land of Dragons. Live **[D Ranch]** shop + Dragonite Delivery (**Paldea + Hoenn**; **>30**).
+**Story 1 (through Chapter 500):** Paldea cottage + **Bamboo Forest** + Akala Alola villa (−2M). Breeding Tree House; Greavard; Softie/Z2; Apricorn display. Paradise Mythical: Rayquaza Ho-oh Groudon Kyogre Mewtwo Giratina; **Kubfu** teachers. Auspicious **Ting-Lu / Chi-Yu / Wo-Chien** (Chien-Pao pending). Delivery Paldea+Hoenn.
 
 
 
